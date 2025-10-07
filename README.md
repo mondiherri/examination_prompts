@@ -22,7 +22,9 @@ Disclaimers:
 This is a personal project based on strictly public data to explore the possibilities offered by modern generative AI tools.
 The ideas and opinions expressed here belong solely to me and do not reflect the views of my employer.
 
-Never share confidential information with a generative AI model! ChatGPT is property of OpenAI, a United States company.
+Never share confidential information with a generative AI model! 
+ChatGPT is property of OpenAI, a United States company.
+Patty is an agent using ChatGPT software and servers.
 
 This project does not contain legal advice! 
 A generative AI agent cannot provide legal advice! It can only generate text simulating advice based on the data it has been trained on!  
