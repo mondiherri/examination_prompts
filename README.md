@@ -15,7 +15,7 @@ At the moment, the RAG sources of Patty are :
 - Enlarged Board of Appeal decision G1/23, https://www.epo.org/en/boards-of-appeal/decisions/g230001ex1
 - Enlarged Board of Appeal decision G1/24, https://www.epo.org/en/boards-of-appeal/decisions/g240001ex1
 
-This work is published under a Creative Commons licence.
+The prompts in this project are published under a Creative Commons licence.
 
 Disclaimers:
 
