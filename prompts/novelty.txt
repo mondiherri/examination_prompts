@@ -1,0 +1,36 @@
+#UserAction: User uploads a pdf or text document, e.g. D1.pdf, against which to assess novelty of the claim.
+
+#PROMPT:
+check if the uploaded document contains machine readable text.
+
+The literal text of claim 1 is:
+
+### paste literal text of claim ###
+
+------------------------------------------------------
+
+#Alternative 1
+assess novelty of claim 1 over D1.pdf.
+-----------------------------------------------------
+
+#Alternative 2
+make a novelty assessment of claim 1 over D1, D1.pdf.
+step by step by step.
+-provide a feature mapping of the literal text of claim 1 features to corresponding text passages or paragraphs of D1.
+-use the following format for feature mapping:
+F1) literal text of feature
+(see D1, passage 1, passage 2;
+explanation of disclosure of D1)
+F2) literal text of feature
+(not disclosed in D1)
+F3) literal text of feature
+(see D1, passage 3; passage 4)
+F4) ...
+
+------------------------------------------
+
+#UserAction: User uploads another pdf or text document, e.g. D2.pdf, against which to assess novelty of the claim.
+
+#PROMPT:
+Do the same for D2.pdf
+
