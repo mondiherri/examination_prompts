@@ -9,7 +9,7 @@ if so:
 
 ## Focus the model on the relevant Guidelines
 
-3. In detail, explain what are the requirements expressed in the following Guidelines regarding clarity of the claims. Do not apply these to the claim features yet.
+2. In detail, explain what are the requirements expressed in the following Guidelines regarding clarity of the claims. Do not apply these to the claim features yet.
 – F-IV, 3.2
 - F-IV, 3.7
 - F-IV, 4.2
@@ -18,4 +18,4 @@ if so:
 
 ## Apply the Guidelines to the claim features
 
-4. how do these principles apply to claim 1?
+3. how do these principles apply to claim 1?
