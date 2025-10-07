@@ -1,0 +1,23 @@
+#UserAction: The user uploads the claims as a pdf or text file.
+
+#Prompts:
+
+## Make the model "understand" the claim features
+me and you are examining case EP12345678. 
+the latest claims are in clms.pdf.
+check if the file contains machine readable text. 
+if so:
+1. Prepare a FFTP-style breakdown of the features of claim 1, presenting the Features, the function(s) they achieve, the technical effect(s) they bring about, and the resulting problem(s) solved thereby.
+
+## Focus the model on the relevant Guidelines
+
+2. In detail, explain what are the requirements expressed in the following Guidelines regarding exceptions to patentability of claim features. Do not apply these to the claim features yet.
+– G-II, 4.2 (Surgery, therapy and diagnostic methods)
+– G-II, 4.2.1 (Limitations of exception)
+– G-II, 4.2.1.1 (Surgery)
+– G-II, 4.2.1.2 (Therapy)
+– G-II, 4.2.1.3 (Diagnostic methods)
+
+## Apply the Guidelines to the claim features
+
+3. how do these principles apply to claim 1?
