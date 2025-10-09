@@ -17,5 +17,7 @@ Prepare a FFTP-style breakdown of the features of claim 1, presenting the Featur
 
 4. please rank these documents by their disclosure compared to claim 1. the more a document discloses of claim 1, the higher the rank
 
+5. do a feature mapping of claim 1 to the relevant disclosure of passages in document Dx.
+
 
 
