@@ -1,0 +1,21 @@
+1. me and you are examining case EP123456789.
+the latest claims are in clms.txt.
+check if the file contains machine readable text. if so:
+
+Prepare a FFTP-style breakdown of the features of claim 1, presenting the Features, the function(s) they achieve, the technical effect(s) they bring about, and the resulting problem(s) solved thereby.
+
+# User upload document
+
+2. assess novelty of claim 1 over this document
+
+# In a loop for a number of documents: One prompt submission per document.
+
+# User upload document
+3. do the same for this document
+
+# end of loop. Time to rank
+
+4. please rank these documents by their disclosure compared to claim 1. the more a document discloses of claim 1, the higher the rank
+
+
+
