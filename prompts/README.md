@@ -8,9 +8,13 @@ Usually it contains:
 * a set of drawing sheets
 
 The content of these parts is regulated by law and should fulfil certain legal criteria defined by law (e.g. EPC), regulations (e.g. Guidelines) or case law.
+
 These documents contain highly specialized subject matter which most often requires a long formal training to understand, such as a scientific Master's degree or PhD.
+
 In order to understand the legal framework, further training is needed on top of the Master or PhD.
+
 Examiners spend many years learning on-the-job at the EPO while Patent Attorneys have to pass the [EQE] (https://en.wikipedia.org/wiki/Representation_before_the_European_Patent_Office#European_qualifying_examination).
+
 The EQE is an a four-parts exam which cumulatively lasts 18,5 hours. Most candidates sit the different parts of the EQE over several years.
 
 ## Analysing a patent document
