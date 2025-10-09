@@ -1,5 +1,5 @@
 # Introduction
-In the [/prompts] (https://github.com/mondiherri/examination_prompts/tree/main/prompts) folder, there is a list of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
+In the [/prompts](https://github.com/mondiherri/examination_prompts/tree/main/prompts) folder, there is a list of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
 
 The prompts in this repository are those that I use with the ChatGPT Agent "[Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty)" that I have configured.
 
