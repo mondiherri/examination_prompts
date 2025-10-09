@@ -1,11 +1,11 @@
 # Introduction
-Under the /prompts directory there is a list of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
+In the [/prompts] (https://github.com/mondiherri/examination_prompts/tree/main/prompts) folder, there is a list of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
 
-The prompts in this repository are those that I use with the ChatGPT Agent "Patty" that I have configured.
+The prompts in this repository are those that I use with the ChatGPT Agent "[Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty)" that I have configured.
 
 Patty is a ChatGPT Agent configured to assisst in different tasks related to patent applications under the European Patent Convention, and following the Guidelines for Examination.
-Patty can be accessed at https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty
-The EPC can be found at https://www.epo.org/en/legal/epc
+- Patty can be accessed at https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty
+- The EPC can be found at https://www.epo.org/en/legal/epc
 
 Patty is an agent relying on retrieval augmented generation (RAG) to generate its replies. If you want to know more about RAG, search the internet for "RAG in AI".
 
