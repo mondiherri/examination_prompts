@@ -23,11 +23,17 @@ The prompts in this repository are an attempt to use the possibilities offered b
 
 Usually the analysis of patent documents involves a number of phases:
 1 Analysing and understanding the technical content (in the sense of [techne](https://en.wikipedia.org/wiki/Techne)) of the patent document (application or publication).
+
 2 Recalling the law, regulations or case law that might apply.
+
 3 Checking if the patent document fulfils applying legal requirements (e.g. clarity, unity of invention, amendments, sufficiency of disclosure, exception or exclusion from patentability)
+
 4 Comparing the content of the patent documents to the available prior art (e.g. for novelty and inventive step) 
+
 5 Forming an opinion, including deciding what are the most important problems that a patent document might have and disregarding minor problems.
+
 6 Consider any previous arguments made by an examiner or applicant and form an opinion on these
+
 7 Drafting a text which reflects this opinion in an understandable manner for anyone who might read it (usually an examiner or the representative of an applicant).
 
 ## GenAI
@@ -40,25 +46,31 @@ The 7 big steps I use when working with LLMs are:
  * upload the claims to the LLM and ask it to summarize (as pdf or txt file)
  * upload the description to the LLM and ask it to summarize (as pdf or txt file)
  * Verify that the response makes sense!
+
 2 Recalling the law
  * One can ask the LLM to do an upfront analysis of salient problems or just remind themselves of the important legal framework for the given case.
  * Retrieval augmented generation is used to "remind" the LLM of the details of the important legal aspects.
  * Verify that the response makes sense!
+
 3 Checking if the claims and description fulfil the legal requirements that apply without regard to the prior art
  * Ask the LLM to apply any case-relevant legal requirements on clarity, sufficiency of disclosure, unity of invention, amendments, exception or exclusion from patentability.
  * Verify that the response makes sense!
  * Ask for arguments supporting the contrary point of view. 
  * Verify that the response makes sense!
+
 4 Comparing the technical content of the claims/description to the available prior art
  * In a loop (not more than 5 times for a given session. If needed start another session as the LLMs might get confused.):
    - upload a prior art document to the LLM and ask it to compare the claim to the prior art document
    - Verify that the comparison makes sense!
+
 5 Ask the LLM to choose a closest prior art and assess novelty and inventive step.
  * Verify that the response makes sense!
+
 6 Ask the LLM to analyse previously made arguments on the case
   * upload the previous arguments (as pdf or txt file)
   * ask the LLM to summarize the arguments and respond
   * Verify that the response makes sense!
+
 7 Ask the LLM to draft a letter containing the result of all of the above
   * Verify that the response makes sense!
 
