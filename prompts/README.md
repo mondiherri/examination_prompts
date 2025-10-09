@@ -54,7 +54,7 @@ The 7 big steps I use when working with LLMs are:
  * Verify that the response makes sense!
 
 4. **Comparing the technical content of the claims/description to the available prior art**
- * In a loop (not more than 5 times for a given session. If needed start another session as the LLMs might get confused.):
+ * In a loop (**not more than 5-6 times for a given session.** If needed start another session as the LLMs might get confused.):
    - upload a prior art document to the LLM and ask it to compare the claim to the prior art document
    - Verify that the comparison makes sense!
 
