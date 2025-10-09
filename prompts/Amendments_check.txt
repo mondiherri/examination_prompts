@@ -1,0 +1,6 @@
+the latest claims are in clms.pdf (or clms.txt).
+the claims as originally filed are in clms_orig.pdf.
+the description as originally filed is in desc.pdf.
+
+
+check if the latest claim 1 has been amended compared to the original claim 1 and determine if the amendments meet the requirements of Article 123(2) EPC as expressed in the relevant Guidelines.
