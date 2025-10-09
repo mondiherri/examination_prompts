@@ -1,5 +1,5 @@
-# examination_prompts
-List of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
+# Introduction
+Under the /prompts directory there is a list of GenAI prompt templates and prompts for reasoning on patent applications according to the European Patent Convention (EPC), and other relevant legal texts under the EPC.
 
 The prompts in this repository are those that I use with the ChatGPT Agent "Patty" that I have configured.
 
