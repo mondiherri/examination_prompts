@@ -9,7 +9,8 @@ Prepare a FFTP-style breakdown of the features of claim 1, presenting the Featur
 2. check if this document contains machine readable text. if so:
  - assess novelty of claim 1 over this document.
 
-# In a loop for a number of documents: One prompt submission per document.
+# In a loop for up to 5 documents: One prompt submission per document.
+## After 5 documents, ChatGPT gets confused. Start new chat with rest of documents
 
 # User upload document
 3. do the same for this document
@@ -20,3 +21,4 @@ Prepare a FFTP-style breakdown of the features of claim 1, presenting the Featur
 
 
 5. do a feature mapping of claim 1 to the relevant disclosure of passages in document Dx.
+
