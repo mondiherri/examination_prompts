@@ -2,7 +2,8 @@ The literal text of claim 1 is:
 
 ### paste literal text of claim ###
 
-make a full inventive step assessment of claim 1 over D1, D1.pdf.
+
+1. make a full inventive step assessment of claim 1 over D1, D1.pdf and D2, D2.pdf.
 
 step by step by step:
 - provide a feature mapping of the literal text of claim 1 features to corresponding text passages or paragraphs of D1.
@@ -17,4 +18,10 @@ F3) ...
 - list again the distinguishing features of claim 1 over D1.
 - explain the technical effects of the distinguishing features.
 - formulate an objective technical problem solved by these features.
+- explain why the distinguishing features solve the objective technical problem
+
+## Check arguments for the contrary conclusion. Use one of these options.
+
+2. Could it be argued that the claim does involve an inventive step?
+2. Could it be argued that the claim does NOT involve an inventive step?
 
