@@ -1,9 +1,18 @@
 ### Compare current claims to previous claims, determine changes and compare for basis in the description
 
-the latest claims are in clms.pdf (or clms.txt).
-the claims as originally filed are in clms_orig.pdf.
-the description as originally filed is in desc.pdf.
+## UserAction: User should upload the documents containing the original claims; the latest claims; the description
 
+## Note: if the user has not provided all of the required documents, ask the user to upload the documents  
 
-check if the latest claim 1 has been amended compared to the original claim 1 and determine if the amendments meet the requirements of Article 123(2) EPC as expressed in the relevant Guidelines.
+## Prompt
 
+- the latest claims on file are in clms.txt.
+- the claims as originally filed are in clms_orig.pdf.
+- the description as originally filed is in desc.pdf.
+
+check if these documents contain machine readable text. 
+if so:
+
+- determine if the amendments meet the requirements of Article 123(2) EPC as expressed in the relevant Guidelines. The original claims and description are the application as originally filed.
+
+--------------------------------------------
