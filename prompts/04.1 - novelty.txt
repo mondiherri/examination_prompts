@@ -8,12 +8,19 @@ The literal text of claim 1 is:
 ### paste literal text of claim ###
 
 ------------------------------------------------------
+# Upload prior art and assess novelty
 
-#Alternative 1
+## UserAction: User uploads a pdf or text document, e.g. D1.pdf, against which to assess novelty of the claim.
+
+## Alternative 1
+
+## Prompt:
 assess novelty of claim 1 over D1.pdf.
 -----------------------------------------------------
 
-#Alternative 2
+# Alternative 2
+
+## Prompt:
 make a novelty assessment of claim 1 over D1, D1.pdf.
 step by step by step.
 -provide a feature mapping of the literal text of claim 1 features to corresponding text passages or paragraphs of D1.
@@ -29,8 +36,8 @@ F4) ...
 
 ------------------------------------------
 
-#UserAction: User uploads another pdf or text document, e.g. D2.pdf, against which to assess novelty of the claim.
+## UserAction: User uploads another pdf or text document, e.g. D2.pdf, against which to assess novelty of the claim.
 
-#PROMPT:
+## PROMPT:
 Do the same for D2.pdf
 
