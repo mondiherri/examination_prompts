@@ -80,12 +80,12 @@ Focus in particular in:
 - for each distinguishing feature, check whether the feature provides a technical effect in the context of the subject matter of claim 1 as a whole.
 - if a feature does not provide a technical effect, explain why.
 
-## Reasses the technical effects of the distinguishing features
+## Reasses the technical effects of the distinguishing features in the light of the description:
 
 10. assess again the distinguishing features in the light of the disclosure of the description. 
 check if the description provides a basis for the technical effects you identified.
 
-## Generate inventive step assessment using features already identified as differences.
+## Generate inventive step assessment using features YOU, the human, already identified as differences.
 
 11.	In summary, in my opinion:
 the subject matter of claim 1 differs from the disclosure of D1 in that:
@@ -95,5 +95,12 @@ U3)
 
 assess inventive step using these features as differences over D1.
 
-12. draft the inventive step assessment into paragraphs that can be included into a communication.
+## Check arguments for the contrary conclusion. Use one of these options.
+
+12. Could it be argued that the claim does involve an inventive step?
+12. Could it be argued that the claim does NOT involve an inventive step?
+
+## Draft:
+
+13. draft the inventive step assessment into paragraphs that can be included into a communication.
 
