@@ -1,5 +1,8 @@
 ### Make the model "understand" the claim features
 
+## UserAction: User should upload a document containing the claims.
+
+## Prompt
 me and you are examining case EP0000001. 
 
 the latest claims are in:
@@ -12,4 +15,4 @@ if so:
 
 ## Note: if the user has not provided any document, ask the user to upload the claims.
 
-
+-----------------------------------------------
