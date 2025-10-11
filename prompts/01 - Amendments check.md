@@ -17,18 +17,16 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
     - the description as originally filed;  
     - the latest claims on file.**  
     **Note: If the user has not provided all of the required documents, ask the user to upload the documents.**
-    **Important: 
-    - The original claims and description define the application as originally filed for the purpose of the assessment of amendments.
-    - First check the original claims for basis of any amendments, then check the description.**
+    **Important: The original claims and description define the application as originally filed for the purpose of the assessment of amendments.**
 
     - the latest claims on file are in clms.txt.  
     - the claims as originally filed are in clms-orig.pdf.  
     - the description as originally filed is in desc.pdf.  
-    Check if these documents contain machine readable text.  
+    1. Check if these documents contain machine readable text. 
     If so:  
-    1. Provide a complete comparison of *all* amendments made to the latest claim 1 as compared to claim 1 as originally filed. Amendments can be made by way of addition, deletion or reordering of features. 
-    2. Indicate if there is a basis in the application as originally filed which directly and unambiguously discloses the identified amendments.
-    3. Determine if the amendments meet the requirements of Article 123(2) EPC as expressed in the relevant Guidelines.
+    2. Provide a complete comparison of *all* amendments made to the latest claim 1 as compared to claim 1 as originally filed. Amendments can be made by addition, deletion or reordering of wording. 
+    3. Indicate if there is a basis in the application as originally filed which directly and unambiguously discloses the identified amendments. First check the claims as originally filed for basis of amendments, then check the description.
+    4. Determine if the amendments meet the requirements of Article 123(2) EPC as expressed in the relevant Guidelines.
     
    
      
@@ -36,6 +34,7 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
       
   
 --------------------------------------------
+
 
 
 
