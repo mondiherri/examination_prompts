@@ -6,9 +6,9 @@ From experience, Patty has sometimes problems with the term *original claims* be
 None!
 This prompt can be used without the *"Starting prompt"* (from *"00 - Starting prompt.md"* in this folder.)
 - **Documents used:**  
-  - clms-orig.pdf file containing the **Claims as originally filed**;  
-  - desc.pdf description containing the **Description as originally filed**;  
-  - clms.txt file containing the **latest claims**.
+  - **clms-orig.pdf** file containing the **Claims as originally filed**;  
+  - **desc.pdf** file containing the **Description as originally filed**;  
+  - **clms.txt** file containing the **latest claims**.
   - If you have the claims as a .pdf or other format, or the original claims and description are part of an A1 publication, change the prompt before submitting!
     
 #### Prompt:  
@@ -34,6 +34,7 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
       
   
 --------------------------------------------
+
 
 
 
