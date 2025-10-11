@@ -2,7 +2,7 @@
 
 Purpose: Make the model "understand" the claim features.
 
-### Prompt   
+### Prompt:   
      **UserAction: User should upload a document containing the claims.**
      **Note: if the user has not provided any document, ask the user to upload the claims.**
 	 
@@ -21,6 +21,7 @@ Purpose: Make the model "understand" the claim features.
 
 
 -----------------------------------------------
+
 
 
 
