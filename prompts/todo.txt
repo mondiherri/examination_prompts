@@ -1,4 +1,4 @@
-Re-format:
+Re-format, using 03.1 as example:
 02.1 - 
 02.2 - 
 03.2 - 
