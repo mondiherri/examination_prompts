@@ -1,6 +1,8 @@
-### User Instructions: This prompt contains multiple ordered steps. Ask the questions in order.
+### Description: This prompt contains multiple ordered steps. Ask the questions in order.
 
 ## UserAction: User should paste the text of claim 1 or upload a document containing the claims.
+
+## Prompt:
 
 1. What are the requirements under the Guidelines regarding clarity of the claims?
 2. Does the following claim text, meet the requirements of the Guidelines regarding clarity ? 
@@ -10,6 +12,12 @@
 
 ## OR
 2. Does claim 1 meet the requirements of the Guidelines regarding clarity ?
+
+## Review the objections raised and check arguments in favor of clarity of the claims:
+
+## Prompt:
+
+3. What could be arguments in favor of clarity of the objected features? 
 
 ---------------------------------------------------
 
