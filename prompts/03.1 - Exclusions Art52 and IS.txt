@@ -4,7 +4,8 @@ me and you are examining case EP123456789.
 the latest claims are in clms.txt.
 check if the file contains machine readable text. 
 if so:
-1. Prepare a FFTP-style breakdown of the features of claim 1, presenting the Features, the function(s) they achieve, the technical effect(s) they bring about, and the resulting problem(s) solved thereby. For a feature many technical effects and corresponding problems are possible. However, we focus only on the claim wording as is when predicting the technical effects and resulting problems, and we view the claim wording in its broadest sense which has meaning to the skilled person in the field. 
+1. Prepare a FFTP-style breakdown of the features of claim 1, presenting the Features, the function(s) they achieve, the technical effect(s) they bring about, and the resulting problem(s) solved thereby. 
+For a feature many technical effects and corresponding problems are possible. However, we focus only on the claim wording as is when predicting the technical effects and resulting problems, and we view the claim wording in its broadest sense which has meaning to the skilled person in the field. 
 
 ## Make the LLM "understand" the claim features in the light of the description.
 
