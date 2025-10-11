@@ -1,6 +1,6 @@
-## Description: Prompt for starting analysis of a set of claims.
+## Prompt for starting analysis of a set of claims.
 
-Make the model "understand" the claim features
+Purpose: Make the model "understand" the claim features.
 
 ### Prompt   
      **UserAction: User should upload a document containing the claims.**
@@ -21,6 +21,7 @@ Make the model "understand" the claim features
 
 
 -----------------------------------------------
+
 
 
 
