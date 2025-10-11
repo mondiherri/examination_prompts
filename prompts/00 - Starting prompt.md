@@ -15,13 +15,14 @@ Make the model *"understand"* the claim features.
 	Check if the file contains machine readable text. 
 	If so:
 	1. Prepare a FFTP-style breakdown of the features of claim 1,  
-	presenting the Features,  
+	presenting in a table, the Features,  
 	the function(s) they achieve,  
 	the technical effect(s) they bring about,  
 	and the resulting problem(s) solved thereby.
 
 
 -----------------------------------------------
+
 
 
 
