@@ -1,0 +1,81 @@
+# Analysing Inventive Step
+- **Description:**  
+This prompt sequence is intended to use [Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty) to inventive step of an independent claim according to the Guidelines.  
+No assessment of technical character is involved by this claim, so do not expect Patty to deal with technical character!
+- **Pre-requirements:**  
+None!  
+This sequence incorporates the *"Starting prompt"*. Skip the Prompt 1. if you have already provided the claims to Patty.
+- **Documents used:**
+  - .pdf or .txt file containing the **Claims** in machine readable form.
+  - .pdf file containing the **Description** in machine readable form.
+  - **At least one prior art** document in .pdf format, for ease of reference name them **D1.pdf**, **D2.pdf**, etc... 
+
+
+#### Prompt 1:  
+The text of the claims is pasted in the textbox.
+    **UserAction: User should paste the text of the claims.**
+    **Note: if the user has not provided any claim text, ask the user to paste the claims in the textbox.**  
+
+    Me and you are examining case EP0000001.  
+    The literal text of claim 1 is:
+    
+    > User, paste literal text of claim!
+
+##### Alternative Prompt 1:
+The claims are provided as document.  
+
+    **UserAction: User should upload a document containing the claims.**
+    **Note: if the user has not provided any document, ask the user to upload the claims.**
+    Me and you are examining case EP0000001. 
+    The latest claims are in:
+    - clms.pdf
+	  - clms.txt
+     
+    Check if the file contains machine readable text. 
+	  If so:
+	  1. Prepare a FFTP-style breakdown of the features of claim 1,  
+	  presenting the Features,  
+    the function(s) they achieve,  
+    the technical effect(s) they bring about,  
+    and the resulting problem(s) solved thereby.
+
+#### Prompt 2: 
+Make a first assessment of inventive step, that you can refine later.  
+
+    **UserAction: User should upload a document containing the prior art.**  
+    **Note: if the user has not provided any document, ask the user to upload the prior art document.**  
+     
+    2. make a full inventive step assessment of claim 1 over the provided prior art documents.
+
+### Review and Reformat the feature mapping
+#### Prompt 3:      
+Reformat the feature mapping! Change the example given below to your style.
+
+    - provide a feature mapping of the literal text of claim 1 features to corresponding text passages or paragraphs of D1, disclosing the corresponding claim features.
+    - use the following format as an example for the feature mapping:
+     *Example*:
+     F1) literal text of feature
+     (see D1, passage 1, passage 2;
+     explanation of disclosure of D1)
+     F2) literal text of feature
+     (not disclosed in D1) **If a feature is not disclosed, indicate it like this**
+     F3) literal text of feature
+     (see D1, passage 3; passage 4)
+     F4) ...
+
+### Refine the inventive step assessment
+#### Prompt 4:  
+    - list again the distinguishing features of claim 1 over the closest prior art you selected.   
+    - explain the technical effects of the distinguishing features.   
+    - formulate an objective technical problem solved by these features.   
+    - explain why the distinguishing features solve the objective technical problem.   
+
+### Review and check for arguments for the contrary conclusion. 
+**Use one of these options.**  
+### Prompt 5:
+    Could it be argued that the claim does involve an inventive step?
+
+    
+#### Alternative prompt 5:
+    Could it be argued that the claim does NOT involve an inventive step?
+
