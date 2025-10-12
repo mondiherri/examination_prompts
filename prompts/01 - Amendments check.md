@@ -9,7 +9,8 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
   - **clms-orig.pdf** file containing the **Claims as originally filed**;  
   - **desc.pdf** file containing the **Description as originally filed**;  
   - **clms.txt** file containing the **latest claims**.
-  - **Note:** If the claims are in a .pdf or other format (.docx), or the original claims and description are part of an **A1** publication, **change the prompt before submitting!**
+  - **Note:**
+    If the claims are in a .pdf or other format (.docx) or the original claims and description are part of an **A1** publication, **change the prompt before submitting!**
     
 #### Prompt:  
     **UserAction: User should upload the documents containing:  
@@ -34,6 +35,7 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
       
   
 --------------------------------------------
+
 
 
 
