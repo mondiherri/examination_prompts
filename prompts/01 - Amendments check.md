@@ -64,7 +64,7 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
 --------------------------------------------
 
 ### Formatting the amendments as HTML diff   
-Some tools accept pasting text in HTML format.
+Some tools accept pasting text in HTML format.  
 The user should open the downloaded HTML and copy the text with the visible amendments as displayed.  
 **If you have a long claim, I strongly recommend using some other tool for comparing literal text, because language models are made for analysing and summarizing text. Patty might change a long text, without the user noticing!**
 
@@ -74,6 +74,7 @@ The user should open the downloaded HTML and copy the text with the visible amen
     Deleted words should be in strikethrough.
     
     2. export the above as a downloadable HMTL.
+
 
 
 
