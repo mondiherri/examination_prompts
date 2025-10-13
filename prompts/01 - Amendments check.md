@@ -11,6 +11,9 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
   - **clms.txt** file containing the **latest claims**.
   - **Note:**  
     If the claims are in a .pdf or other format (.docx) or the original claims and description are part of an **A1** publication, **change the prompt before submitting!**
+- **Caution!**
+  - Properly checking amendments is a task at which Patty might struggle. By design LLMs are based on statistical methods for generating text and are prone to summarization and interpretation of text. However, the requirements under **Article 123(2) EPC** are such that an **uninterpreted literal basis** is often necessary.
+  - In addition to that, ChatGPT (on which Patty is based) uses software to extract text from PDF documents which might assign different paragraph numbers than those displayed when opening the same PDF document in Adobe Acrobat or some other reader. 
 
 ## Only claim 1  
 #### Prompt:
@@ -74,6 +77,7 @@ The user should open the downloaded HTML and copy the text with the visible amen
     Deleted words should be in strikethrough.
     
     2. export the above as a downloadable HMTL.
+
 
 
 
