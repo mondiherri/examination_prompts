@@ -63,6 +63,15 @@ This prompt can be used without the *"Starting prompt"* (from *"00 - Starting pr
   
 --------------------------------------------
 
+### Formatting the amendments as HTML diff   
+
+
+#### Prompt:   
+    Can you display these amendments in a diff format in html, starting from the literal text of claim 1 as originally filed?   
+    Added words should be underlined. 
+    Deleted words should be in strikethrough.   
+    
+
 
 
 
