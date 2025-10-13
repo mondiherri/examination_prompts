@@ -17,17 +17,16 @@ At the moment, the RAG sources of Patty are :
 
 The prompts in this project are published under a Creative Commons licence.
 
-Disclaimers:
+### Disclaimers:   
+This is a personal project based on strictly public data to explore the possibilities offered by modern generative AI tools.  
+The ideas and opinions expressed here belong solely to me and do not reflect the views of my employer.  
 
-This is a personal project based on strictly public data to explore the possibilities offered by modern generative AI tools.
-The ideas and opinions expressed here belong solely to me and do not reflect the views of my employer.
+**Never share confidential information with a generative AI model!**   
+**ChatGPT is property of OpenAI, a United States company.**  
+**Patty is an agent using ChatGPT software and servers.**  
 
-Never share confidential information with a generative AI model! 
-ChatGPT is property of OpenAI, a United States company.
-Patty is an agent using ChatGPT software and servers.
-
-This project does not contain legal advice! 
-A generative AI agent cannot provide legal advice! It can only generate text simulating advice based on the data it has been trained on!  
+**This project does not contain legal advice!**   
+A generative AI agent cannot provide legal advice! It can only generate text simulating advice based on the data it has been trained on!   
 If you want/need legal advice regarding European Patent applications, contact an authorized representative: https://www.epo.org/en/applying/representatives
 
-If you are an authorized representative, check the "epi Gudelines: Use of Generative AI in the Work of Patent Attorneys" from: https://patentepi.org/assets/uploads/documents/miscellaneous/241120_epi-Guidelines_Use-of-AI.pdf
+If you are an authorized representative, check the *"epi Gudelines: Use of Generative AI in the Work of Patent Attorneys"* from: https://patentepi.org/assets/uploads/documents/miscellaneous/241120_epi-Guidelines_Use-of-AI.pdf
