@@ -63,6 +63,10 @@ Make a first assessment of inventive step, that you can refine later.
      
     2. make a full inventive step assessment of claim 1 over the provided prior art documents.
 
+#### Conservative prompt 2:  
+    Assess inventive step  over the prior art.  
+	Be conservative, if an effect is not derivable from the claim features alone, then it is not there.
+
 ### Review and Reformat the feature mapping
 #### Prompt 3:      
 Reformat the feature mapping! Change the example given below to your style.
