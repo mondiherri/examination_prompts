@@ -39,6 +39,22 @@ The claims are provided as document.
     the technical effect(s) they bring about,  
     and the resulting problem(s) solved thereby.
 
+### (Optional) Interpret the claim features in the light of the description:  
+
+#### Prompt 1.1:  
+     **UserAction: User should upload a document containing the description.**  
+	 **Note: if the user has not provided any document, ask the user to upload the description.**   
+	 
+	 The description can be found in :
+	 - desc.pdf 
+	 - a1.pdf, which is the original A1 publication.
+	 
+	 Check if the file contains machine readable text.  
+     If so:  
+	 1.1. Verify if the description provides more details regarding the claimed aspects.
+	 1.2. Reassess the feature breakdown of claim 1 in light of the disclosure of the description corresponding to each individual feature of the claim.
+
+
 #### Prompt 2: 
 Make a first assessment of inventive step, that you can refine later.  
 
