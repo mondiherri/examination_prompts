@@ -1,11 +1,4 @@
-Re-format, using 03.1 as example:
-02.1 - 
-02.2 - 
-03.2 - 
-04.1 - 
-04.2 - 
-05 - 
-
+Add prompts for checking Unity of invention .
 
 Rework:
 README.md
