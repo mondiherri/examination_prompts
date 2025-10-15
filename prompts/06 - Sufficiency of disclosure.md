@@ -44,7 +44,7 @@ Make the model *"understand"* the claim features.
 ### Examine sufficiency of disclosure
 
 #### Prompt 4:  
-    4. For each claimed aspect, explain whether the description discloses the subject matter in sufficient detail for the skilled person being able to carry out the claimed aspect.
+    4. For each claimed aspect, explain whether the description discloses the subject matter in sufficient detail for the skilled person to be able to carry out the claimed aspect.
 
 
 
