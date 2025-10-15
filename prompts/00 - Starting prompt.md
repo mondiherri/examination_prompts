@@ -20,8 +20,12 @@ Make the model *"understand"* the claim features.
 	the technical effect(s) they bring about,  
 	and the resulting problem(s) solved thereby.
 
+### Summarize the claim in plain language:  
 
+#### Prompt:  
+    Summarize the subject matter of the claim in plain language that a person skilled in the art can understand easily.
 -----------------------------------------------
+
 
 
 
