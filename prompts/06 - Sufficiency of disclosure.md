@@ -46,6 +46,8 @@ Make the model *"understand"* the claim features.
 #### Prompt 4:  
     4. For each claimed aspect, explain whether the description discloses the subject matter in sufficient detail for the skilled person to be able to carry out the claimed aspect.
 
+#### Prompt 5:   
+    5. Identify any features which might not be disclosed in sufficient detail for the skilled person to be able to carry them out?
 
 
 
