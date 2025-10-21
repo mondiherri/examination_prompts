@@ -92,10 +92,37 @@ Reformat the feature mapping! Change the example given below to your style.
 
 ### Review and check for arguments for the contrary conclusion. 
 **Use one of these options.**  
-### Prompt 5:
+### Prompt 5:  
     Could it be argued that the claim does involve an inventive step?
 
     
 #### Alternative prompt 5:
-    Could it be argued that the claim does NOT involve an inventive step?
+    Could it be argued that the claim does NOT involve an inventive step?  
 
+	
+### Review arguments  
+### Prompt 6.1:  
+Arguments from the applicant  
+
+    **UserAction: User should upload a document containing the arguments.**
+    **Note: if the user has not provided any document, ask the user to upload the arguments.**    
+    The arguments of the applicant are in the file:  
+	- args.pdf    
+    Check if the file contains machine readable text:  
+    If so:  
+    - summarize each of their arguments on inventive step.  
+    - draft a response to each of their arguments.  
+
+### Prompt 6.2:  
+Assessment from the examiner  
+
+    **UserAction: User should upload a document containing the assessment of the examiner.**  
+    **Note: if the user has not provided any document, ask the user to upload the assessment of the examiner.**    
+    The arguments of the applicant are in the file:  
+	- comm.pdf  
+    Check if the file contains machine readable text:  
+    If so:  
+    - summarize each of their arguments on inventive step.  
+    - draft a response to each of their arguments.  
+
+	
