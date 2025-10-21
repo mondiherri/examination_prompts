@@ -118,7 +118,7 @@ Assessment from the examiner
 
     **UserAction: User should upload a document containing the assessment of the examiner.**  
     **Note: if the user has not provided any document, ask the user to upload the assessment of the examiner.**    
-    The arguments of the applicant are in the file:  
+    The assessment of the examiner is in the file:  
 	- comm.pdf  
     Check if the file contains machine readable text:  
     If so:  
