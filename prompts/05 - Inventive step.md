@@ -1,18 +1,41 @@
 # Analysing Inventive Step
+
+### Simple analysis based on previously determined closest prior art and further document.  
+
+- **Description:**  
+  This prompt is intended to use  [Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty) for cases where the closest prior art and another prior art document have already been identified. Patty is used to analyse the documents and generate the text of the analysis.  
+It has worked in some cases, but the result might not be reliable in other cases. Especially the length of the claim or the lenght of the prior art documents might make the prompt not reliable.
+- **Documents used:**
+  - .pdf or .txt file containing the **Claims** in machine readable form.
+  - **At least one prior art** document in .pdf format, for ease of reference name them **D1.pdf**, **D2.pdf**, etc...
+     
+#### Prompt:
+    **UserAction: User should upload a document containing the claims and at least a document containing the prior art.**  
+    **Note: if the user has not provided the documents, ask the user to upload the claims or the prior art.**
+	
+    You are a european patent examiner examining the case EP00000012. 
+	The latest claims are in clms.txt. 
+	The closest prior art is in D1.pdf. 
+	D2.pdf is a further prior art document. 
+	Step by step: 
+	- Assess novelty of claim 1 over D1.pdf. 
+	- Assess inventive step of claim 1 over a combination of D1.pdf and D2.pdf.
+
+### Complex workflow for assessing inventive step without a priori in-depth knowledge of documents.
 - **Description:**  
 This prompt sequence is intended to use [Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty) to inventive step of an independent claim according to the Guidelines.  
 No assessment of technical character is involved by this claim, so do not expect Patty to deal with technical character!
 - **Pre-requirements:**  
 None!  
-This sequence incorporates the *"Starting prompt"*. Skip the Prompt 1. if you have already provided the claims to Patty.
+This sequence incorporates the *"Starting prompt"*.  
+Skip the Prompt 1. if you have already provided the claims to Patty.
 - **Documents used:**
   - .pdf or .txt file containing the **Claims** in machine readable form.
   - .pdf file containing the **Description** in machine readable form.
   - **At least one prior art** document in .pdf format, for ease of reference name them **D1.pdf**, **D2.pdf**, etc... 
-
-
+	
 #### Prompt 1:  
-The text of the claims is pasted in the textbox.
+The text of the claims is pasted in the textbox by  the user.   
     **UserAction: User should paste the text of the claims.**
     **Note: if the user has not provided any claim text, ask the user to paste the claims in the textbox.**  
 
