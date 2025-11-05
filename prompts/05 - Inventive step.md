@@ -106,7 +106,9 @@ Reformat the feature mapping! Change the example given below to your style.
      (see D1, passage 3; passage 4)
      F4) ...
 
-### Refine the inventive step assessment
+### Refine the inventive step assessment  
+A more condensed format for a **positive** inventive step reasoning.  
+
 #### Prompt 4:  
     - list again the distinguishing features of claim 1 over the closest prior art you selected.   
     - explain the technical effects of the distinguishing features.   
@@ -115,7 +117,7 @@ Reformat the feature mapping! Change the example given below to your style.
 
 ### Review and check for arguments for the contrary conclusion. 
 **Use one of these options.**  
-### Prompt 5:  
+#### Prompt 5:  
     Could it be argued that the claim does involve an inventive step?
 
     
