@@ -10,12 +10,18 @@ Patty is a ChatGPT Agent configured to assisst in different tasks related to pat
 Patty is an agent relying on retrieval augmented generation (RAG) to generate its replies. If you want to know more about RAG, search the internet for "RAG in AI".
 
 At the moment, the RAG sources of Patty are :
-- The Guidelines for Examination, which can be found at https://www.epo.org/en/legal/guidelines
+- The Guidelines for Examination, which can be found at https://www.epo.org/en/legal/guidelines  
+  For LLM retrieval precision and efficiency, I have extracted the text of the Guidelines into a markdown file which can be found in [/legal_basis/guidelines_2025.md](https://github.com/mondiherri/examination_prompts/blob/main/legal_basis/guidelines_2025.md) 
+- EPO-PCT Guidelines from https://www.epo.org/en/legal/guidelines-pct
 - The Case Law book, which can be found at https://www.epo.org/en/legal/case-law
+- For LLM retrieval precision and efficiency, I have extracted and cleaned (removal of page headers) the text of the Case Law pdf into a markdown file which can be found in [/legal_basis/case_law_2025.md](https://github.com/mondiherri/examination_prompts/blob/main/legal_basis/case_law_2025.md)
+- Enlarged Board of Appeal decision G1/19, https://www.epo.org/en/boards-of-appeal/decisions/g190001ex1
 - Enlarged Board of Appeal decision G1/23, https://www.epo.org/en/boards-of-appeal/decisions/g230001ex1
 - Enlarged Board of Appeal decision G1/24, https://www.epo.org/en/boards-of-appeal/decisions/g240001ex1
+  The selection of G decisions is based on my personal needs.
 
-The prompts in this project are published under a Creative Commons licence.
+
+The prompts, documents and code in this project are published under a Creative Commons licence.
 
 ### Disclaimers:   
 This is a personal project based on strictly public data to explore the possibilities offered by modern generative AI tools.  
