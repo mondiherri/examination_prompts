@@ -1,8 +1,6 @@
 epo.org
 ISBN 978-3-89605-389-3 
-Guidelines for  
-Examination in the  
-European Patent Office
+Guidelines for Examination in the  European Patent Office
 April 2025 
   
  
@@ -16,8 +14,7 @@ ISBN 978-3-89605-389-3
 Guidelines for Examination in the 
 European Patent Office 
 April 2025 
-April 2025 
-Guidelines for Examination in the EPO 
+
 List of Contents – a 
 List of Contents 
 General Part 
@@ -45,8 +42,7 @@ Chapter V Communications concerning formal deficiencies; amendment of applicatio
 Chapter VI Publication of application; request for examination and transmission of the dossier to examining division 		VI-1 
 Chapter VII Languages 		VII-1 
 List of Contents – b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Chapter VIII Common provisions 		VIII-1 
 Chapter IX Drawings 		IX-1 
 Chapter X Fees 		X-1 
@@ -74,8 +70,7 @@ Contents
  
 a 
 Chapter I Introduction 		I-1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 List of Contents – c 
 Chapter II Formal requirements to be met before the division starts substantive examination 		II-1 
 Chapter III The first stage of examination 		III-1 
@@ -103,8 +98,7 @@ Chapter IX Costs 		IX-1
 Chapter X Limitation and revocation procedure 		X-1 
  
 List of Contents – d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Part E – Guidelines on General Procedural Matters 
 Contents 
  
@@ -130,8 +124,7 @@ Contents
 a 
 Chapter I Introduction 		I-1 
 Chapter II Content of a European patent application (other than claims) 		II-1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 List of Contents – e 
 Annex 1 Checklist for considering the abstract (see F-II, 2.5) 		II-16 
 Annex 2 Units recognised in international practice as determined by the President under Rule 49(2) (see F-II, 4.13) 		II-17 
@@ -159,8 +152,7 @@ a
 Chapter I The right to amend 		I-1 
 Chapter II Admissibility of amendments – general rules 		II-1 
 List of Contents – f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Chapter III Admissibility of amendments – other procedural matters 		III-1 
 Chapter IV Allowability of amendments 		IV-1 
 Chapter V Allowability of amendments – examples 		V-1 
@@ -174,8 +166,7 @@ List of sections amended in 2025 revision 		1
  
  
 General Part 
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – Contents – a 
 Contents 
 1. Preliminary remarks 		1 
@@ -189,8 +180,7 @@ Contents
 7. Extension to and validation in states not party to the EPC 		9 
 8. Unitary Patent protection 		9 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – 1 
 
 ### 1. Preliminary remarks 
@@ -243,8 +233,7 @@ Part H: Amendments and Corrections
 Part A deals with the procedures for formalities examination mainly with 
 regard to grant proceedings. Part B deals with search matters. Part C and 
 General Part – 2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Part D relate to procedures to be followed in examination and opposition 
 proceedings, respectively. 
 Part E deals with general procedural matters relevant to several or all of the 
@@ -292,8 +281,7 @@ Marginal references to articles and rules without further identification
 indicate the Articles or Rules of the European Patent Convention as the 
 legal basis for what is stated in the text. It is believed that such references 
 avoid the need for extensive quotation from the EPC itself. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – 3 
 Any references to persons made in the Guidelines are to be understood as 
 being gender-neutral. 
@@ -398,8 +386,7 @@ website. In respect of international applications filed under the PCT that are
 subject to proceedings before the EPO, the provisions of the PCT and its 
 Regulations apply, supplemented by the EPC. In case of conflict the 
 provisions of the PCT prevail (Art. 150(2) EPC). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – 5 
 The present Guidelines are addressed primarily to examiners and 
 formalities officers of the EPO, but are also intended to serve the parties to 
@@ -447,8 +434,7 @@ followed by the section number (e.g. PCT-EPO Guidelines B-XI, 3.3).
 These Guidelines also do not deal with proceedings relating to Unitary 
 Patent protection (Regulations (EU) No 1257/2012 and 1260/2012, 
 General Part – 6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 OJ EPO 2013, 111 and 132) other than those aspects arising during the 
 European patent grant procedure (see C-IV, 7.2) or, for example, for 
 requesting unitary effect for the granted patent (see C-V, 2.1). All other 
@@ -496,8 +482,7 @@ of filing can be accorded to the application;
 (iii) 
 the Receiving Section carries out the formal examination of the 
 application; 
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – 7 
 (iv) 
 if the Receiving Section has established that the application complies 
@@ -549,8 +534,7 @@ appealable and, thus, subject to review before a board of appeal of the
 EPO. With the exception of important aspects relating to interlocutory 
 revision, the appeals procedure is not dealt with in these Guidelines. 
 General Part – 8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 6. Contracting states to the EPC 
 
@@ -604,8 +588,7 @@ epo.org/en/about-us/foundation/member-states).
 2 The EPC applies to the territory of the French Republic, including the overseas territories. 
 3 The EPC is also applicable to Sint Maarten, Curaçao, Bonaire, Sint Eustatius and Saba, but not to Aruba. 
 4 The EPC is also applicable to the Isle of Man. For further information on the registration of European patents (UK) in crown dependencies, UK overseas territories and Commonwealth countries, see OJ EPO 2018, A97. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 General Part – 9 
 
 ### 7. Extension to and validation in states not party to the EPC 
@@ -632,8 +615,7 @@ Part A
  
 Guidelines for Formalities 
 Examination 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents a 
 Contents 
 Chapter I – Introduction 		I-1 
@@ -664,8 +646,7 @@ Chapter II – Filing of applications and examination on filing 		II-1
 4.1.2 Information concerning the applicant 		II-6 
 4.1.3 Description 		II-7 
 Part A – Chapter b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 4.1.3.1 Reference to a previously filed application 		II-7 
 4.1.4 Deficiencies 		II-8 
 4.1.5 Date of filing 		II-10 
@@ -691,8 +672,7 @@ April 2025
 6.5 Withdrawal of correct application documents or parts 		II-17 
 6.6 Same-day corrections 		II-18 
 6.7 Correct application documents or parts filed after the search has started 		II-18 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents c 
 6.8 Additional fee for pages 		II-18 
 6.9 Claims fee 		II-18 
@@ -723,8 +703,7 @@ Chapter III – Examination of formal requirements 		III-1
 5.5 Incorrect designation 		III-7 
 5.6 Changing the order of inventors 		III-7 
 Part A – Chapter d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 6. Claim to priority (see also F-VI) 		III-7 
 6.1 General remarks 		III-7 
 6.2 Applications giving rise to a right of priority 		III-9 
@@ -756,8 +735,7 @@ April 2025
 8.1 Morality or "ordre public" 		III-21 
 8.2 Disparaging statements 		III-21 
 9. Claims fee 		III-21 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents e 
 10. Abstract 		III-23 
 10.1 General remark 		III-23 
@@ -791,8 +769,7 @@ Content of the abstract 		III-23
 13. Filing and search fees 		III-32 
 13.1 Payment of fees 		III-32 
 Part A – Chapter f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 13.2 Additional fee (if application documents comprise more than 35 pages) 		III-32 
 13.3 Additional fee for divisional applications 		III-37 
 14. Translation of the application 		III-37 
@@ -825,8 +802,7 @@ Chapter IV – Special provisions 		IV-1
 1.6 Authorisations 		IV-10 
 1.7 Other formalities examination 		IV-10 
 1.8 Search, publication and request for examination of divisional applications 		IV-10 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents g 
 
 2. Art. 61 applications and stay of proceedings under Rule 14 		IV-11 
@@ -858,8 +834,7 @@ Part A – Contents g
 5.1 Sequence information filed under Rule 56 		IV-21 
 5.2 Sequence information filed under Rule 56a 		IV-23 
 Part A – Chapter h 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 5.3 Sequence listings of an application filed by reference to a previously filed application 		IV-23 
 5.4 Sequence listings of a divisional application 		IV-24 
 6. Conversion into a national application 		IV-25 
@@ -883,8 +858,7 @@ Chapter VI – Publication of application; request for examination and transmiss
 2.4 Transmission of the dossier to the examining division		VI-5 
 2.5 Refund of examination fee 		VI-6 
 2.6 Reduction in examination fee 		VI-7 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents i 
 3. Response to the search opinion 		VI-7 
 Chapter VII – Languages 		VII-1 
@@ -912,8 +886,7 @@ Chapter VIII – Common provisions 		VIII-1
 1.3 Representation by a legal practitioner 		VIII-2 
 1.4 Representation by an employee 		VIII-2 
 Part A – Chapter j 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 1.5 Common representative 		VIII-2 
 1.6 Signed authorisation 		VIII-3 
 1.7 General authorisation 		VIII-4 
@@ -938,8 +911,7 @@ Chapter IX – Drawings 		IX-1
 2.1 Grouping of drawings 		IX-1 
 2.2 Reproducibility of drawings 		IX-1 
 2.3 Figure accompanying the abstract 		IX-2 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents k 
 3. Conditions if drawings are filed on paper 		IX-2 
 4. Presentation of the sheets of drawings 		IX-2 
@@ -974,8 +946,7 @@ Chemical and mathematical formulae 		IX-8
 11.2.1 Tables in the description 		IX-9 
 11.2.2 Tables in the claims 		IX-9 
 Part A – Chapter l 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Chapter X – Fees 		X-1 
 1. General 		X-1 
 2. Methods of payment 		X-1 
@@ -1009,8 +980,7 @@ Chapter X – Fees 		X-1
 6.2.3 Debit orders filed with a competent national authority 		X-13 
 6.2.4 Amount of fee payable 		X-13 
 6.2.5 Noting of loss of rights 		X-13 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents m 
 7. Purpose of payment 		X-13 
 7.1 General 		X-13 
@@ -1045,8 +1015,7 @@ Part A – Contents m
 10.2.1 Refund of the search fee 		X-23 
 10.2.2 Refund of the further search fee 		X-24 
 Part A – Chapter n 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 10.2.3 Refund of the examination fee 		X-24 
 10.2.4 Refund under Rule 37(2) 		X-24 
 10.2.5 Refund of the fee for grant and publishing 		X-24 
@@ -1073,16 +1042,21 @@ Chapter XI – Inspection of files; communication of information contained in fi
 3. Communication of information contained in the files 		XI-4 
 4. Consultation of the European Patent Register 		XI-5 
 5. Issue of certified copies 		XI-5 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Contents o 
 5.1 Certified copies of documents from the files or of other documents 		XI-5 
 5.2 Priority documents issued by the EPO 		XI-5 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter I-1 
-Chapter I – Introduction 1. Overview Part A of the Guidelines deals with: 
+## Chapter I – Introduction 
+
+ 
+
+### 1. Overview 
+
+Part A of the Guidelines deals with: 
+
 (i) 
 the requirements and procedures to be followed in the various 
 aspects of the formalities examination of European patent 
@@ -1129,10 +1103,12 @@ Guidelines. They will need to refer frequently to the other parts and in
 particular Part E, where appropriate. 
 Rule 10 
 Rule 11(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-1 
-Chapter II – Filing of applications and examination on filing 1. Where and how applications may be filed 
+## Chapter II – Filing of applications and examination on filing  
+
+### 1. Where and how applications may be filed 
+
 European patent applications must be filed in writing. They may be filed by 
 means of electronic communication (see A-II, 1.1) or by delivery by hand or 
 by postal services (see A-II, 1.2). 
@@ -1183,8 +1159,7 @@ documents, OJ EPO 2024, A41, and the corresponding notice from the
 Rule 1 
 Rule 2(1) 
 Part A – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 EPO dated 22 April 2024, OJ EPO 2024, A42). However, applications may 
 still be filed by fax with the competent national authorities of contracting 
 states that permit this. For further details, see the latest version of the 
@@ -1242,8 +1217,7 @@ Art. 75(1)
 Rule 35(1) 
 Point 7.1.2 ADA 
 Point 12.1 ADA 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-3 
 OJ EPO 2024, and the decision of the President of the EPO dated 
 25 September 2024, OJ EPO 2024, A81). Paper Form 1020 is not 
@@ -1296,8 +1270,7 @@ Rule 37(2)
 Art. 135(1)(a) 
 Rule 134(2) 
 Part A – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 1.7.2 Applications filed on or after 1 January 2002 
 
@@ -1355,8 +1328,7 @@ Art. 59
 Art. 118 
 Art. 61(1) 
 Rule 35(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-5 
 information supplied (see Art. 11 of the decision of the President of the 
 EPO dated 16 October 2024, OJ EPO 2024, A88). 
@@ -1418,8 +1390,7 @@ Rule 10(1)
 Rule 40(1)(a) 
 Rule 40(1)(b) 
 Part A – Chapter II-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (c) 
 a description or reference to a single previously filed application. 
 It is not necessary for the applicant to provide any claims to obtain a date of 
@@ -1470,8 +1441,7 @@ a PO box number
 a phone number. 
 Rule 40(1)(c) 
 Rule 1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-7 
 If the information supplied is sufficient to establish a date of filing but not for 
 the EPO to establish whether or not the applicant requires a representative 
@@ -1525,8 +1495,7 @@ Rule 40(2)
 Rule 40(3) 
 Rule 53(2) 
 Part A – Chapter II-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Where the previously filed application referenced is the claimed priority 
 application, only one certified copy needs to be filed to satisfy the 
 requirements relating to both the filing date (Rule 40(3)) and the priority 
@@ -1587,8 +1556,7 @@ Art. 90(1) and
 (2) 
 Rule 55 
 Rule 112(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-9 
 either of which prevents the application being accorded a date of filing, it 
 communicates this to the applicants and invites them to remedy the 
@@ -1636,8 +1604,7 @@ not already available to the EPO (see A-II, 4.1.3.1), then a communication
 according to Rule 55 will be sent to the applicant requesting that the 
 certified copy be filed within a non-extendable period of two months. If the 
 Part A – Chapter II-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 applicant does not provide the certified copy in due time, the application is 
 not treated as a European patent application. Where a translation of the 
 application is required but is not provided within the above time limit, the 
@@ -1697,8 +1664,7 @@ Rule 56(4)(a)
 Rule 56a(1) 
 Rule 56(2) 
 Rule 56(4)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-11 
 deleted. If the applicant is invited by the EPO to file the missing parts, the 
 period under Rule 56(1) takes precedence (see A-II, 5.1). 
@@ -1757,8 +1723,7 @@ Rule 56(3)
 Rule 56(3)(a) 
 Rule 56(3)(b) 
 Part A – Chapter II-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (vii) 
 the applicant indicates where in the priority application and, if 
 applicable, where in its translation, the late-filed missing parts of the 
@@ -1811,8 +1776,7 @@ Rule 56(3)(c)
 Rule 56(2) 
 Rule 56(5) 
 Rule 40(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-13 
 applicant according to Rule 56(3)(c) contain the same drawings with the 
 same annotations or, for late-filed parts of the description, contain the same 
@@ -1865,8 +1829,7 @@ of the priority application identified by the applicant according to
 Rule 56(3)(c). 
 Rule 56a 
 Part A – Chapter II-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 The entire priority application does not need to be translated, since this 
 translation is required to satisfy the "completely contained" requirement of 
 Rule 56(3), not the translation requirement of Rule 56(3)(b). 
@@ -1915,8 +1878,7 @@ For the calculation of the additional fee for pages in excess of 35 ("page
 fee"), see A-III, 13.2. 
 Rule 56(2) and (4) 
 Rule 56(2), (4) and (5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-15 
 
 ### 6. Correction of erroneously filed application documents or parts 
@@ -1974,8 +1936,7 @@ Rule 56a(5)
 Rule 56a(3) 
 Rule 135(2) 
 Part A – Chapter II-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Erroneously filed application documents remain in the file, even if they are 
 considered not part of the application as filed. As such, following publication 
 of the application, the erroneous application documents or parts are open 
@@ -2028,8 +1989,7 @@ documents or parts is deemed not to have occurred. In this case, the date
 of filing does not change and the erroneously filed application documents or 
 Rule 56a(4) 
 Rule 56a(5)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter II-17 
 parts remain in the application. The EPO will inform the applicant of this in 
 accordance with Rule 56a(5). 
@@ -2085,8 +2045,7 @@ Rule 56a(6)
 Rule 56a(4) 
 Rule 56a(7) 
 Part A – Chapter II-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 6.6 Same-day corrections 
 
@@ -2123,10 +2082,11 @@ Rule 56a(2)
 Rule 56a(8) 
 Rule 112(1) 
 Rule 135(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-1 
-Chapter III – Examination of formal requirements 1. General 
+## Chapter III – Examination of formal requirements  
+
+### 1. General 
 
 #### 1.1 Formal requirements 
 
@@ -2184,8 +2144,7 @@ Rule 25
 Rule 31 
 Rule 30 
 Part A – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 The requirements listed above and the procedure to be followed when they 
 are not met are considered in the following sections. 
 
@@ -2264,8 +2223,7 @@ Art. 133(2)
 Art. 133(3) 
 Rule 152 
 Art. 90(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-3 
 President of the EPO dated 25 November 2022 (see also the notice from 
 the EPO dated 25 November 2022, OJ EPO 2022, A114, point 8, and 
@@ -2321,8 +2279,7 @@ Rule 50(1) and
 (2) 
 Rule 86 
 Part A – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 3.2.2 Physical requirements of late-filed application documents or 
 
@@ -2386,8 +2343,7 @@ made with the EPO Contingency Upload Service, the latest version of the
 form. 
 Rule 50(2) 
 Rule 41(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-5 
 
 #### 4.2 Examination of the request for grant form 
@@ -2451,8 +2407,7 @@ Art. 81
 Rule 19 
 Rule 41(2)(j) 
 Part A – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Where that is not the case, the designation must be effected on the request 
 for grant form (EPO Form 1001) by selecting the appropriate box in 
 section 22. Where the designation is effected on a separate document, a 
@@ -2514,8 +2469,7 @@ Art. 90(3) to (5)
 Art. 93(1) 
 Rule 60(1) 
 Art. 121 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-7 
 prescribed under Rule 60(1), i.e. within 16 months of the date of filing or, if 
 priority is claimed, of the priority date. This time limit is deemed met if the 
@@ -2576,8 +2530,7 @@ Rule 21(2)
 Art. 87(1), (2) 
 and (5) 
 Part A – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (iv) 
 the European patent application concerns the same invention as the 
 invention disclosed in the previous application (see also A-III, 6.4 and 
@@ -2624,8 +2577,7 @@ Accordingly, where a priority claim relates to an application filed on the
 same day as the European patent application, it will be disregarded (see, 
 however, also A-III, 6.6). 
 Art. 87(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-9 
 
 #### 6.2 Applications giving rise to a right of priority 
@@ -2685,8 +2637,7 @@ Art. 87(1)
 Art. 87(5) 
 Art. 88(2) 
 Part A – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 6.5 Declaration of priority 
 
@@ -2744,8 +2695,7 @@ Rule 41(2)(g)
 Art. 90(4) 
 Rule 52(2) 
 Rule 52(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-11 
 However, this time limit cannot expire earlier than four months after the 
 date of filing. Thus, if the originally claimed priority date is incorrect and 
@@ -2791,8 +2741,7 @@ Art. 90(4) and
 Art. 90(4) and (5) 
 Rule 59 
 Part A – Chapter III-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 6.6 Priority period 
 
@@ -2854,8 +2803,7 @@ Rule 136
 Rule 53(1) 
 Art. 88(2) 
 Art. 90(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-13 
 The copy and the date of filing of the previous application must be certified 
 as correct by the authority with which the previous application was filed. 
@@ -2909,8 +2857,7 @@ the translation or declaration under Rule 53(3) (see A-III, 6.8).
 Rule 53(1) 
 Rule 53(2) 
 Part A – Chapter III-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Where the applicant has already supplied a copy of the priority document in 
 connection with a request to base late-filed parts of the description or 
 drawings on the claimed priority under Rule 56 (see A-II, 5.4(v)) or to base 
@@ -2964,8 +2911,7 @@ Art. 90(4) and
 Rule 59 
 Art. 88(1) 
 Rule 53(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-15 
 In this case the time limit for providing the translation is the same as 
 for filing the confirmation of the request for examination according to 
@@ -3017,8 +2963,7 @@ In examination and opposition proceedings, where the applicant or
 proprietor has been invited to provide the translation, no summons to oral 
 Rule 132(2) 
 Part A – Chapter III-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 proceedings will be sent until either the translation is provided or (in 
 examination proceedings) the period for further processing in respect of the 
 time limit according to Rule 53(3) has expired, whichever is the earlier. 
@@ -3080,8 +3025,7 @@ Alternatively, a declaration that the European patent application is a
 complete translation of the previous application may be submitted within 
 those same time limits (see also F-VI, 3.4 and D-VII, 2). The declaration 
 may also be made by selecting the appropriate box on the request for grant 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-17 
 form (EPO Form 1001). This declaration is only valid if the text of the 
 European patent application as filed is an exact translation of the previous 
@@ -3135,8 +3079,7 @@ giving rise to a priority right (see A-III, 6.1) or
 Art. 87(1) 
 Art. 87(1) 
 Part A – Chapter III-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (iii) 
 the previous application does not give rise to a priority right in respect 
 of the state, WTO member or industrial property authority in or for 
@@ -3199,8 +3142,7 @@ Art. 90(4) and
 Rule 53(3) 
 Rule 112(1) 
 Rule 141(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-19 
 provided 
 (see 
@@ -3270,8 +3212,7 @@ Switzerland (see the decision of the President of the EPO dated
 4 June 2019, OJ EPO 2019, A55) 
 Rule 141(2) 
 Part A – Chapter III-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 – 
 United Kingdom (see the decision of the President of the EPO dated 
 9 December 2010, OJ EPO 2011, 62) 
@@ -3334,8 +3275,7 @@ division, is notified by the communication announcing the forthcoming
 publication. 
 Rule 41(2)(b) 
 Rule 41(2)(b) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-21 
 The title of the invention is published and entered in the European Patent 
 Register (Rule 143(1)(c)) in capital letters. 
@@ -3405,8 +3345,7 @@ Rule 37(2)
 Art. 2(1), item 15, 
 RFees 
 Part A – Chapter III-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (see J 8/84). The claims fees must be paid within one month of filing the 
 claims. 
 Where correct claims are filed under Rule 56a(3) or (4) (see A-II, 6), the 
@@ -3453,8 +3392,7 @@ has, within two months of the filing date (Rule 40(3)), filed the copy of the
 previously filed application, since it is only at this point that the EPO will 
 know how many claims there are and consequently how many claims fees, 
 if any, are due. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-23 
 Features of a claim deemed abandoned under Rule 45(3) and not 
 otherwise to be found in the description or drawings cannot subsequently 
@@ -3519,8 +3457,7 @@ Rule 66
 Rule 47(4) 
 Art. 79(1) 
 Part A – Chapter III-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 11.2 European patent applications filed on or after 1 April 2009 
 
@@ -3589,8 +3526,7 @@ Rule 39(1)
 Art. 2(1), item 3, 
 RFees 
 Rule 39(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-25 
 
 ### 11.2.4 Withdrawal of designation 
@@ -3650,8 +3586,7 @@ Rule 160
 Art. 153(2) 
 Rule 160(3) 
 Part A – Chapter III-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 filed and Euro-PCT applications entering the European phase before 
 1 April 2009. 
 
@@ -3719,8 +3654,7 @@ in force until
 31 March 2009 
 Art. 6(2), 1st 
 sentence, RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-27 
 
 ### 11.3.4 Application deemed withdrawn 
@@ -3781,8 +3715,7 @@ Art. 2(2), item 3,
 RFees 
 Art. 6(1) RFees 
 Part A – Chapter III-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the request for grant form or where the designation in question was 
 withdrawn. 
 For applicants taking part in the automatic debiting procedure, see also 
@@ -3852,8 +3785,7 @@ and (4), in force until
 31 March 2009 
 Rule 15 
 Rule 159(1)(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-29 
 Under Rule 160(2), the designation of a contracting state for which no 
 designation fee has been paid in time is deemed withdrawn. According to 
@@ -3933,8 +3865,7 @@ Rule 160, in force
 until 31 March 2009 
 Art. 153(2) 
 Part A – Chapter III-30 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Extension and validation agreements are bilateral international treaties 
 concluded between the European Patent Organisation and an individual 
 state. Within the territory of that state, the effects of a European patent 
@@ -3983,8 +3914,7 @@ for Euro-PCT applications within the period for performing the acts
 required for an international application's entry into the European 
 phase or within six months of the date of publication of the 
 international search report, whichever is the later. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-31 
 If the fee for an extension or validation state has not been paid within the 
 corresponding basic period (see items (i) and (ii) above), the applicant can 
@@ -4033,8 +3963,7 @@ Extension and validation states publish in their national register the relevant
 data relating to European patent applications and patents extending to their 
 territory. 
 Part A – Chapter III-32 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 13. Filing and search fees 
 
@@ -4099,8 +4028,7 @@ Rule 38(2) and
 Art. 2(1), item 1a, 
 RFees 
 Rule 49 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-33 
 EP-direct applications 
 An additional fee is payable as part of the filing fee for European patent 
@@ -4152,8 +4080,7 @@ or after 1 April 2009, the additional fee is payable as part of the filing fee
 within the 31-month period of Rule 159(1). For fee reductions under the 
 scheme for micro-entities, see A-X, 9.4.1 and 9.4.2. In general, the 
 Part A – Chapter III-34 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 additional fee is calculated on the basis of the international application as 
 published, regardless of the language of publication. The pages of the 
 description, claims and drawings are counted, as well as one page for the 
@@ -4197,8 +4124,7 @@ description and drawings as published in Chinese plus the entire set
 of claims as amended in the EPO language. If the claims are not 
 amended, the additional fee is based on the claims as published in 
 Chinese. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-35 
 If the applicant explicitly states that application documents filed on 
 entry into the European phase have merely been reformatted (to 
@@ -4262,8 +4188,7 @@ dated
 14 June 2020, 
 OJ EPO 2020, A81). 
 Part A – Chapter III-36 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Example 1: 
 International application, published in English, containing 100 pages: 
 Abstract 
@@ -4324,8 +4249,7 @@ EPO Form 1200.
 drawings in ZH) + 47 (EN translation of description - 3) + 3 (amended 
 description of the translation) - 35 (fee-exempt) 
 -> number of pages to be paid for: 50 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-37 
 If in the above example only the claims are amended, the additional fee is 
 based on the description, drawings and abstract as published in Chinese 
@@ -4393,8 +4317,7 @@ Rule 6(1)
 Art. 90(3) 
 Rule 57(a) 
 Part A – Chapter III-38 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 under Rule 58 within two months in accordance with the procedure 
 explained in A-III, 16. 
 Failure to file the translation on time in response to the invitation under 
@@ -4447,8 +4370,7 @@ Art. 90(3) and
 (5) 
 Rule 57(c) 
 Rule 58 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter III-39 
 The above procedure also applies to divisional applications (Art. 76(1)) and 
 applications filed in accordance with Art. 61(1)(b). 
@@ -4523,8 +4445,7 @@ requirements (see A-III, 3)
 Art. 90(3) 
 Rule 58 
 Part A – Chapter III-40 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (iii) 
 request for grant (with the exception of the priority criteria) not 
 satisfactory (see A-III, 4) 
@@ -4577,10 +4498,14 @@ Art. 90(5)
 Rule 59 
 Art. 78(2) 
 Rule 30 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-1 
-Chapter IV – Special provisions 1. European divisional applications (see also C-IX, 1) 1.1 General remarks 
+## Chapter IV – Special provisions  
+
+### 1. European divisional applications (see also C-IX, 1) 
+
+#### 1.1 General remarks 
+
 A divisional application may be filed relating to any pending earlier 
 European patent application. A divisional application filed on the same day 
 as the parent application is not considered validly filed. The term "earlier 
@@ -4627,8 +4552,7 @@ Rule 134 does not apply in this case. It is not possible to validly file a
 Art. 76 
 Rule 36(1) 
 Part A – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 divisional application when the parent application has been finally refused, 
 withdrawn or is deemed withdrawn (see also the paragraphs below). 
 If an application is deemed withdrawn due to non-observance of a time 
@@ -4674,8 +4598,7 @@ then be filed while such appeal proceedings are under way. If the appeal
 proceedings are reopened under Art. 112a(5), the application will have 
 been pending throughout. 
 Art. 112a(5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-3 
 If the parent application is withdrawn by the applicant, a divisional 
 application can be filed up to (i.e. including) the date on which the 
@@ -4746,8 +4669,7 @@ Provided this requirement is met, the divisional application is deemed filed
 Art. 76(1), 
 2nd sentence 
 Part A – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 on the parent application's date of filing and enjoys that application's priority 
 (see A-IV, 1.2.2). 
 A divisional application filed in due form, i.e. meeting the requirements of 
@@ -4803,8 +4725,7 @@ Rule 40(1)
 Art. 76(1) 
 Rule 53(2) and 
 (3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-5 
 If, when the divisional application is filed, a priority document has not been 
 filed in respect of the parent application, it must be filed in respect of the 
@@ -4860,8 +4781,7 @@ Rule 36(2)
 Rule 35(1) 
 Rule 41(2)(e) 
 Part A – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 1.3.3 Language requirements 
 
@@ -4915,8 +4835,7 @@ Art. 76(2)
 Rule 36(4) 
 Rule 39(2a) 
 Rule 36(5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-7 
 
 #### 1.4 Fees 
@@ -4981,8 +4900,7 @@ Rule 38
 Art. 2(1), item 1b, 
 RFees 
 Part A – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Example: 
  
 In this example, no additional fee would be due in respect of EP2 and EP3, 
@@ -5029,8 +4947,7 @@ Art. 76(1)
 Rule 51(3) 
 Art. 2(1), item 5, 
 RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-9 
 If, within the four-month period referred to above, a further renewal fee falls 
 due or a renewal fee falls due for the first time, it may be paid without an 
@@ -5090,8 +5007,7 @@ Art. 2(1),
 item 5, RFees 
 Rule 60(2) 
 Part A – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 1.6 Authorisations 
 
@@ -5140,8 +5056,7 @@ Patent Bulletin mentions the publication of the search report concerning the
 divisional application. For fee reductions under the language arrangements, 
 see A-X, 9.3.1 and 9.3.2; for fee reductions under the scheme for 
 micro-entities, see A-X, 9.4.1 and 9.4.2. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-11 
 
 ### 2. Art. 61 applications and stay of proceedings under Rule 14 
@@ -5202,8 +5117,7 @@ Art. 61(1)(b)
 Art. 61(1)(c) 
 Rule 14(1) 
 Part A – Chapter IV-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 For the stay of opposition proceedings, see D-VII, 4.1. 
 
 #### 2.2.1 Responsible department 
@@ -5258,8 +5172,7 @@ report's publication on 15 March 2017. Proceedings are stayed on Friday,
 5 May 2017 and resumed on Friday, 18 August 2017. At the resumption of 
 Art. 20 
 Rule 14(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-13 
 proceedings, the six-month period from the date of the mention of the 
 search report's publication for payment of the examination fee (Rule 70(1)) 
@@ -5314,8 +5227,7 @@ Rule 14(3)
 Rule 14(2) 
 Rule 14(3) 
 Part A – Chapter IV-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 proceedings are to be continued. This discretion is to be exercised with due 
 regard to the interests of the parties. In particular, the outcome of the court 
 proceedings in the first instance and the duration of the stay of proceedings 
@@ -5382,8 +5294,7 @@ Rule 17(2) and
 (3) 
 Rule 45(1) 
 Rule 51(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-15 
 If it is adjudged that a third party is entitled to the grant of a European 
 patent for only some of the contracting states designated in the earlier 
@@ -5445,8 +5356,7 @@ Art. 55(1)(b) and
 (2) 
 Rule 25 
 Part A – Chapter IV-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 4. Applications relating to biological material 
 
@@ -5506,8 +5416,7 @@ Rule 31(2)(b)
 Rule 31(2)(c) 
 Art. 83 
 Rule 31(1)(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-17 
 The depositary institution must be on the list of depositary institutions 
 recognised for the purposes of Rules 31 to 34, as published in the EPO's 
@@ -5560,8 +5469,7 @@ no longer qualified in respect of the biological material in question.
 Rule 33(6) 
 Rule 34 
 Part A – Chapter IV-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 In this exceptional case, the new deposit must be made within three 
 months of the date of the said publication by the International Bureau 
 (Art. 4(1)(e) Budapest Treaty). 
@@ -5630,8 +5538,7 @@ dated
 Art. 97(2) 
 Rule 31 
 Art. 83 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-19 
 OJ EPO 2010, 498). Filing the receipt is essential for identifying the 
 depositor, whose name needs to be established before the EPO can certify 
@@ -5685,8 +5592,7 @@ undertake to comply with the pertinent requirements and obligations and
 Rule 32(1) 
 Rule 32(2) 
 Part A – Chapter IV-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 confirm that they know of no circumstances that might give rise to justified 
 doubts as to their independence or that might conflict in any other way with 
 their function as expert. 
@@ -5743,8 +5649,7 @@ Rule 57(j)
 Rule 30(1) 
 Rule 30(2) 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-21 
 all are considered part of the application but only the standard-compliant 
 sequence listing will be used as the basis for the search. See the decision 
@@ -5800,8 +5705,7 @@ Rule 30(3)
 Art. 121 
 Rule 135 
 Part A – Chapter IV-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 obvious from the application documents as filed that part of the description 
 appears to be missing (see A-II, 5.1). Very few cases fulfil the conditions for 
 parts of the description being missing in the form of a sequence listing. 
@@ -5848,8 +5752,7 @@ no standard-compliant sequence listing
 – 
 a sequence listing that does not contain all sequences disclosed in 
 the application documents 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-23 
 – 
 a sequence listing that does not comply with the applicable WIPO 
@@ -5903,8 +5806,7 @@ Standard ST.26, for instance because it was filed before the standard
 entered into force, an invitation will be issued under Rule 30(3) to submit a 
 standard-compliant sequence listing. 
 Part A – Chapter IV-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If the previously filed application was filed with any other office, the 
 applicant will have to ensure that all the requirements of Rule 30(1), in 
 conjunction with the rules laid down by the EPO President, are met. In 
@@ -5978,8 +5880,7 @@ WIPO Standard ST.26 format must in such cases be filed subsequently
 (see OJ EPO 2023, A98). The late furnishing fee under Rule 30(3) does not 
 fall due if the ST.26 sequence listing is filed before the EPO issues the 
 communication under Rule 30(3) (see A-IV, 5). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IV-25 
 An applicant who has filed a WIPO Standard ST.26-compliant sequence 
 listing under Rule 30 with regard to the earlier application (parent 
@@ -6035,12 +5936,13 @@ Rule 155(2) and
 (3) 
 Art. 135(3) 
 Rule 155(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter V-1 
-Chapter V – Communications concerning formal deficiencies; amendment of application; correction of errors 
+## Chapter V – Communications concerning formal deficiencies; amendment of application; correction of errors 
 
-### 1. Communications concerning formal deficiencies 
+###  
+
+1. Communications concerning formal deficiencies 
 
 Where an application is found to be formally deficient during a formalities 
 examination, the Receiving Section or, where appropriate, the examining 
@@ -6098,8 +6000,7 @@ Rule 68(4)
 Rule 58 
 Rule 137(1) 
 Part A – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the deficiencies notified by the Receiving Section. The description, claims 
 and drawings may be amended only to the extent sufficient to remedy the 
 disclosed deficiencies, which makes it necessary for the Receiving Section 
@@ -6152,8 +6053,7 @@ that a mistake has been made. See J 2/92, J 3/91 and J 6/91 as well as
 J 11/92 and J 7/94. Each of these decisions indicated situations under 
 Rule 139, 
 1st sentence 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter V-3 
 EPC 1973 where the requester could correct priority data even though it 
 was too late for a warning to be published with the application. These same 
@@ -6204,12 +6104,13 @@ drawings is allowable.
 Rule 56a 
 Rule 139, 
 2nd sentence 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VI-1 
-Chapter VI – Publication of application; request for examination and transmission of the dossier to examining division 
+## Chapter VI – Publication of application; request for examination and transmission of the dossier to examining division 
 
-### 1. Publication of application 
+###  
+
+1. Publication of application 
 
 
 #### 1.1 Date of publication 
@@ -6259,8 +6160,7 @@ case-by-case basis if the stage reached in the publication procedure
 Art. 93(1) 
 Rule 67(2) 
 Part A – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 permits this without undue effort (see the notice from the EPO dated 
 25 April 2006, OJ EPO 2006, 406). 
 The application may be withdrawn by means of a signed declaration, which 
@@ -6315,8 +6215,7 @@ Rule 68(1), (3)
 and (4) 
 Rule 20 
 Rule 32(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VI-3 
 The publication also contains any new or amended claims filed by the 
 applicant under Rule 137(2), together with the European search report and 
@@ -6381,8 +6280,7 @@ Rule 68(2) and
 Rule 66 
 Rule 139 
 Part A – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 2. Request for examination and transmission of the dossier to the 
 
@@ -6444,8 +6342,7 @@ Art. 78(1)(a)
 Rule 41(1) 
 Art. 11(a) RFees 
 Point 5.1(c) AAD 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VI-5 
 The request for examination may not be withdrawn. 
 Regarding Euro-PCT applications entering the European phase, see 
@@ -6513,8 +6410,7 @@ Art. 16
 Art. 18(1) 
 Rule 10 
 Part A – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (v) 
 the applicant's response to the search opinion (see B-XI, 8) or to the 
 WO-ISA, supplementary international search report or IPER 
@@ -6566,8 +6462,7 @@ In contrast, communications addressing purely formal deficiencies and
 issued by formalities officers as part of the duties entrusted to them, even if 
 issued on the basis of Art. 94(3), do not constitute communications under 
 Art. 11 RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VI-7 
 Art. 94(3) 
 "issued 
@@ -6618,10 +6513,14 @@ Art. 14(4)
 Rule 7a 
 Art. 14(1) RFees 
 Rule 70a 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VII-1 
-Chapter VII – Languages 1. Admissible languages on filing 1.1 General 
+## Chapter VII – Languages  
+
+### 1. Admissible languages on filing 
+
+#### 1.1 General 
+
 European patent applications can be filed in any language. However, if filed 
 in a language other than an official EPO language (English, French and 
 German), a translation into one of the official languages must be filed within 
@@ -6683,8 +6582,7 @@ Art. 90(3)
 Rules 57 and 58 
 Art. 14(3) 
 Part A – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 English with an update to the language of the proceedings on receipt of the 
 translation, if applicable. 
 The language of the proceedings is the only language used by EPO 
@@ -6742,8 +6640,7 @@ Art. 14(3) and
 Art. 14(4) 
 Rule 6(2) 
 Rule 53(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VII-3 
 See A-III, 6.8 for more information on the translation of priority documents. 
 
@@ -6804,8 +6701,7 @@ Rule 4
 Art. 14(1) 
 Rule 3(3) 
 Part A – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the translation of the priority document under Rule 53(3)) are not filed in an 
 official EPO language, they will be included in the file without note being 
 taken of their content. 
@@ -6863,10 +6759,14 @@ Art. 70(2)
 Rule 5 
 Art. 70(1) 
 Art. 14(8) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VIII-1 
-Chapter VIII – Common provisions 1. Representation 1.1 General principles 
+## Chapter VIII – Common provisions  
+
+### 1. Representation 
+
+#### 1.1 General principles 
+
 Subject to the next sentence, no person may be compelled to be 
 represented by a professional representative in proceedings before the 
 EPO; this holds for all parties to such proceedings, e.g. applicants, 
@@ -6919,8 +6819,7 @@ Rule 152
 Art. 134(1), 
 Rule 152(11) 
 Part A – Chapter VIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 appointed collectively to represent a party under that name (see OJ EPO 
 2013, 535). In that case, each member of the association may perform 
 procedural acts on behalf of the party, while correspondence from the EPO, 
@@ -6981,8 +6880,7 @@ Art. 134(1)
 Rule 152 
 Art. 133(4) 
 Rule 151(1) and (2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VIII-3 
 In the case of joint applicants for whom a change of representative is 
 requested, any authorisation must be signed by all applicants. If this is not 
@@ -7035,8 +6933,7 @@ several of that party's applications, it is not necessary to file an individual
 authorisation for each application (see A-VIII, 2.4). A clear indication of the 
 Rule 152 
 Part A – Chapter VIII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 applications concerned is sufficient; the EPO will make sure that a copy of 
 the authorisation is included in all of the files concerned. 
 The authorisation can also be filed by the applicant. This also applies 
@@ -7096,8 +6993,7 @@ accordingly by referring to the general authorisation number already
 Art. 133(2) 
 Rule 152(2), (4), (7), 
 (8) and (9) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VIII-5 
 registered. The Legal Division is responsible for the registration of general 
 authorisations (OJ EPO 2013, 600). 
@@ -7158,8 +7054,7 @@ Rule 152(2) and
 (6) 
 Rule 132 
 Part A – Chapter VIII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 in particular with regard to the filing of documents by means of electronic 
 communication (Rule 2(1)). Notes on the preparation of OCR-readable 
 patent applications are published in OJ EPO 1993, 59. The particular 
@@ -7227,8 +7122,7 @@ Rule 49(1)
 Rule 50(1) 
 Rule 50(2) 
 Rule 2(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter VIII-7 
 
 ### 3. Signature of documents 
@@ -7288,8 +7182,7 @@ Rule 50(3)
 Art. 133 
 Rule 50(3) 
 Part A – Chapter VIII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the form of a facsimile signature or a text-string signature. Procedural 
 actions performed in MyEPO Portfolio require a signature in the form of a 
 text string (see OJ EPO 2024, A20). Authorisations may also be digitally 
@@ -7325,11 +7218,11 @@ may sign the designation of inventor and all documents filed after the filing
 of the application under Rule 50(3). Authorisations on behalf of more than 
 one applicant must be signed by all applicants. 
 Rule 151(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IX-1 
-Chapter IX – Drawings This chapter deals with the requirements to be met by drawings contained in the application or patent. Guidance on the presentation of application 
-documents, including drawings, is provided in the decision of the President 
+## Chapter IX – Drawings 
+
+This chapter deals with the requirements to be met by drawings contained in the application or patent. Guidance on the presentation of application documents, including drawings, is provided in the decision of the President 
 of the EPO dated 25 November 2022 (OJ EPO 2022, A113, Rule 49(2)), 
 which is the legal basis for the practice described below. 
 
@@ -7385,8 +7278,7 @@ Rule 50
 OJ EPO 2022, A113 
 Rule 49(2) 
 Part A – Chapter IX-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 2.3 Figure accompanying the abstract 
 
@@ -7442,8 +7334,7 @@ maximum usable surface area as defined in Art. 1(1) of the decision of the
 President of the EPO dated 25 November 2022. Instead of appearing in the 
 middle of the sheet, the numbering may, however, be positioned towards 
 OJ EPO 2022, A113 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IX-3 
 the right-hand side if the drawing comes too close to the middle of the edge 
 of the usable surface. This numbering should be clear, for example in 
@@ -7495,8 +7386,7 @@ intended to form one whole figure, irrespective of whether they appear on
 one or several sheets. In this case the whole figure may be identified by the 
 same number followed by a capital letter (e.g. FIG 7A, FIG 7B). 
 Part A – Chapter IX-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 5.3 Whole figure 
 
@@ -7552,8 +7442,7 @@ understanding and is not so extensive as to impede legibility.
 Rule 48(1) and 
 (2) 
 Rule 48(1)(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IX-5 
 
 #### 7.3 Cross-sections 
@@ -7611,8 +7500,7 @@ same way up as the diagram to avoid having to rotate the page.
 Leading lines are lines between reference signs and the details referred to. 
 Such lines may be straight or curved and should be as short as possible. 
 Part A – Chapter IX-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 They must originate in the immediate proximity of the reference sign and 
 extend at least as far as the features indicated. 
 Leading lines must be executed in the same way as lines in the drawing in 
@@ -7661,8 +7549,7 @@ In the case of applications dealing with complex subjects and incorporating
 a large number of drawings, a reference key may be attached to the end of 
 the description. This key may take whatever form is appropriate and 
 contain all the reference signs together with the designation of the features 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IX-7 
 that they indicate. This method could have the advantage of standardising 
 the terminology used in the description. 
@@ -7714,8 +7601,7 @@ Where text matter is deemed indispensable for understanding the drawing,
 only the barest minimum of words should be used, and a space free of all 
 lines of drawings should be left around them for the translation. 
 Part A – Chapter IX-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Compared with other types of drawings, flow sheets comprising method 
 steps may need more than just a bare minimum of words to be understood 
 since the essential information may not be adequately conveyed by the 
@@ -7768,8 +7654,7 @@ hand or drawn if necessary, but it is recommended that appropriate aids
 such as stencils or transfers be used. For practical reasons, formulae may 
 be grouped together on one or more sheets annexed to the description and 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter IX-9 
 paginated with it. It is recommended in such cases that each formula be 
 designated by a reference sign and the description should contain 
@@ -7816,10 +7701,13 @@ to tables contained in or annexed to the description. The claims may refer
 to other application documents only where this is absolutely necessary 
 (see F-IV, 4.17). The mere desire to avoid copying said documents does 
 not constitute absolute necessity. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-1 
-Chapter X – Fees 1. General Various fees have to be paid for a European patent application, to renew a 
+## Chapter X – Fees  
+
+### 1. General 
+
+Various fees have to be paid for a European patent application, to renew a 
 European patent and to obtain legal remedies. Fees may also need to be 
 paid by third parties, as is the case, for example, for issuing certified copies 
 of documents or the certified extract from the European Patent Register 
@@ -7868,8 +7756,7 @@ by credit card (see A-X, 4.4)
 by requesting reallocation of a refund (see A-X, 10.4). 
 Art. 5 RFees 
 Part A – Chapter X-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 3. Currencies 
 
@@ -7939,8 +7826,7 @@ Point 3.2 ADA
 Point 3.3 ADA 
 Point 4.2 ADA 
 Point 5.2 ADA 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-3 
 website and submit it together with all bank details necessary for the 
 transfer (point 5.2 ADA). 
@@ -7998,8 +7884,7 @@ Point 10.3 ADA
 Rule 134(1) and (5) 
 Point 11 ADA 
 Part A – Chapter X-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the EPO Contingency Upload Service is invalid and thus will not be carried 
 out. 
 When using the EPO's online filing services, "deposit account" must be 
@@ -8049,8 +7934,7 @@ Point 4.4 AAD
 Point 10.2 ADA 
 Point 13 ADA 
 Point 9 ADA 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-5 
 – 
 double-payments for fees that can be paid only once in the 
@@ -8112,8 +7996,7 @@ Point 14 ADA
 Point 1 AAD 
 Point 10 AAD 
 Part A – Chapter X-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 published as Annexes A.1 and A.2 to the ADA. The AAD can also be found 
 on the EPO website (epo.org). 
 An automatic debit order may be filed on behalf of the applicant, the patent 
@@ -8172,8 +8055,7 @@ Art. 7 RFees
 Art. 4(1) RFees 
 Rule 51(1), 
 2nd sentence 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-7 
 (ii) 
 fees paid voluntarily in response to the communication under 
@@ -8230,8 +8112,7 @@ however be retained by the EPO. These payments will only be considered
 valid from the due date, provided that the amount paid corresponds to the 
 amount payable on the date of payment (see A-X, 5.1.2). 
 Part A – Chapter X-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 For Euro-PCT applications, see E-IX, 2.1.5 and 2.8. 
 
 #### 5.2.3 Fee for grant and publishing 
@@ -8312,8 +8193,7 @@ order via OLF and Online Filing 2.0 or by making a bank transfer payment
 Rule 71(1) 
 Rule 71(4) 
 Rule 51(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-9 
 not using Central Fee Payment, the renewal fee is automatically flagged as 
 undue and will be repaid by the EPO to the payment source (OJ EPO 2024, 
@@ -8379,8 +8259,7 @@ been complied with) (see E-IX, 2.8).
 Rule 51(2) 
 Rule 134 
 Part A – Chapter X-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 The obligation to pay renewal fees terminates with the payment of the 
 renewal fee due in respect of the (patent) year in which the mention of the 
 grant of the European patent is published, see Art. 86(2). "Patent years" 
@@ -8475,8 +8354,7 @@ To ensure that the publication of the mention of the grant of the European
 patent does not fall in the period after the start of the patent year and 
 Art. 86(1) and 
 Art. 141(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-11 
 before the due date of the renewal fee, the EPO will, where necessary, 
 postpone the publication of the mention of the grant until after the due date 
@@ -8562,8 +8440,7 @@ Implementing Regulations. These requests become effective on payment of
 the prescribed fee, which thus falls due upon filing the request. This is the 
 Rule 51(4) and (5) 
 Part A – Chapter X-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 case, for example, for the fee for further processing (Art. 121, Rule 135(1), 
 see also E-VIII, 2) and the fee for re-establishment of rights (Art. 122, 
 Rule 136(1), see also E-VIII, 3). Similarly, the fees payable for other 
@@ -8622,8 +8499,7 @@ Art. 7(3) and
 (4) RFees 
 Point 7.4.1 ADA 
 Point 7.5.1 ADA 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-13 
 (ii) 
 at the latest on the last day of the period for paying the fee if using 
@@ -8685,8 +8561,7 @@ account. If an insufficient amount has been paid by mistake, it is not
 Rule 112 
 Art. 8 RFees 
 Part A – Chapter X-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 possible to rectify the error by having the shortfall paid subsequently 
 deemed paid on the original date of payment. The same applies to 
 payments made via credit card. However, the EPO may, where it is 
@@ -8740,8 +8615,7 @@ Art. 6 RFees
 Art. 2(2), item 3, 
 RFees 
 Art. 6(1) RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-15 
 The designation fees are deemed paid for all contracting states upon 
 payment of seven times the amount of one designation fee. Such payments 
@@ -8795,8 +8669,7 @@ in waiving or refunding, without any legal basis, fees that have become due
 Rule 45(1) 
 Rule 71(4) 
 Part A – Chapter X-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 9. Reduction of fees 
 
@@ -8858,8 +8731,7 @@ Art. 14(2)
 Rule 7a(1) 
 Art. 14(1) RFees 
 Rule 7a(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-17 
 – 
 non-profit 
@@ -8921,8 +8793,7 @@ publication or technology transfer. All profits must be reinvested in
 carrying out these activities, in disseminating the results or in 
 teaching. 
 Part A – Chapter X-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If there are multiple applicants, each one must be an entity or a natural 
 person within the meaning of Rule 7a(2) for the fee reduction to apply; it is 
 however sufficient for only one of them to be entitled to use an admissible 
@@ -8972,8 +8843,7 @@ more than 35 pages or is a second- or further generation divisional
 Rule 7a(5) 
 Rule 7b(1) 
 Rule 7a(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-19 
 application form part of the filing fee (see A-III, 13.2 and 13.3), the 
 reduction applies also to them. 
@@ -9033,8 +8903,7 @@ Art. 14(4)
 Rule 7a(1) 
 Rule 7a(3) 
 Part A – Chapter X-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 and Euro-PCT applications having entered the European phase (see E-IX, 
 2.1), irrespective of their date of filing (see the decision of the 
 Administrative Council dated 14 December 2023, OJ EPO 2024, A3, and 
@@ -9092,8 +8961,7 @@ Rule 7a(5)
 Rule 7b(1) 
 Rule 7a(6) 
 Art. 14(3) RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-21 
 – 
 examination fee, and in addition the previously paid international 
@@ -9146,8 +9014,7 @@ For renewal fees for European patent applications, the six-month grace
 period under Rule 51(2) applies so that the missing amount, including the 
 additional fee, can still be paid within this period. 
 Part A – Chapter X-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 9.5 Special reductions 
 
@@ -9201,8 +9068,7 @@ this calculation can result in a negative amount, meaning no fee is payable.
 A negative amount is not offset against other fees paid. 
 Art. 153(7) 
 Art. 14(2) RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-23 
 
 ### 10. Refund of fees 
@@ -9266,8 +9132,7 @@ Art. 12 RFees
 Art. 9 RFees 
 Rule 10 
 Part A – Chapter X-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Details on criteria for refund of search fees are given in the notice from the 
 EPO dated 9 January 2009, OJ EPO 2009, 99, according to which the 
 search division will determine the level of refund to be applied. In the event 
@@ -9325,8 +9190,7 @@ Rule 64(2),
 Art. 11 RFees 
 Rule 37(2) 
 Rule 71a(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-25 
 expired without further processing being requested by the applicant 
 (see E-VIII, 2). 
@@ -9382,8 +9246,7 @@ a deposit account recorded for an applicant or representative who has
 Rule 103 
 Point 15 ADA 
 Part A – Chapter X-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 withdrawn from the proceedings will be deleted by the EPO on its own 
 initiative. The same applies to the deposit account held by a third party 
 indicated in the refund instructions of the former applicant or representative. 
@@ -9445,8 +9308,7 @@ that
 communication (see C-V, 4.1) and also voluntarily pays the fee for 
 grant and publishing and claims fees (even though this is not 
 Rule 71a(5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter X-27 
 required, C-V, 4.2) and the examining division then issues a 
 subsequent Rule 71(3) communication (see C-V, 4.6 and 4.7.2) 
@@ -9502,8 +9364,7 @@ voluntarily paid after the first Rule 71(3) communication, see C-V, 4.2).
 Art. 2(2), 
 item 7, RFees 
 Part A – Chapter X-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 11.3 Separate crediting of the fee for grant and publishing and claims 
 
@@ -9521,13 +9382,14 @@ the second Rule 71(3) communication.
 Nor is the further processing fee paid in respect of the first Rule 71(3) 
 communication credited towards any subsequent request for further 
 processing in respect of the second Rule 71(3) communication. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter XI-1 
-Chapter XI – Inspection of files; communication of information contained in files; consultation of the European Patent Register; issue of certified 
+## Chapter XI – Inspection of files; communication of information contained in files; consultation of the European Patent Register; issue of certified 
 copies 
 
-### 1. General 
+###  
+
+1. General 
 
 After a European patent application has been published, any person may 
 inspect and obtain information from the files relating to the application and 
@@ -9578,8 +9440,7 @@ Art. 128
 Rule 145(2) 
 Rule 147(2) 
 Part A – Chapter XI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Observations by third parties (Art. 115) are an integral part of the files and 
 as such are open to inspection in accordance with Art. 128. A request by a 
 third party to treat their observations or part of them confidentially cannot 
@@ -9638,8 +9499,7 @@ Rule 144(a)
 Rule 144(b) 
 Rule 144(c) 
 Rule 144(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter XI-3 
 the 
 EPO 
@@ -9702,8 +9562,7 @@ Rule 94 PCT
 Art. 128(1) 
 Art. 128(2) 
 Part A – Chapter XI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 European patent application are also deemed to have been invoked where 
 rights under a first filing in a contracting state have been invoked and the 
 subsequent European patent application is mentioned at the same time 
@@ -9755,8 +9614,7 @@ information is filed in the part of the file that is not accessible to the publi
 Art. 128(3) 
 Art. 128(5) 
 Rule 146 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part A – Chapter XI-5 
 The EPO does not provide the applicant with any information about the 
 proceedings relating to the communication of information. 
@@ -9817,8 +9675,7 @@ Rule 21(2)
 Rule 74 
 Rule 54 
 Part A – Chapter XI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 administrative fee is payable (see A-XI, 1, the decision of the President of 
 the 
 EPO 
@@ -9850,8 +9707,7 @@ the EPO as receiving Office (see also A-III, 6.7).
 Part B 
  
 Guidelines for Search 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Contents a 
 Contents 
 Chapter I – Introduction 		I-1 
@@ -9880,8 +9736,7 @@ Chapter III – Characteristics of the search 		III-1
 1. Opinions of the search division 		III-1 
 1.1 Opinions in relation to the search report 		III-1 
 Part B – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 1.2 Opinions on matters relating to limitation of the search 		III-1 
 2. Scope of the search 		III-1 
 2.1 Completeness of the search 		III-1 
@@ -9909,8 +9764,7 @@ April 2025
 3.11 Subject-matter excluded from search 		III-10 
 3.12 Lack of unity 		III-10 
 3.13 Technological background 		III-10 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Contents c 
 Chapter IV – Search procedure and strategy 		IV-1 
 1. Procedure before searching 		IV-1 
@@ -9938,8 +9792,7 @@ Chapter V – Preclassification, IPC and CPC classification of European patent a
 3.4 Verification of the IPC classification 		V-3 
 4. CPC classification of the application 		V-3 
 Part B – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Chapter VI – The state of the art at the search stage 		VI-1 
 1. General 		VI-1 
 2. Oral disclosure, use, exhibition, etc. as state of the art 		VI-1 
@@ -9963,8 +9816,7 @@ Chapter VI – The state of the art at the search stage 		VI-1
 6.4 Insufficient prior-art disclosures 		VI-7 
 6.5 Incorrect compound records in online databases 		VI-7 
 7. Internet disclosures ‒ technical journals 		VI-8 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Contents e 
 Chapter VII – Unity of invention 		VII-1 
 1. General remarks 		VII-1 
@@ -9993,8 +9845,7 @@ Chapter VIII – Subject-matter to be excluded from the search 		VIII-1
 3.2.2 Reply in time 		VIII-5 
 3.3 Content of the extended European search report (EESR) 		VIII-6 
 Part B – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 3.4 Applications falling under Rule 63 and lacking unity 		VIII-7 
 4. More than one independent claim per category (Rule 62a) 		VIII-8 
 4.1 Invitation to indicate which independent claim to search 		VIII-8 
@@ -10019,8 +9870,7 @@ Chapter IX – Search documentation 		IX-1
 3. Non-patent literature arranged for systematic access 		IX-2 
 3.1 Periodicals, records, reports, books, etc. 		IX-2 
 4. Non-patent literature arranged for library-type access 		IX-2 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Contents g 
 4.1 Content 		IX-2 
 5. Access to EPO documentation for the national patent offices 		IX-2 
@@ -10053,8 +9903,7 @@ Chapter X – Search report 		X-1
 9.2.7 Documents cited in the application 		X-11 
 9.2.8 Documents cited for other reasons 		X-11 
 Part B – Contents h 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 9.3 Relationship between documents and claims 		X-11 
 9.4 Identification of relevant passages in prior-art documents 		X-12 
 10. Authentication and dates 		X-12 
@@ -10081,8 +9930,7 @@ Chapter XI – The search opinion 		XI-1
 3.2.1 Reasoned objections 		XI-4 
 3.2.2 Positive statements 		XI-4 
 3.3 Comments and amendments in response to the search opinion 		XI-4 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Contents i 
 3.4 Scope of first analysis for generally deficient applications 		XI-4 
 3.5 Contribution to the known art 		XI-5 
@@ -10098,10 +9946,13 @@ Part B – Contents i
 8. Response to the extended European search report (EESR) 		XI-8 
 9. Art. 124 and the utilisation scheme 		XI-10 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter I-1 
-Chapter I – Introduction 1. Scope of Part B Part B is about European searches, i.e. searches the EPO search divisions 
+## Chapter I – Introduction  
+
+### 1. Scope of Part B 
+
+Part B is about European searches, i.e. searches the EPO search divisions 
 perform for European patent applications. They also carry out other types 
 of search (see B-II, 4.4 to B-II, 4.6). These include searches under the 
 Patent Cooperation Treaty (PCT), which are dealt with in the PCT Search 
@@ -10154,8 +10005,7 @@ members may be formed where the nature of the invention makes it
 Art. 17 
 Art. 18 
 Part B – Chapter I-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 necessary to search in very different specialist fields, for example because 
 the "person skilled in the art" in the relevant technical field has to be 
 regarded as being more than one person (see G-VII, 3). 
@@ -10203,8 +10053,7 @@ invention and the reasons for the lack of unity. The applicant is sent a
 partial search report (see B-VII, 1.1), along with an invitation to pay 
 further search fees for the inventions that are in another technical 
 field. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter I-3 
 (b) 
 The applicant pays further search fees for the inventions they want to 
@@ -10220,10 +10069,13 @@ In very exceptional cases, more than one other member (i.e. also a third or
 possibly even more members) will be needed to search the other invention 
 or inventions for which fees have been paid, but the procedure followed is 
 the same. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter II-1 
-Chapter II – General 1. Search and substantive examination The procedure a European patent application goes through from its filing to 
+## Chapter II – General  
+
+### 1. Search and substantive examination 
+
+The procedure a European patent application goes through from its filing to 
 the grant of a patent (or the refusal of the application) has two separate 
 main stages, i.e. the search and substantive examination. 
 
@@ -10278,8 +10130,7 @@ Rule 61(1)
 Art. 92 
 Art. 93(1) 
 Part B – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 4.1 European searches 
 
@@ -10340,8 +10191,7 @@ Rule 64
 Rule 62a 
 Art. 153(2), 
 (6) and (7) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter II-3 
 Art. 34(3) PCT and any subject-matter to be excluded from the international 
 search/preliminary examination under Art. 17(2)/Art. 34(4) PCT. The search 
@@ -10406,8 +10256,7 @@ However, if the applicant amends the application within a non-extendable
 Rule 159(1)(b) 
 Rule 161 
 Part B – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 period of six months from notification of a communication under 
 Rule 161(2) (see E-IX, 3), the amended application will be taken as the 
 basis for the supplementary European search instead (see also B-XI, 2). 
@@ -10446,10 +10295,14 @@ necessarily fully applicable to these national searches and do not always
 give details of how they differ from European searches. However, national 
 and European searches are largely identical and at any rate compatible. 
 Prot. Centr. I(1)(b) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter III-1 
-Chapter III – Characteristics of the search 1. Opinions of the search division 1.1 Opinions in relation to the search report 
+## Chapter III – Characteristics of the search  
+
+### 1. Opinions of the search division 
+
+#### 1.1 Opinions in relation to the search report 
+
 The aim of the search is to identify the state of the art relevant for 
 assessing novelty and inventive step (see B-II, 2). Decisions on novelty and 
 inventive step are the responsibility of the examining divisions, but the 
@@ -10499,8 +10352,7 @@ states that the ISA must endeavour to discover as much of the relevant
 prior art as its facilities permit and must, in any case, consult the minimum 
 Rule 61(1) 
 Part B – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 documentation specified in Rule 34 PCT. It follows from this definition ("as 
 much … as its facilities permit") that international searches must be 
 equivalent in scope to a European search and must be carried out to the 
@@ -10552,8 +10404,7 @@ include fields not mentioned in the application. In deciding on this, it does
 not put itself in the inventor's shoes and does not try to imagine every 
 single possible application of the invention. The most important question 
 guiding its decision is whether searching in neighbouring fields is likely to 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter III-3 
 uncover material on which a reasonable inventive-step objection could be 
 based (see T 176/84, T 195/84 and G-VII, 3). 
@@ -10613,8 +10464,7 @@ Art. 69(1)
 Rule 43(6) 
 Art. 92 
 Part B – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 well-known equivalents of the technical features of the claimed invention 
 and which may mean it lacks inventive step (see G-VII, Annex, 1.1(ii)). 
 
@@ -10668,8 +10518,7 @@ these terms mean (see F-IV, 4.2).
 For example: 
 Claim 1: Pneumatic tyre comprising a wide groove disposed in a tread 
 portion, characterised in that the wide groove is provided on the groove 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter III-5 
 bottom with at least one longitudinal rib extending in the longitudinal 
 direction of the wide groove. 
@@ -10716,8 +10565,7 @@ preferred embodiment (i.e. a "fallback position"; see B-III, 3.2(iv)) is given
 only in the description and/or drawings (see B-III, 3.2.3). The search will 
 then be based on the broadest technically sensible interpretation of the 
 Part B – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 term. However, if the term's meaning is so unclear that a meaningful search 
 cannot be carried out, it is justified to limit the scope of the search under 
 Rule 63. 
@@ -10775,8 +10623,7 @@ Rule 56a
 Rule 137(1) 
 Rule 159(1)(b) 
 Rule 161 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter III-7 
 as amended is then taken as the basis for any supplementary European 
 search to be carried out under Art. 153(7) (see B-II, 4.3 and B-XI, 2). 
@@ -10831,8 +10678,7 @@ Rule 162(4)
 Art. 83 
 Art. 84 
 Part B – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 a resistor element, and do not indicate how other types of impedance 
 element could be manufactured by the claimed process, widening the 
 search to include, say, the manufacture of capacitors is normally not 
@@ -10879,8 +10725,7 @@ search on the connecting means in other parts of the documentation which
 are likely to contain material relevant to or dealing specifically with these 
 connections. 
 Rule 43(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter III-9 
 Example 2 
 An application dealing with a pharmaceutical composition for treating nail 
@@ -10934,8 +10779,7 @@ searched if they are the subject-matter of one or more claims. The final
 products on the other hand will always have to be searched unless they are 
 clearly known. 
 Part B – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 3.11 Subject-matter excluded from search 
 
@@ -10973,10 +10817,13 @@ the general technological background to the invention (often called
 Rule 63 
 Rule 62a 
 Rule 64 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter IV-1 
-Chapter IV – Search procedure and strategy 1. Procedure before searching Starting the workflow for a European search report, a European search 
+## Chapter IV – Search procedure and strategy  
+
+### 1. Procedure before searching 
+
+Starting the workflow for a European search report, a European search 
 opinion or a clarification request under Rule 62a and/or 63(1) triggers a 
 pre-search algorithm that generates a list of documents to be inspected by 
 the search division. This creates a marker in the file showing that the 
@@ -11049,8 +10896,7 @@ Rules 30 to 34, 40 to
 58 
 OJ EPO 2022, A113 
 Part B – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (ii) 
 prohibited matter, i.e. content which: 
 (a) 
@@ -11107,8 +10953,7 @@ Rule 48(1)(a) and
 Rules 31 to 33 
 Rule 66 
 Rule 141 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter IV-3 
 (b) 
 or arguing why the document is not needed for a meaningful search 
@@ -11166,8 +11011,7 @@ strategy, i.e. a plan consisting of a series of search statements reflecting
 Rule 63 
 Rule 62a 
 Part B – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the subject-matter to be searched and determining the parts of the 
 documentation to be consulted. A search strategy will initially be made up 
 of one or more combinations of the basic search means mentioned in 
@@ -11216,8 +11060,7 @@ under Art. 139(2) (see G-IV, 6 and H-III, 4.4)
 any document published during the priority interval of the 
 application which may become relevant under Art. 54(2) if the 
 priority date turns out to be invalid. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter IV-5 
 If the applications listed above were published within the searched 
 application's priority interval, they will be cited in the search report as 
@@ -11270,8 +11113,7 @@ document, or
 (ii) 
 documents citing a relevant document found during the search 
 Part B – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 or that it needs to turn to documentation not available to it in-house 
 (see B-IX). When searching external document collections for material 
 relating to unpublished subject-matter using non-secure connections, e.g. 
@@ -11325,8 +11167,7 @@ see B-VI, 4.
 
 Once it has ended its search, the search division selects the documents to 
 be cited in the search report from among those it has found. These always 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter IV-7 
 include the most relevant ones (which will be specially labelled in the 
 report, see B-X, 9.2.1). Less relevant documents are only cited when they 
@@ -11361,10 +11202,12 @@ the European Patent Bulletin, and the applicant and the examining division
 are informed accordingly. If a different document from the one cited has 
 been made available to the applicant by mistake, the right one is made 
 available. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter V-1 
-Chapter V – Preclassification, IPC and CPC classification of European patent applications 1. Definitions 
+## Chapter V – Preclassification, IPC and CPC classification of European patent applications  
+
+### 1. Definitions 
+
 "Preclassification" is a first stage of classification using appropriate 
 classification symbols to broadly identify the subject-matter of the claimed 
 invention (or the invention first claimed if there is more than one) for the 
@@ -11413,8 +11256,7 @@ subject-matter of the claimed invention (or of each of the claimed inventions
 if there is more than one) as precisely and comprehensively as possible 
 under the IPC scheme. 
 Part B – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 The IPC classification consists of "invention information" symbols and 
 "additional information" symbols (the latter include IPC indexing codes) 
 which are assigned according to the IPC rules set out in the "Guide to the 
@@ -11468,8 +11310,7 @@ of the different inventions claimed must be classified as set out in B-V, 3 to
 
 #### 3.2 because they will all be disclosed in the published application.  
 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter V-3 
 
 #### 3.4 Verification of the IPC classification 
@@ -11514,10 +11355,12 @@ publication have been completed.
 If the scope of the invention is unclear (e.g. a partial search is necessary) 
 or if there is a lack of unity of invention, the principles described in B-V, 3.2 
 and 3.3 for the IPC classification apply equally to the CPC classification. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VI-1 
-Chapter VI – The state of the art at the search stage 1. General 
+## Chapter VI – The state of the art at the search stage  
+
+### 1. General 
+
 General considerations applying to the state of the art and patentability, 
 especially in the context of assessing novelty and inventive step, are set 
 out in G-IV. 
@@ -11569,8 +11412,7 @@ international (WO) patent applications with an earlier priority date
 Rule 61(4) 
 Art. 54(3) 
 Part B – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (Art. 54(3)) which are relevant because they anticipate the novelty of the 
 subject-matter claimed in the searched application. 
 An "E" document is novelty-destroying prior art under Art. 54(3) no matter 
@@ -11636,8 +11478,7 @@ translation into an official EPO language and
 the applicant paid the EPO's national basic fee (the same as 
 the filing fee) under Rule 107(1)(c) EPC 1973 and the EPO's 
 designation fees under Rule 107(1)(d) EPC 1973. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VI-3 
 (b) 
 According to Rule 165, a conflicting PCT application will constitute 
@@ -11701,8 +11542,7 @@ Rule 40
 Art. 90(3) 
 Art. 54(2) 
 Part B – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 5.3 Doubts about the validity of the priority claim; widening of the 
 
@@ -11772,8 +11612,7 @@ A
 30.05.98 
 GB2 filed 
 A 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VI-5 
 01.03.99 
 US1 filed 
@@ -11836,8 +11675,7 @@ oral disclosure, exhibition, etc., what exactly was said or displayed. It tries
 Art. 55(1)(a) and (b) 
 Rule 25 
 Part B – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 to remove any such doubts but always cites the documents in the search 
 report anyway, while continuing its search as though they had not been 
 found. It can also cite additional documents providing evidence on the 
@@ -11891,8 +11729,7 @@ Before citing a document written in a language it is not familiar with, the
 search division must make sure it is relevant (e.g. by using a machine 
 translation, a translation by a colleague, a corresponding document or an 
 abstract in a familiar language, by referring to a drawing or chemical 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VI-7 
 formula in the document to be cited or by consulting database indexes 
 relating to that document's technical content (see B-X, 9.1.3)). 
@@ -11948,8 +11785,7 @@ the source document, cannot find the compound, this does not
 automatically mean that there has been a mistake and that the compound 
 is not disclosed in the document. For example, compounds which are 
 Part B – Chapter VI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 named but whose structures are not drawn are still part of the disclosure 
 and will be abstracted. In addition, database providers use standard 
 nomenclature in their database records, whereas authors of technical 
@@ -11976,10 +11812,13 @@ article or issue are mentioned and then cites it in the search report as an
 "L" document. It is best to do so as soon as the evidence is found and not 
 leave it until later, since the information may be moved or removed from the 
 website in the time between search and substantive examination. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VII-1 
-Chapter VII – Unity of invention 1. General remarks The requirement of unity of invention has a regulatory function and is 
+## Chapter VII – Unity of invention  
+
+### 1. General remarks 
+
+The requirement of unity of invention has a regulatory function and is 
 intended to promote an efficient procedure up to grant (T 110/82 and 
 F-V, 6). It would be unfair to treat applications as meeting this requirement 
 where, because of their diverse content, they cost much more than average 
@@ -12033,8 +11872,7 @@ Rule 64
 Rule 64(1) 
 Point 6.1 AAD 
 Part B – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Nevertheless, the final decision on unity of invention is taken by the 
 examining division or – in the event of an appeal – ultimately by the 
 board of appeal (B-VII, 1.4 and C-III, 3.2.1). 
@@ -12080,8 +11918,7 @@ the further search, B is found to lack unity "a posteriori" and is divided into
 groups of inventions B1, B2 and B3. 
 In this case only B1 and C are searched. The European search opinion 
 must fully explain why the claims of the application were divided into A, B, 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VII-3 
 C and D and why B was then subdivided into B1, B2 and B3 and offer a 
 view on whether A, B1 and C are patentable. 
@@ -12140,8 +11977,7 @@ fees in question will be refunded (see, however, B-XI, 1.2).
 Rule 64(2) 
 Rule 164(5) 
 Part B – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 2.2 Complete search despite lack of unity 
 
@@ -12181,10 +12017,12 @@ The procedures for dealing with cases of lack of unity in which Rule 63 or
 Rule 62a applies are dealt with in B-VIII, 3.4 and 4.5 respectively. 
 Art. 153(7) 
 Rule 164(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-1 
-Chapter VIII – Subject-matter to be excluded from the search 1. General remarks 
+## Chapter VIII – Subject-matter to be excluded from the search  
+
+### 1. General remarks 
+
 The subject-matter listed in Rule 39.1 PCT can be regarded as excluded 
 from the scope of a European search under the EPC too, i.e. on the basis 
 that it is not susceptible of industrial application (Art. 57), is excluded from 
@@ -12235,8 +12073,7 @@ Rule 63
 Art. 52 
 Rule 63 
 Part B – Chapter VIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 These method claims are excluded from patentability under Art. 53(c), but 
 the applicant will usually be able to reword them in an allowable form during 
 the examination proceedings (see G-II, 4.2). They are therefore searched 
@@ -12287,8 +12124,7 @@ substantiate this finding.
 
 If the features contributing to the technical character of the subject-matter 
 of claims directed to computer-implemented business methods are so 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-3 
 well-known that their existence at the relevant date cannot reasonably be 
 disputed (T 1411/08, Reasons 4.1 and 4.2, and T 690/06, Reasons 13), the 
@@ -12348,8 +12184,7 @@ application. It is then so broad that a meaningful search cannot be
 carried out over its whole scope but only on the basis of the 
 Rule 63 
 Part B – Chapter VIII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 narrower, disclosed invention. In extreme cases, this may mean a 
 search covering only (one or more of) the specific examples 
 disclosed in the description. The procedure under Rule 63(1) can 
@@ -12397,8 +12232,7 @@ claims in divisional applications contravening Art. 76
 – 
 applications for which the claims were filed after the date of 
 filing and which contravene Art. 123(2) or 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-5 
 – 
 Euro-PCT applications for which amended claims were filed as 
@@ -12455,8 +12289,7 @@ own decision on what to search, but will keep to what was indicated in the
 Rule 63(1), (2) 
 Rule 63(2) 
 Part B – Chapter VIII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 applicant's reply as far as possible. In exceptional cases, it may find that no 
 meaningful search is possible at all. 
 Statements consisting of reworded claims filed in reply to an invitation 
@@ -12506,8 +12339,7 @@ on some or all of the claimed subject-matter and specify what
 subject-matter it did search (if any) following the procedures described in 
 B-VIII, 3.2. In the search opinion, it will also invite the applicant to limit the 
 claims to this searched subject-matter (in order to comply with Rule 63(3)). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-7 
 The documents cited in the search report and referred to in the search 
 opinion will relate only to this subject-matter. Even if the searched 
@@ -12565,8 +12397,7 @@ same, except that a Rule 164(1) invitation is sent instead of a Rule 64
 invitation. 
 Rule 164 
 Part B – Chapter VIII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Rule 63 
 also 
 applies 
@@ -12627,8 +12458,7 @@ Rule 43(2) and indicates that these two claims should be searched. The
 search division disagrees, and so only claim 10 is searched. 
 Rule 164 
 Rule 62a(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-9 
 See B-VIII, 3.2.2 for the procedure followed where the applicant tries to file 
 amendments. 
@@ -12681,8 +12511,7 @@ under Art. 82 and Rule 44. Sometimes it is enough for the search division
 to raise only the issue of unity of invention and send an invitation under 
 Rule 64(1) (see B-VII, 1.1 and 1.2). 
 Part B – Chapter VIII-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 In other cases, however, the search division may need to apply the 
 procedures under both Rule 64(1) (i.e. invite the applicant to pay further 
 search fees for inventions other than the one first mentioned in the claims) 
@@ -12731,8 +12560,7 @@ far as it depends on a claim or claims which were searched in accordance
 with Rule 62a(1). 
 Rule 164 
 Rule 164 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter VIII-11 
 
 ### 5. Invitation under both Rule 62a(1) and Rule 63(1) 
@@ -12793,8 +12621,7 @@ claims as they are.
 Art. 123(2) 
 Rule 58 
 Part B – Chapter VIII-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (b) 
 there are certain individual features in the claims that clearly 
 contravene Art. 123(2): the search division then ignores these 
@@ -12812,11 +12639,14 @@ the amended claims do not meet the requirements of Art. 76(1): the same
 criteria as described in steps (a) to (c) above are then applied. 
 In any case, the search opinion will include an objection under Art. 123(2) 
 or Art. 76(1) and give the reasons for limiting the scope of the search. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter IX-1 
-Chapter IX – Search documentation 1. General 1.1 Organisation and content of the documentation available to the 
-search divisions 
+## Chapter IX – Search documentation  
+
+### 1. General 
+
+#### 1.1 Organisation and content of the documentation available to the search divisions 
+
 The search documentation consists mainly of a collection of patent 
 documents that can be systematically accessed in a way that facilitates 
 searching. It also includes non-patent literature – such as periodicals and 
@@ -12872,8 +12702,7 @@ search reports for national applications are also included in these files
 where they are publicly available, as are any unofficial search reports. 
 Search reports that are not normally or not yet publicly available in the form 
 Part B – Chapter IX-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 of a published document are available to the search division separately 
 from the state-of-the-art documents, but it is not compulsory to search them 
 for all applications. 
@@ -12928,10 +12757,13 @@ commercial database providers. This depends on the conditions of data
 delivery agreed between the EPO and the individual data provider. 
 However, national offices may also have their own separate agreements 
 with data providers. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-1 
-Chapter X – Search report 1. General The search report records the results of the search. Its scope is limited in 
+## Chapter X – Search report  
+
+### 1. General 
+
+The search report records the results of the search. Its scope is limited in 
 the following cases: 
 (i) 
 claims are treated as abandoned because the claims fees were not 
@@ -12977,8 +12809,7 @@ or B-X, 9.2.8. However, this does not apply to the search opinion
 (see B-XI, 3). 
 Rule 62(1) 
 Part B – Chapter X-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 ### 2. Different types of search report drawn up by the EPO 
 
@@ -13029,8 +12860,7 @@ Supplemental sheet A is used for recording whether the title, the abstract
 as filed by the applicant and the figure to be published with the abstract 
 were approved or amended and for providing the translation of the title into 
 the other two official languages (see B-X, 7). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-3 
 Supplemental sheet B has to be filled in if the search was restricted, 
 i.e. when claims were not searched because the claims fees had not been 
@@ -13088,8 +12918,7 @@ Art. 14(3)
 Rule 61(5) 
 Art. 153(7) 
 Part B – Chapter X-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 has changed the IPC classification initially assigned and shown on the 
 A2 publication, it is the new classification that will appear on the later 
 published search report (see B-V, 3.1). 
@@ -13144,8 +12973,7 @@ Rule 66
 Rule 41(2)(b) 
 Rule 47(4) 
 Art. 14(7)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-5 
 Patent Register. These entries include the invention's title (Rule 143(1)(c)) 
 and so it must be available in all three official languages. 
@@ -13206,8 +13034,7 @@ Rule 63
 Art. 52(2) 
 Art. 53 
 Part B – Chapter X-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 the search opinion; see B-VIII, 3.3 for the content of the EESR in 
 these cases. 
 (iv) 
@@ -13261,8 +13088,7 @@ Example
 A European application claims a priority of 3 September 1999. 
 The search on this application uncovers a relevant document 
 Rule 62a 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-7 
 WO 99 12395 A, which was published in Japanese on 
 11 March 1999 and so in time to qualify as prior art under 
@@ -13318,8 +13144,7 @@ Abstracts are provided by several database providers (e.g. Chemical
 Abstracts or Derwent) and cover many different types of disclosure 
 (e.g. patent documents, journal articles, PhD theses, books). They 
 Part B – Chapter X-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 summarise the most important aspects of the original document's 
 technical content. Most abstracts cited are in English. Whenever 
 citing an abstract in the search report, the search division must 
@@ -13371,8 +13196,7 @@ the search division member in charge is not familiar with this
 language (see B-VI, 6.2) 
 (3) 
 a language other than those of the EPC contracting states. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-9 
 In cases (2) and (3), the search division might consider citing an abstract in 
 an official EPO language instead of the original document. 
@@ -13428,8 +13252,7 @@ Art. 52(1)
 Art. 54 
 Art. 56 
 Part B – Chapter X-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 shows on its own that a claimed invention cannot be considered novel or 
 to involve an inventive step. 
 Category "Y" applies where a document suggests that a claimed invention 
@@ -13487,8 +13310,7 @@ Art. 52(1)
 Art. 56 
 Rule 61(4) 
 Rule 61(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-11 
 clearly shows that the generically defined process cannot produce all of the 
 compounds covered by the claims. It can then cite it as a "T" document and 
@@ -13547,8 +13369,7 @@ Rule 42(1)(b)
 Art. 117(1)(c) 
 Rule 61(2) 
 Part B – Chapter X-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Example  
 X 
 WO9001867 A (WIDEGREN LARS (SE))  
@@ -13597,8 +13418,7 @@ The search report shows the date on which it was drawn up, i.e. the date it
 was drafted by the search division member who carried out the search. 
 The member's name must also appear on the search report. 
 Rule 61(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter X-13 
 
 ### 11. Copies to be made available with the search report 
@@ -13671,8 +13491,7 @@ Rule 65
 OJ EPO 2024, A68 
 OJ EPO 2024, A68 
 Part B – Chapter X-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If, however, the search division considers that the whole source document 
 is needed, that document must be cited and a copy must be made available 
 to the applicant (see B-X, 9.1.2(ii)). 
@@ -13700,10 +13519,13 @@ search division has earmarked for this (see B-X, 11.3).
 Rule 65 
 Rule 61(1) 
 OJ EPO 2024, A68 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter XI-1 
-Chapter XI – The search opinion 1. Search opinion is part of the EESR The extended European search report (EESR) is made up of two items: 
+## Chapter XI – The search opinion  
+
+### 1. Search opinion is part of the EESR 
+
+The extended European search report (EESR) is made up of two items: 
 (i) the European search report or the supplementary European search report (see B-X) 
 (ii) the search opinion. 
 
@@ -13756,8 +13578,7 @@ Rule 159(1)(b)
 Art. 19 PCT 
 Art. 34(2)(b) PCT 
 Part B – Chapter XI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 amendments and reverting to parts or all of an earlier set of application 
 documents). The supplementary European search report will also relate to 
 these application documents (see B-II, 4.3 and B-III, 3.3.2). 
@@ -13816,8 +13637,7 @@ Rule 56a(4)
 (or 
 Rule 20.6 PCT), it must indicate in the search opinion that the examining 
 division may reconsider the decisions of the Receiving Section (or the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter XI-3 
 receiving Office) at a later stage unless it is bound by a decision of the 
 board of appeal. 
@@ -13869,8 +13689,7 @@ not yet be available at this stage (see B-XI, 4).
 Art. 53(c) 
 Rule 62 
 Part B – Chapter XI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 3.2 Reasoning 
 
@@ -13928,8 +13747,7 @@ amendment makes the claims unclear – Art. 84). It may then be more
 appropriate to deal with this objection before making a detailed analysis. 
 For instance, if the claims need to be recast, it may not make sense to 
 object to the clarity of some dependent claims or to a passage in the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter XI-5 
 description which may anyway have to be amended or even deleted in 
 examination proceedings as a result. However, if there are other major 
@@ -13987,8 +13805,7 @@ application and in particular for defining the subject-matter for which
 protection is sought (Art. 113(2) EPC). 
 Rule 42(1)(c) 
 Part B – Chapter XI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 #### 3.9 Positive opinion 
 
@@ -14039,8 +13856,7 @@ evidence against its validity is already available, then this needs to be
 brought up in the search opinion. For example, where the priority document 
 is available when the search opinion is drafted and the technical features of 
 the claims are not in the priority document, the search division may be able 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter XI-7 
 to do this even without a required translation if it is familiar with the 
 language of the priority document (see also B-VI, 5.3). 
@@ -14094,8 +13910,7 @@ setting out:
 (i) 
 the reasoning behind the finding of a lack of unity 
 Part B – Chapter XI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (ii) 
 an opinion on whether the first invention or unitary group of 
 inventions mentioned in the claims is patentable 
@@ -14148,8 +13963,7 @@ Applicants have to respond to the search opinion within the time limit for
 filing the request for examination under Rule 70(1) (see C-II, 1 and 
 A-VI, 2.1). 
 Rule 70a(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part B – Chapter XI-9 
 However, where applicants filed a request for examination (which under 
 Art. 94(1) means also paying the examination fee) before the search report 
@@ -14201,8 +14015,7 @@ Rule 70a(2)
 Rule 70a(3) 
 Rule 112(1) 
 Part B – Chapter XI-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 relating to these amendments, but this can only happen after the examining 
 division has become responsible for the application (see C-II, 1) and only if 
 the application is one of the types listed in H-III, 2.1.4. 
@@ -14237,8 +14050,7 @@ Part C
 Guidelines for Procedural 
 Aspects of Substantive 
 Examination 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Contents a 
 Contents 
 Chapter I – Introduction 		I-1 
@@ -14264,8 +14076,7 @@ Chapter III – The first stage of examination 		III-1
 1.1.1 Application documents filed under Rule 56 or Rule 56a 		III-1 
 1.1.2 Claims filed after accordance of a date of filing 		III-2 
 Part C – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 
 1.2 Euro-PCT applications – missing elements and parts filed under Rule 20.5 and 20.6 PCT 		III-3 
 1.3 Euro-PCT applications – erroneous elements filed under Rule 20.5bis PCT 		III-3 
@@ -14291,8 +14102,7 @@ April 2025
 7. Evaluation of prior-art documents cited in the search report and late priority claim 		III-16 
 Chapter IV – Examination of replies and further stages of examination 		IV-1 
 1. General procedure 		IV-1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Contents c 
 2. Extent of examination of replies 		IV-1 
 3. Further action upon examination of replies 		IV-1 
@@ -14319,8 +14129,7 @@ Chapter V – The final stage of examination 		V-1
 3. No reply in time – application deemed withdrawn 		V-5 
 4. Request for amendments or corrections in reply to the Rule 71(3) communication 		V-6 
 Part C – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 4.1 No payment of fees or filing of translations necessary 		V-6 
 4.2 Crediting of fees paid voluntarily 		V-6 
 4.3 Amendments or corrections should be reasoned 		V-7 
@@ -14346,8 +14155,7 @@ April 2025
 6.2 A further communication under Rule 71(3) 		V-13 
 6.3 Crediting of fees under Rule 71a(5) 		V-14 
 7. Correction of errors in the decision to grant 		V-14 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Contents e 
 8. Further processing 		V-14 
 9. Refund of the fee for grant and publishing 		V-14 
@@ -14372,8 +14180,7 @@ Chapter VII – Other procedures in examination VII-1 1. General remark 		VII-1
 2. Consultations 		VII-1 
 2.1 General 		VII-1 
 Part C – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 2.2 Persons participating in the consultation 		VII-2 
 2.3 Informal nature of consultations 		VII-3 
 2.4 Minutes of a consultation 		VII-3 
@@ -14398,8 +14205,7 @@ Chapter VIII – Work within the examining division 		VIII-1
 5.1 When can a summons to oral proceedings be issued in substantive examination? 		VIII-3 
 6. Decision 		VIII-3 
 7. Enlargement of the examining division; consultation of a legally qualified member 		VIII-3 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Contents g 
 Chapter IX – Special applications 		IX-1 
 1. Divisional applications (see also A-IV, 1) 		IX-1 
@@ -14417,10 +14223,13 @@ Chapter IX – Special applications 		IX-1
 3. Applications where a reservation has been entered in accordance with Art. 167(2)(a) EPC 1973 		IX-4 
 4. International applications (Euro-PCT applications) 		IX-4 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter I-1 
-Chapter I – Introduction 1. General remark Chapters C-II to IX set out the general procedure for examination and provide guidance on specific matters, where necessary. They do not 
+## Chapter I – Introduction  
+
+### 1. General remark 
+
+Chapters C-II to IX set out the general procedure for examination and provide guidance on specific matters, where necessary. They do not 
 include detailed instructions on matters of internal administration. 
 
 ### 2. The work of examiners 
@@ -14473,16 +14282,16 @@ Art. 164(1)
 Rule 62(1) 
 Rule 70(2) 
 Part C – Chapter I-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 H-III, 2.1.4, the examining division may send the applicant a communication 
 under Rule 137(4) requesting this information (see H-III, 2.1.1). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter II-1 
-Chapter II – Formal requirements to be met before the division starts substantive examination 
+## Chapter II – Formal requirements to be met before the division starts substantive examination 
 
-### 1. Request for examination 
+###  
+
+1. Request for examination 
 
 For examination of a European patent application to begin, the applicant 
 must file a request for examination and pay the examination fee. The 
@@ -14542,8 +14351,7 @@ Art. 121
 Art. 11 RFees 
 Rule 70a(2) and (3) 
 Part C – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 even where not explicitly expressed as such. If they fail to confirm their 
 wish to proceed with the application in due time in reply to this invitation, 
 the application will be deemed withdrawn. In this case, however, the means 
@@ -14604,8 +14412,7 @@ Art. 121
 Rule 136(3) 
 Rule 160(1) 
 Rule 36 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter II-3 
 invention to be examined in the application under consideration (see 
 also C-III, 3.2). 
@@ -14664,8 +14471,7 @@ Rule 70a
 Art. 94(3) and (4) 
 Rule 62(1) 
 Part C – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If the applicant accepts a search division's suggestion regarding an 
 acceptable form of amendment of the claims to overcome the objections 
 raised (see B-XI, 3.8), they are requested to adapt the description to the 
@@ -14715,8 +14521,7 @@ E-IX, 4.2 and E-IX, 4.3.
 Under Rule 70a(1), the applicant is invited to respond to the European 
 search opinion (ESOP) within the period referred to in Rule 70(1) or, where 
 Rule 161(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter II-5 
 applicable, the period referred to in Rule 70(2) (see B-XI, 8) unless they 
 have waived their right to receive the communication under Rule 70(2) 
@@ -14772,10 +14577,11 @@ Rule 39(1)
 Art. 90(3) 
 Rule 70b(1) 
 Rule 70b(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-1 
-Chapter III – The first stage of examination 1. Missing parts or elements 1.1 European patent applications 
+## Chapter III – The first stage of examination  
+
+### 1. Missing parts or elements 1.1 European patent applications 
 
 #### 1.1.1 Application documents filed under Rule 56 or Rule 56a 
 
@@ -14820,8 +14626,7 @@ contained" requirement is satisfied, the examination will continue as normal
 Rule 56 
 Rule 56a 
 Part C – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 with the missing parts or the subsequently filed correct application 
 documents or parts, as the case may be, and with the original date of filing. 
 If the applicant maintains the missing parts or the subsequently filed correct 
@@ -14871,8 +14676,7 @@ filed claims in the application as filed has not been indicated by the
 applicant (see H-III, 2.1) and the application is one of those mentioned in 
 Rule 111 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-3 
 H-III, 2.1.4, the examining division may send the applicant a communication 
 under Rule 137(4) requesting this information (see H-III, 2.1.1). 
@@ -14925,8 +14729,7 @@ proceedings before the EPO as designated/elected Office. In such cases,
 the EPO will, on entry into the European phase, consider the date of filing 
 of the application to be the date on which the correct application documents 
 Part C – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 were received (Rule 20.8(c) PCT and Rule 20.5bis(b) or (c) PCT). 
 Furthermore, it will consider the application as filed to include the correct 
 application documents but not the erroneously filed ones. The EPO will 
@@ -14984,8 +14787,7 @@ Once the procedure described above has been finalised, a communication
 under Rules 161 and 162 will be issued and the applicant may amend the 
 application within the scope of the disclosure on the date of filing as 
 determined in this procedure. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-5 
 As a consequence of the procedure described above, it may happen that 
 the application documents as originally filed differ from those forming the 
@@ -15039,8 +14841,7 @@ they can also respond by filing observations on the search opinion –
 Art. 123(2) 
 Rule 137(2) and (3) 
 Part C – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 see B-XI, 8). This means that the applicant is not restricted to amendments 
 necessary to remedy a defect in the application. Further amendments may 
 be made only with the consent of the examining division (see H-II, 2.3). 
@@ -15095,8 +14896,7 @@ the examining division, irrespective of whether lack of unity persists in the
 claims. The invitation under Rule 164(2) must state that – and why – this is 
 Rule 137(2) 
 Rule 164(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-7 
 a new invention not searched in the international phase. If there are other 
 inventions present in the claims that were also not searched (but were 
@@ -15145,8 +14945,7 @@ deficiencies and, where appropriate, amend the application. The applicant
 must limit the application to a single searched invention to be prosecuted in 
 the patent grant procedure. 
 Part C – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If the applicant pays the search fees in due time under Rule 164(2) and at 
 the same time files a new set of claims, the search will be carried out and 
 the written opinion issued for the claims on file upon expiry of the period 
@@ -15190,8 +14989,7 @@ Rule 164(2) has been sent. It follows that in cases of cascading non-unity
 no (further) invitation under Rule 164(2) is sent. The same applies if, during 
 the examination procedure, claims are added or existing claims amended 
 so that they relate to non-searched inventions. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-9 
 Exceptional cases may arise where the following sequence of events has 
 occurred in the international phase: 
@@ -15249,8 +15047,7 @@ Art. 82 are clearly not met, the question of lack of unity will be addressed as
 early as possible during examination (see F-V, 7.1 and H-II, 6.3). 
 Art. 82 
 Part C – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 When raising a finding of lack of unity or upholding an earlier one objected 
 to by the applicant on the basis of unconvincing reasons, the examining 
 division will invite the applicant to limit the application to one invention or 
@@ -15305,8 +15102,7 @@ substantive examination to state which invention the prosecution of the
 application should be based on and to limit the application accordingly by 
 Rule 64 
 Rule 164(1) and (2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-11 
 excising those parts belonging to the other inventions. For the latter 
 inventions, the applicant may file divisional applications (see C-III, 3.3). 
@@ -15370,8 +15166,7 @@ Rule 36
 Rule 64(2) 
 Rule 164(5) 
 Part C – Chapter III-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 under Rule 64(2) or 164(5) and to refund the further search fees. In such 
 cases, the examining division is required to review the validity of the finding 
 of lack of unity (see also F-V, 4 to F-V, 7). 
@@ -15418,8 +15213,7 @@ The issue of refunds of additional international search fees paid to the
 EPO acting as ISA in response to an invitation under Art. 17(3)(a) PCT, 
 however, does not arise in the European phase because these fees were 
 paid in the international phase, which is closed by this stage of the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-13 
 procedure. The applicant may contest the payment of additional 
 international search fees to the EPO acting as ISA by paying these under 
@@ -15483,8 +15277,7 @@ Rule 71(1) and (2)
 Rule 132 
 Art. 94(3) 
 Part C – Chapter III-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 appropriate cases (see H-III, 2). The examiner will re-examine the 
 application once the applicant has replied. 
 If no search opinion has been issued (see C-VI, 3, F-V, 7.1(ii) and 
@@ -15534,8 +15327,7 @@ Further processing is available for this loss of rights (E-VIII, 2).
 Rule 71(2) 
 Rule 71(1) and (2) 
 Art. 94(3) and (4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-15 
 
 ### 5. Summons to oral proceedings as the first action in examination 
@@ -15588,8 +15380,7 @@ In accordance with the principles applicable to the summons to oral
 proceedings, applicants may avail themselves of the possibility to submit 
 any arguments and amendments by expiry of the deadline set under 
 Part C – Chapter III-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Rule 116(1). Requests filed after the date set under Rule 116(1) are not to 
 be treated as late-filed (H-II, 2.7) in the case of a summons to oral 
 proceedings issued as first action in examination. 
@@ -15643,16 +15434,17 @@ assessment, the examiner should then conduct an additional search (see
 C-IV, 7.3). No further search report will be issued in these cases: the 
 Art. 124 
 Rule 141(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter III-17 
 applicant will be informed of any newly found documents in a 
 communication under Art. 94(3) (with copies of such documents annexed to 
 that communication). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter IV-1 
-Chapter IV – Examination of replies and further stages of examination 1. General procedure 
+## Chapter IV – Examination of replies and further stages of examination  
+
+### 1. General procedure 
+
 Following the applicant's reply to the search opinion (see B-XI, 8), WO-ISA, 
 IPER or supplementary international search report prepared by the EPO 
 (see E-IX, 3) or to the first communication, the examiner must examine the 
@@ -15701,8 +15493,7 @@ final position (grant or refusal) should be reached in as few actions as
 possible, and should conduct the procedure with this always in mind. The 
 Art. 94(3) 
 Part C – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 EPC provides that the process of communicating with the applicant 
 described in C-III, 4 is repeated "as often as necessary". 
 In most cases, the applicant will have tried to deal with all the examiner's 
@@ -15753,8 +15544,7 @@ more priority applications was sent earlier in examination proceedings
 (either separately or at the same time as an Art. 94(3) communication – see 
 Art. 113(1) 
 Rule 53(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter IV-3 
 A-III, 6.8.2), a subsequent communication (under Art. 94(3) or Rule 71(3) or 
 a summons to oral proceedings) cannot be sent until the translation is filed 
@@ -15811,8 +15601,7 @@ the grant of a patent should be postponed until the top-up search can be
 completed. 
 Rule 137(2) and (3) 
 Part C – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 If the top-up search is performed at the earliest 18 months from the date of 
 filing of the application under examination, the priority situation needs to be 
 checked only if intermediate documents and/or conflicting applications are 
@@ -15861,8 +15650,7 @@ application are communicated to the applicant.
 
 An additional search will sometimes be required either at the first stage of 
 amendment or subsequently. This may arise for a number of reasons. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter IV-5 
 An additional search may be necessary: 
 (i) 
@@ -15916,8 +15704,7 @@ these reports will have to be considered by the examiner when deciding
 whether any additional search is required. 
 Art. 153(6) and (7) 
 Part C – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 In the case of a Euro-PCT application for which the EPO acting as ISA or 
 SISA issued an incomplete search report or a declaration of no search (see 
 PCT-EPO Guidelines, B-VIII, 1), an additional search may be necessary if 
@@ -15969,10 +15756,14 @@ before oral proceedings so the proceedings can be cancelled if necessary,
 in particular where a newly filed main request is considered patentable. 
 For cases where the newly filed main request is not considered patentable 
 but one of the auxiliary requests is, see E-X, 2.9. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-1 
-Chapter V – The final stage of examination 1. Communication under Rule 71(3) 1.1 Text for approval 
+## Chapter V – The final stage of examination  
+
+### 1. Communication under Rule 71(3) 
+
+#### 1.1 Text for approval 
+
 Once the examining division decides that a patent can be granted, it must 
 inform the applicant of the text it intends to use for the grant. This text may 
 include amendments and corrections that the examining division made on 
@@ -16026,8 +15817,7 @@ claim when there are several different ways to amend it and the
 examiner cannot predict which amendment the applicant will agree to 
 Rule 71(3) 
 Part C – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (ii) 
 deletion of entire claims, with the exception of redundant claims and 
 omnibus claims, as discussed above in point (i) 
@@ -16075,8 +15865,7 @@ applications entering the regional phase before that date, the fee for grant
 and printing may include an element depending on the number of pages, 
 but for applications filed or entering the regional phase on or after that date, 
 this additional element is payable as part of the filing fee (see A-III, 13.2). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-3 
 
 #### 1.3 Translations of the claims 
@@ -16131,8 +15920,7 @@ Rule 71(4)
 Rule 45(1) 
 Rule 162(1) and (2) 
 Part C – Chapter V-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 During the grant procedure an applicant may submit further technical 
 information, for example: 
 – 
@@ -16185,8 +15973,7 @@ Art. 97(1)
 Rule 71a(1) 
 Rule 71a(4) 
 Art. 86(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-5 
 applicant is informed accordingly. If the renewal fee or any additional fee is 
 not paid in time, the application is deemed withdrawn (see A-X, 5.2.4). 
@@ -16243,8 +16030,7 @@ Art. 97(3)
 Rule 71(7) 
 Art. 121 
 Part C – Chapter V-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 (b) 
 rejecting amendments proposed by the examining division in 
 the Rule 71(3) communication 
@@ -16306,8 +16092,7 @@ amount of the fees paid will be credited to the payment of the same fees in
 response to a subsequent Rule 71(3) communication (issued either directly 
 or after resumption of examination – see C-V, 4.6 and 4.7.2 respectively). 
 Rule 71(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-7 
 This crediting will be dealt with according to the procedures explained in 
 A-X, 11. This is subject to the following: if the amount of the claims fees 
@@ -16362,8 +16147,7 @@ If no such adapted description is filed, the examining division may adapt the
 description by itself and propose these amendments in the second 
 Rule 137(3) 
 Part C – Chapter V-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 Rule 71(3) communication (see C-V, 4.6.3). Alternatively, it may resume 
 examination (see C-V, 4.7) and send the applicant a communication under 
 Art. 94(3) requesting the adapted description before issuing a second 
@@ -16426,8 +16210,7 @@ mentioned in C-V, 1.1. However, in the second Rule 71(3) communication,
 the examining division cannot repropose amendments already rejected by 
 the applicant. Where the examining division considers that such an 
 Rule 71(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-9 
 amendment is necessary to overcome an objection, it should consider 
 resuming examination (see C-V, 4.7). 
@@ -16487,8 +16270,7 @@ Rule 71(1) and (2)
 Art. 97(2) 
 Art. 116(1) 
 Part C – Chapter V-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 C-V, 4.7.1. The examining division may also directly refuse the application 
 providing a full reasoning under the proviso that: 
 – 
@@ -16546,8 +16328,7 @@ deemed approved according to Rule 71(5), the applicant must pay any
 claims fees due in response to the communication, thus also avoiding 
 Rule 71(6) 
 Art. 97(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-11 
 deemed withdrawal of the application under Rule 71(7). For the calculation 
 of claims fees due at this stage, see C-V, 1.4. 
@@ -16616,8 +16397,7 @@ ranking request the applicant wishes to pursue, the examining
 Art. 2(2), No 7.2 
 RFees 
 Part C – Chapter V-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 division must request clarification of this in resumed examination 
 proceedings. 
 If the applicant first files only their disagreement with the text and then (still 
@@ -16672,8 +16452,7 @@ The criteria for assessing the admissibility of such amendments are dealt
 with in detail in H-II, 2.6. The procedure for dealing with such late-filed 
 amendments is explained in C-V, 6. 
 Rule 137(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-13 
 
 ### 6. The examining division resumes examination after approval of the 
@@ -16732,8 +16511,7 @@ Rule 71a(2)
 Rule 137(3) 
 Rule 71(6) 
 Part C – Chapter V-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 on file are to be used). This also applies if a further Rule 71(3) 
 communication was sent. 
 
@@ -16796,8 +16574,7 @@ Art. 98
 Rule 73 
 Art. 14(6) 
 Rule 73 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-15 
 If, after termination of the technical preparations, the application is 
 withdrawn to avoid publication, non-publication cannot be guaranteed. The 
@@ -16861,8 +16638,7 @@ Art. 109
 Art. 111(1) and 
 Art. 111(2) 
 Part C – Chapter V-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 to refuse the application. In any event, the first member will always consult 
 the other members of the division at some stage to establish whether an 
 application should be refused or a patent granted. If the division intends to 
@@ -16914,8 +16690,7 @@ state of the file, a request for oral proceedings is pending, the examining
 division will interpret the request for a decision as equivalent to the 
 applicant's implicit withdrawal of the pending request for oral proceedings. 
 Art. 109 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-17 
 
 ### 15.2 Decision by means of a standard form 
@@ -16969,8 +16744,7 @@ communications with respect to different sets of claims render unclear the
 grounds and the reasons for the refusal. This also applies if the applicant 
 has made further submissions (including amendments) since the previous 
 Part C – Chapter V-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
 communication, where these do not cause the subsequent decision to be 
 based on grounds or evidence on which the applicant has not had the 
 opportunity to present comments. In all cases, the requirements of 
@@ -16987,8 +16761,7 @@ proceedings are to be held (see E-III, 2), in which case the reasoning would
 be given in the summons (Rule 116(1)). In the communication or summons 
 the applicant should be informed that the request for a decision according 
 to the state of the file could not be followed. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter V-19 
 Annex 
 Standard marks for indicating amendments or corrections by the 
@@ -17025,10 +16798,11 @@ Paragraph break: starts a new paragraph (must be
 set if needed) 
 If inserting an entire newly filed page, e.g. a page numbered "1a", the 
 instruction [insert page 1a] is used. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VI-1 
-Chapter VI – Time limits and acceleration of examination 1. Time limits for response to communications from the examiner 
+## Chapter VI – Time limits and acceleration of examination  
+
+### 1. Time limits for response to communications from the examiner 
 
 #### 1.1 General considerations 
 
@@ -17083,8 +16857,7 @@ Rule 70(2)
 Art. 11(b) RFees 
 Rule 62(1) 
 Part C – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the procedure (see the notice from the EPO dated 30 November 2015, 
 OJ EPO 2015, A93). In this case, confirmation that they desire to proceed 
@@ -17113,10 +16886,13 @@ by waiving the right to the communication under Rule 161 and Rule 162
 (see E-IX, 3.1) or by filing an explicit request for early processing of an 
 international application by the EPO as designated/elected Office (see 
 E-IX, 2.8). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VII-1 
-Chapter VII – Other procedures in examination 1. General remark In this chapter, the term "applicant" is intended to mean "representative" 
+## Chapter VII – Other procedures in examination  
+
+### 1. General remark 
+
+In this chapter, the term "applicant" is intended to mean "representative" 
 where the applicant has appointed one. Where this is the case, the 
 procedures described here should be conducted with that representative. 
 
@@ -17163,8 +16939,7 @@ e.g. the applicant seems to have misunderstood the examiner's
 arguments – or vice versa – so that the written procedure is leading 
 nowhere 
 Part C – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (iv) 
 where the application seems to be ready for grant except that the 
@@ -17214,8 +16989,7 @@ connect from a different location than the entitled person.
 If there is any doubt as to the identity of any of the persons participating in 
 the consultation or if the consulted person so requests, the examiner or 
 formalities officer will check the identity of the person or persons 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VII-3 
 concerned. This can be done by inviting them to show an official identity 
 document to the camera in the case of a videoconference or to send a copy 
@@ -17266,8 +17040,7 @@ such as new claims or an amended description, must be attached to the
 minutes. Relevant parts of documents uploaded to MyEPO Portfolio's 
 shared area (see C-VII, 2.6) will be cited in or annexed to the minutes. 
 Part C – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The minutes should always indicate whether the next action is due to come 
 from the applicant or the examiner. In this regard, the minutes when 
@@ -17318,8 +17091,7 @@ It is important to avoid statements that are unclear, ambiguous or
 universally applicable in the minutes. For example, statements such as 
 "Amendments to the claims were proposed to take account of the prior art 
 cited in the search report" are of no assistance to members of the public, 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VII-5 
 other members of the division or indeed the first member at later stages of 
 the procedure. The same applies to conclusions worded in a generalised 
@@ -17370,8 +17142,7 @@ overcome objections (see OJ EPO 2023, A59). Both the applicant and the
 examiner can upload documents to the shared area and make changes 
 prior to and in preparation for the consultation. The shared area provides 
 Part C – Chapter VII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 access to the latest version of the text, enabling real-time interaction 
 between both sides while maintaining confidentiality. After the consultation, 
@@ -17429,8 +17200,7 @@ when, during a consultation where the shared area is not used,
 possible amendments to claims are being discussed and the 
 applicant wants to communicate them immediately without submitting 
 them formally 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VII-7 
 (iii) 
 shortly before oral proceedings to send an electronic copy of 
@@ -17495,8 +17265,7 @@ An examining division does not, as a general rule, require evidence to be
 produced. The primary function of the examiner in proceedings before grant 
 is to point out to the applicant any ways in which the application does not 
 Part C – Chapter VII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 meet the requirements of the EPC. If the applicant does not accept the 
 examiner's view, then it is for them to decide whether they wish to produce 
@@ -17541,10 +17310,12 @@ The general considerations relating to oral proceedings are set out in E-III.
 
 The general considerations relating to observations from third parties are 
 set out in E-VI, 3. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VIII-1 
-Chapter VIII – Work within the examining division 1. General remarks 
+## Chapter VIII – Work within the examining division  
+
+### 1. General remarks 
+
 An examining division will normally consist of three technical examiners. 
 However, within the examining division responsible for the application, one 
 member (the first member) will, as a general rule, be entrusted to carry out 
@@ -17591,8 +17362,7 @@ If the examiner considers that the application satisfies the requirements of
 the EPC and is thus in order to proceed to grant, they should make a brief 
 Art. 18(2) 
 Part C – Chapter VIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 written report (the "votum"). As a general rule, the examiner will list in this 
 report the reasons why, in their opinion, the subject-matter as claimed in 
@@ -17649,8 +17419,7 @@ member should be entrusted with informing the applicant of the division's
 opinion that the application should be refused on certain grounds unless 
 satisfactory amendments are submitted within a stated period (see C-VI, 1). 
 Art. 18(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter VIII-3 
 If, within the time limit, satisfactory amendments are made, the examiner 
 will then report back to the division recommending that the application 
@@ -17706,8 +17475,7 @@ Art. 116(1)
 Rule 113 
 Art. 18(2) 
 Part C – Chapter VIII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 has to be taken according to Rule 117 (including the giving of evidence by 
 witnesses – see E-IV). It is also to be considered in the case of oral 
@@ -17733,10 +17501,14 @@ request for re-establishment of rights according to Art. 122. Formalities
 officers may also consult Directorate Patent Law and Processes within the 
 scope of the duties conferred to them under Rule 11(3) (see the decision of 
 the President of the EPO dated 12 December 2013, OJ EPO 2014, A6). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter IX-1 
-Chapter IX – Special applications 1. Divisional applications (see also A-IV, 1) 1.1 General remarks 
+## Chapter IX – Special applications  
+
+### 1. Divisional applications (see also A-IV, 1) 
+
+#### 1.1 General remarks 
+
 A divisional application may be filed subsequent to the filing of a European 
 patent application or on a Euro-PCT application's entry into the European 
 phase. The divisional application is accorded the same date of filing as the 
@@ -17789,8 +17561,7 @@ Art. 76(1)
 Art. 82 
 Art. 76(1) 
 Part C – Chapter IX-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 are a number of special points to be considered (see also C-III, 5). The 
 claims of a divisional application need not be limited to subject-matter 
@@ -17841,8 +17612,7 @@ relevant to the invention claimed in that application. However, amendment
 of the description should be required only where absolutely necessary. 
 Thus, the repetition in a divisional application of matter in the parent 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part C – Chapter IX-3 
 application need not be objected to unless it is clearly unrelated to or 
 inconsistent with the invention claimed in the divisional application. As for 
@@ -17900,8 +17670,7 @@ Art. 61(1)(c)
 Art. 61(1) and (2) 
 Rule 17(1) 
 Part C – Chapter IX-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.2 Original application no longer pending 
@@ -17957,8 +17726,7 @@ Part D
 Guidelines for Opposition and 
 Limitation/Revocation 
 Procedures 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Contents a 
  
 Contents 
@@ -17986,8 +17754,7 @@ Chapter II – The opposition division 		II-1
 6. Duties and powers of members 		II-3 
 7. Allocation of individual duties 		II-4 
 Part D – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Chapter III – Opposition 		III-1 
 1. Time allowed for filing notice of opposition 		III-1 
@@ -18012,8 +17779,7 @@ Chapter IV – Procedure up to substantive examination 		IV-1
 1.3.1 Communication in the event of deficiencies as described in D-IV, 1.2.1 which, if not remedied, will lead to the opposition being deemed not to have been filed 		IV-6 
 1.3.2 Communication in the event of deficiencies as described in D-IV, 1.2.2 which, if not remedied, will lead to rejection of the opposition as inadmissible 		IV-6 
 1.3.3 Extent of the formalities officer's obligation to issue the above communications 		IV-6 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Contents c 
  
 1.4 Subsequent procedure in the event of deficiencies which may no longer be remedied 		IV-7 
@@ -18037,8 +17803,7 @@ Chapter V – Substantive examination of opposition 		V-1
 2.1 Extent to which the patent is opposed 		V-1 
 2.2 Examination of the grounds for opposition 		V-1 
 Part D – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 3. Non-patentability pursuant to Art. 52 to 57 		V-3 
 4. Insufficient disclosure of the invention 		V-3 
@@ -18063,8 +17828,7 @@ Chapter VI – Procedure for the examination of the opposition 		VI-1
 7.1 General remarks 		VI-4 
 7.2 Preparation of a decision to maintain a European patent in amended form 		VI-4 
 7.2.1 Procedural requirements 		VI-4 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Contents e 
  
 7.2.2 Decision on the documents on the basis of which the patent is to be maintained 		VI-5 
@@ -18093,8 +17857,7 @@ Chapter VII – Details and special features of the proceedings 		VII-1
 5.3 Continuation after the opposition has been withdrawn 		VII-6 
 6. Intervention of the assumed infringer 		VII-6 
 Part D – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 7. Publication of a new specification of the patent 		VII-8 
 8. Transitional provisions for Art. 54(4) EPC 1973 and Art. 54(5) 		VII-8 
@@ -18121,8 +17884,7 @@ Chapter IX – Costs 		IX-1
 1. Charging of costs 		IX-1 
 1.1 General principle 		IX-1 
 1.2 Decisions on the apportionment of costs 		IX-1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Contents g 
  
 1.3 Costs to be taken into consideration 		IX-1 
@@ -18152,8 +17914,7 @@ Chapter X – Limitation and revocation procedure 		X-1
 7. Relation to opposition proceedings 		X-7 
 7.1 Precedence of opposition proceedings 		X-7 
 Part D – Contents h 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 7.2 Filing of opposition after decision on limitation 		X-7 
 8. Legal status of decisions 		X-7 
@@ -18163,11 +17924,14 @@ April 2025
 10.2 Limitation is different for different contracting states because the claims as granted were different for different contracting states 		X-8 
 11. Multiple requests 		X-9 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter I-1 
  
-Chapter I – General remarks 1. The meaning of opposition The public may oppose a granted European patent on the basis of one or 
+## Chapter I – General remarks  
+
+### 1. The meaning of opposition 
+
+The public may oppose a granted European patent on the basis of one or 
 more of the grounds mentioned in Art. 100. The grounds on which the 
 opposition is based may arise for example from circumstances of which the 
 EPO was not aware when the patent was granted (e.g. prior use or a 
@@ -18223,8 +17987,7 @@ Art. 61
 Art. 139(2), Art. 140 
 Art. 99(1) 
 Part D – Chapter I-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 determined under Rule 151(1) in order for the withdrawal to take effect (see 
 also G 3/99). 
@@ -18284,8 +18047,7 @@ Art. 115
 Art. 118 
 Art. 99(4) 
 Art. 61(1)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter I-3 
  
 as they see fit (see D-VII, 3.2 as regards the conduct of the opposition 
@@ -18330,11 +18092,14 @@ the European Patent Bulletin. The same applies to the date on which
 opposition proceedings are concluded and to the outcome of the 
 proceedings (see also A-XI, 4). 
 Art. 20(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter II-1 
  
-Chapter II – The opposition division 1. Administrative structure Each opposition division is assigned to an EPO directorate dedicated to 
+## Chapter II – The opposition division  
+
+### 1. Administrative structure 
+
+Each opposition division is assigned to an EPO directorate dedicated to 
 conducting opposition proceedings. 
 
 ### 2. Composition 
@@ -18392,8 +18157,7 @@ Art. 19(2)
 Rule 11(1) 
 Art. 19(1) 
 Part D – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The examination of newly submitted documents for compliance with 
 physical requirements will essentially be the task of the competent 
@@ -18451,8 +18215,7 @@ Art. 122(2)
 Rule 136(4) 
 Rule 112(2) 
 Rule 144 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter II-3 
  
 example, a scientific article is usually easily retrievable, and its copyright is 
@@ -18515,8 +18278,7 @@ Art. 19(2)
 Rule 119(1) 
 Art. 19(2) 
 Part D – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 and in so far as the EPC entitles an opposition division member to act 
 alone. 
@@ -18533,12 +18295,14 @@ President of the EPO dated 12 December 2013, OJ EPO 2014, A6, and
 The formalities officers entrusted with these duties are also in charge of 
 fixing the amount of the costs (see D-IX, 2.1). 
 Rule 11(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter III-1 
  
-Chapter III – Opposition 1. Time allowed for filing notice of opposition Within nine months from the publication of the mention of the grant of the 
-European patent, notice of opposition has to be given to the EPO in 
+## Chapter III – Opposition  
+
+### 1. Time allowed for filing notice of opposition 
+
+Within nine months from the publication of the mention of the grant of the European patent, notice of opposition has to be given to the EPO in 
 Munich, The Hague or Berlin. 
 For expiry of the time limit see E-VIII, 1.4. Re-establishment of rights in 
 respect of unobserved time limits for opposition is not possible in the case 
@@ -18597,8 +18361,7 @@ Rule 2
 Rule 50(3) 
 Rule 2 
 Part D – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Where EPO Online Filing is used, the signature may also take the form of 
 an enhanced electronic signature (see OJ EPO 2023, A48). 
@@ -18655,8 +18418,7 @@ Art. 100
 Art. 100(a) 
 Art. 100(b) 
 Art. 100(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter III-3 
  
 The following allegations, for example, do not constitute grounds for 
@@ -18723,8 +18485,7 @@ Rule 76(2)(b)
 Rule 76(1) 
 Rule 76(2)(c) 
 Part D – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 grounds 
 (see 
@@ -18745,13 +18506,12 @@ and 1.4.2).
 D-IV, 1 sets out further details and explains how to deal with the opposition 
 if one of these requirements is not fulfilled. 
 Rule 76(2)(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-1 
  
-Chapter IV – Procedure up to substantive examination 1. Examination for deficiencies in the notice of opposition and 
-communications from the formalities officer arising from this 
-examination 
+## Chapter IV – Procedure up to substantive examination  
+
+### 1. Examination for deficiencies in the notice of opposition and communications from the formalities officer arising from this examination 
 
 #### 1.1 Forwarding of the notice of opposition to the formalities officer 
 
@@ -18800,8 +18560,7 @@ appointed within the prescribed time limit. The above applies if the
 Art. 7 RFees 
 Art. 8 RFees 
 Part D – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 appointed representative then fails to remedy such deficiency either 
 by signing the notice or by approving it in writing; 
@@ -18852,8 +18611,7 @@ or its branch at The Hague or its suboffice in Berlin within the nine-
 month opposition period, calculated from the date of publication of 
 the mention of the grant of the European patent in the European 
 Patent Bulletin (Art. 99(1)); 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-3 
  
 Accordingly, the opposition is deficient if, for example, notice of 
@@ -18906,8 +18664,7 @@ have been fulfilled.
 Rule 76(2)(c) 
 Rule 76(2)(c) 
 Part D – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (v) 
 the notice of opposition is not adequately substantiated; 
@@ -18959,8 +18716,7 @@ evidence indicated in the notice of opposition be submitted as soon
 as possible and ideally with the notice of opposition. 
 Art. 99(1) 
 Rule 76(2)(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-5 
  
 Otherwise, if the opposition is admissible, the opponent will be invited 
@@ -19027,8 +18783,7 @@ Rule 76(2)(a)
 Rule 76(2)(b) 
 Rule 76(2)(d) 
 Part D – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 indicated in the notice of opposition in the prescribed manner 
 (see D-III, 6(iv)); 
@@ -19100,8 +18855,7 @@ Rule 6(2)
 Rule 50(3) 
 Rule 77(1) and (2) 
 Rule 152(1) to (3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-7 
  
 notified to the opponent, since this is a statutory requirement. Should this 
@@ -19157,8 +18911,7 @@ has failed to remedy in good time deficiencies that may be corrected
 to D-IV, 1.3.2,  
 Rule 112(1) 
 Part D – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the formalities officer will reject the notice of opposition as inadmissible, 
 except in the case mentioned in D-IV, 1.2.2.1(v) (for which the opposition 
@@ -19217,8 +18970,7 @@ division, the patent proprietor not being a party
 (For rejection of the opposition as inadmissible at a later stage, the patent 
 proprietor being a party, see D-IV, 5.1 and 5.5). 
 Art. 19(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-9 
  
 In cases of insufficient substantiation, where the formalities officer is not 
@@ -19281,8 +19033,7 @@ adequately
 substantiated 
 (see D-IV, 1.2.2.1(v)). 
 Part D – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Since the admissibility of an opposition is always open to question by the 
 patent proprietor, no separate communication that the opposition is 
@@ -19336,8 +19087,7 @@ OJ EPO 2020, A106).
 Amended documents must, provided that it is not irrelevant at the stage 
 reached in the procedure, be as complete as possible and drawn up in 
 Rule 79(1) and (2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IV-11 
  
 such a way as to allow the European patent, where appropriate, to be 
@@ -19387,8 +19137,7 @@ grounds.
 Rule 79(3) 
 Rule 81(2) 
 Part D – Chapter IV-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 5.5 Decision concerning the admissibility of an opposition, the 
@@ -19434,11 +19183,13 @@ formalities officer will send them with the relevant communications from the
 opposition division or the formalities officer to the intervening third party. 
 Rule 79(4) 
 Rule 86 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter V-1 
  
-Chapter V – Substantive examination of opposition 1. Beginning of the examination of the opposition 
+## Chapter V – Substantive examination of opposition  
+
+### 1. Beginning of the examination of the opposition 
+
 Once the preparations for the examination of the opposition have been 
 completed pursuant to Rule 79, the opposition division examines whether 
 the grounds for opposition (see D-III, 5) laid down in Art. 100 prejudice the 
@@ -19489,8 +19240,7 @@ understanding the problem underlying the invention within the meaning of
 Rule 42(1)(c) EPC (T 536/88, in particular point 2.1). 
 Art. 101(1) 
 Part D – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Once proceedings for examining the opposition(s) have been initiated 
 because an admissible opposition has been filed (although it may have 
@@ -19542,8 +19292,7 @@ than one. Any lack of unity must be accepted (see G 1/91).
 Rule 81(1) 
 Art. 114 
 Art. 82 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter V-3 
  
 Similarly, where amendments occasioned by a ground for opposition 
@@ -19601,8 +19350,7 @@ Art. 100(a)
 Art. 100(b) 
 Art. 100 
 Part D – Chapter V-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 contain any kind of defect, and therefore opposition proceedings are not to 
 be regarded as a continuation of examination proceedings. As a general 
@@ -19652,8 +19400,7 @@ compliance with the requirements of Art. 84 only when, and then only to the
 extent that, an amendment of the patent introduces non-compliance with 
 Art. 84. In particular, inconsistencies between the description and the 
 Art. 101(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter V-5 
  
 claims resulting from amendments during opposition proceedings and 
@@ -19698,14 +19445,15 @@ proceedings to determine whether the subject-matter of the European
 patent as granted or as amended during the opposition proceedings 
 extends beyond the content of the application as filed. 
 Art. 100(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VI-1 
  
-Chapter VI – Procedure for the examination of the opposition (Oral proceedings: see E-III; taking and conservation of evidence: 
+## Chapter VI – Procedure for the examination of the opposition (Oral proceedings: see E-III; taking and conservation of evidence: 
 see E-IV). 
 
-### 1. General remarks 
+###  
+
+1. General remarks 
 
 The opposition division will first of all endeavour to reach a decision in 
 written proceedings. Taking account of the investigations usually conducted 
@@ -19752,8 +19500,7 @@ Rule 80
 Art. 116 
 Rules 117 to 120 
 Part D – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 ### 2. Adherence to the text of the European patent submitted or 
@@ -19826,8 +19573,7 @@ Rule 81(2)
 Art. 116(1) 
 Rule 115(1) 
 Rule 116(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VI-3 
  
 date will be fixed up to which written submissions may be made or 
@@ -19886,8 +19632,7 @@ will an additional search by the opposition division be set in train. Such a
 Rule 81(3) 
 Rule 81(2) and (3) 
 Part D – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 case might arise, for example, if in the opposition the main subject covered 
 by the patent shifts to elements of a dependent claim which were originally 
@@ -19946,8 +19691,7 @@ is neither necessary nor appropriate (see G 1/88).
 Art. 116(1) 
 Rule 117 
 Art. 113 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VI-5 
  
 If the patent can be maintained in the amended form, the opposition 
@@ -19999,8 +19743,7 @@ basis of the text submitted or approved by the patent proprietor, and the
 opponent has had sufficient opportunity to comment on this text – either in 
 Rule 82(1) 
 Part D – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 writing or during oral proceedings – as well as on the reasons decisive to 
 the patent's maintenance, the opposition division will issue an interlocutory 
@@ -20054,8 +19797,7 @@ Rule 82(2)
 Rule 82(2) and  
 (3) 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VI-7 
  
 limit. If any of the acts is not performed within the period of grace, the 
@@ -20075,11 +19817,12 @@ division will address it at oral proceedings, giving the parties an opportunity
 to comment. After the oral discussion on the stay, the opposition division 
 will take a decision on the request. 
 Reasons for a stay or interruption of proceedings are set out in E-VII, 1 to 3. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VII-1 
  
-Chapter VII – Details and special features of the proceedings 1. Sequence of proceedings 
+## Chapter VII – Details and special features of the proceedings  
+
+### 1. Sequence of proceedings 
 
 #### 1.1 Basic principle 
 
@@ -20128,8 +19871,7 @@ procedure will be borne in mind as much as the common interest in taking
 obviously relevant submissions into account. 
 Rule 83 
 Part D – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If during the opposition proceedings it becomes apparent that the previous 
 application from which the opposed patent claims priority is not in an official 
@@ -20181,8 +19923,7 @@ opposition proceedings may lead to different conclusions, e.g. as regards
 the text of the European patent or the scope of protection. 
 Rule 53(3) 
 Art. 118 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VII-3 
  
 
@@ -20244,8 +19985,7 @@ continuation are to be communicated to the parties to the opposition
 proceedings. 
 Rule 78(1) 
 Part D – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 4.2.1 Continuation after a final decision 
@@ -20298,8 +20038,7 @@ Rule 14(3)
 Rule 78(1) 
 Rule 14(4)  
 Rule 78(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VII-5 
  
 Hence, if the proceedings are resumed by the Legal Division on 
@@ -20355,8 +20094,7 @@ details of the procedure to be followed, see D-VIII, 1.2.5.
 Art. 20 
 Rule 84(1) 
 Part D – Chapter VII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 5.2 Continuation on the death or legal incapacity of the opponent 
@@ -20414,8 +20152,7 @@ Rule 84(2)
 Rule 84(2) 
 Art. 105 
 Rule 89 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VII-7 
  
 the opposition division must ensure that the intervention does not delay the 
@@ -20489,8 +20226,7 @@ Rule 76(2)(b)
 Rule 76(1) 
 Rule 76(2)(c) 
 Part D – Chapter VII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 opposition by way of intervention is based, as well as an indication of 
 the facts and evidence presented in support of these grounds, 
@@ -20554,8 +20290,7 @@ Rule 76(2)(d)
 Rule 77(1) 
 Art. 103 
 Rule 87 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VII-9 
  
 Claim 1: Product X. 
@@ -20599,21 +20334,21 @@ case, Art. 54(4) EPC 1973 and Rule 23a EPC 1973 still apply (in 2013).
 Therefore, EP2 is relevant for novelty only for the designations FR, DE and 
 GB but not for the designations IT and ES. 
 Part D – Chapter VII-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Note that if EP1 had in this case been filed on 13.12.2007, Art. 54(4) 
 EPC 1973 and Rule 23a EPC 1973 would no longer be applicable when 
 assessing novelty under Art. 54(3) EPC. Consequently, EP2 would be prior 
 art against the novelty of EP1 as a whole, regardless of any common 
 designations. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VIII-1 
  
-Chapter VIII – Decisions of the opposition division General remarks on decisions appear in E-X. 
+## Chapter VIII – Decisions of the opposition division General remarks on decisions appear in E-X. 
 
-### 1. Final decisions on an admissible opposition 
+###  
+
+1. Final decisions on an admissible opposition 
 
 
 #### 1.1 General remarks 
@@ -20667,8 +20402,7 @@ Art. 101(3)(b)
 Rule 82(3) 
 Rule 142(3)(a) 
 Part D – Chapter VIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 within the two-month period laid down in Rule 142(3)(a) (see E-VII, 1.4(i)), 
 the European patent will be revoked. 
@@ -20725,8 +20459,7 @@ Art. 101(2)
 Art. 101(3)(a) 
 Rule 82(1) and (2) 
 Rule 82(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter VIII-3 
  
 
@@ -20757,11 +20490,14 @@ This decision is dealt with in E-VIII, 3.3.
 
 This decision is dealt with in D-VII, 5 and D-VIII, 1.1. 
 Rule 112(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IX-1 
  
-Chapter IX – Costs 1. Charging of costs 1.1 General principle 
+## Chapter IX – Costs  
+
+### 1. Charging of costs 
+
+#### 1.1 General principle 
 Each party to the proceedings must bear the costs it has incurred. 
 However, an opposition division may, for reasons of equity, order a different 
 apportionment of such costs, which may have been incurred during the 
@@ -20808,8 +20544,7 @@ Rule 88(1)
 Rule 88(1) 
 Art. 104(1) 
 Part D – Chapter IX-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (iii) 
 remuneration of the representatives of the parties in respect of undue 
@@ -20857,8 +20592,7 @@ other parties may be charged to the party which caused them by submitting
 this argument at such a late stage. 
 If relevant facts or evidence are submitted by a party only at a late stage of 
 the proceedings without any good reason and if, as a consequence, 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter IX-3 
  
 unnecessary costs are incurred by another party, the opposition division 
@@ -20915,11 +20649,13 @@ Rule 88(3)
 Rule 88(4) 
 Rule 97(2) 
 Art. 104(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter X-1 
  
-Chapter X – Limitation and revocation procedure 1. Introduction 
+## Chapter X – Limitation and revocation procedure  
+
+### 1. Introduction 
+
 The limitation and revocation procedures are centralised ex parte 
 procedures at the level of the EPO which allow the patent proprietor either 
 to have the claims of the granted patent limited or to have the whole patent 
@@ -20968,8 +20704,7 @@ limitation/revocation procedure commences.
 Rule 91 
 Art. 105a 
 Part D – Chapter X-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.2 Deficiencies which, if not remedied, lead to the request being 
@@ -21026,8 +20761,7 @@ Rule 92
 Rule 94 
 Art. 105b(2) 
 Rule 95 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter X-3 
  
 in the Bulletin (Art. 105b(3)). In accordance with Art. 68, the effect of the 
@@ -21088,8 +20822,7 @@ Rule 91
 Rule 90 
 Rule 95(2) 
 Part D – Chapter X-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 More particularly, the limitation of a dependent claim only, without any 
 independent claim being limited, is acceptable. However, it is not 
@@ -21146,8 +20879,7 @@ Art. 123
 Art. 69(1) 
 Art. 84 
 Rule 139 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter X-5 
  
 In general, there is no need to verify whether the limited claims contravene 
@@ -21201,8 +20933,7 @@ invitation under Rule 95(2), introduce further restrictions intended to
 Art. 115 
 Rule 114 
 Part D – Chapter X-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 address such observations. If they wish to do this, and no invitation under 
 Rule 95(2) is issued, their only option is to file a further request for 
@@ -21255,8 +20986,7 @@ Rule 95(3)
 Art. 105b(2) and (3) 
 Art. 105c 
 Art. 68 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter X-7 
  
 (iii) 
@@ -21316,8 +21046,7 @@ Rule 93(1)
 Rule 93(2) 
 Art. 106(1) 
 Part D – Chapter X-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 they are decisions of the examining division terminating a procedure. 
 Accordingly, they are decisions listed as such in Art. 21(3)(a). 
@@ -21375,8 +21104,7 @@ claims into line with each other for a different reason. If this results in a
 Art. 105b(3) 
 Rule 138 
 Art. 54(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part D – Chapter X-9 
  
 single set of claims for all contracting states, and the substantive 
@@ -21398,8 +21126,7 @@ Part E
  
 Guidelines on General 
 Procedural Matters 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents a 
  
 Contents 
@@ -21426,8 +21153,7 @@ Chapter III – Oral proceedings 		III-1
 3. Request for further oral proceedings 		III-3 
 4. Oral proceedings at the instance of the EPO 		III-4 
 Part E – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 5. Preparation of oral proceedings 		III-4 
 5.1 When can a summons to oral proceedings be issued in substantive examination? 		III-4 
@@ -21460,8 +21186,7 @@ April 2025
 8.5.1.1 Opposition proceedings (inter partes) 		III-16 
 8.5.1.2 Examination proceedings (ex parte) 		III-17 
 8.5.2 Written submissions during oral proceedings by videoconference 		III-17 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents c 
  
 8.6 Facts, evidence or amendments introduced at a late stage 		III-18 
@@ -21495,8 +21220,7 @@ Chapter IV – Taking and conservation of evidence 		IV-1
 1.6.4 Separate hearings 		IV-5 
 1.6.5 Examination as to personal particulars 		IV-5 
 Part E – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 1.6.6 Examination as to res gestae 		IV-5 
 1.6.7 Entitlement of parties to put questions at hearings 		IV-6 
@@ -21531,8 +21255,7 @@ April 2025
 3.5 Costs of taking evidence 		IV-12 
 3.6 Taking of evidence by an appointed person 		IV-12 
 4. Evaluation of evidence 		IV-13 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents e 
  
 4.1 General remarks 		IV-13 
@@ -21561,8 +21284,7 @@ Chapter VI – Examination by the EPO of its own motion; facts, evidence or grou
 2.2.2 Amendments filed in preparation for or during oral proceedings 		VI-4 
 2.2.3 Principles relating to the exercise of discretion 		VI-4 
 Part E – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 2.2.4 Right to be heard 		VI-6 
 2.2.5 Costs 		VI-7 
@@ -21589,8 +21311,7 @@ Chapter VIII – Time limits, loss of rights, further and accelerated processing
 1.6.1 Extension of time limits set by the EPO under Rule 132 		VIII-3 
 1.6.2 Extension of periods under Rule 134 		VIII-4 
 1.6.2.1 Extension of periods under Rule 134(1) 		VIII-4 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents g 
 
 1.6.2.2 Extension of periods under Rule 134(2) and Rule 134(5) 		VIII-5 
@@ -21623,8 +21344,7 @@ Part E – Contents g
 8.3 Statement of withdrawal 		VIII-22 
 8.4 Surrender of patent 		VIII-22 
 Part E – Contents h 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Chapter IX – Applications under the Patent Cooperation Treaty (PCT) 		IX-1 
 1. General remarks 		IX-1 
@@ -21662,8 +21382,7 @@ Chapter IX – Applications under the Patent Cooperation Treaty (PCT) 		IX-1
 2.4.3 Certificate of exhibition 		IX-21 
 2.4.4 Biological material 		IX-21 
 2.5 Instructions in Chapter A-VI ("Publication of application; request for examination and transmission of the dossier to examining division") 		IX-22 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents i 
  
 2.5.1 Publication of the international application 		IX-22 
@@ -21695,8 +21414,7 @@ Part E – Contents i
 4.3.2 Basis for substantive examination 		IX-36 
 4.3.3 Consideration of the contents of the IPER 		IX-36 
 Part E – Contents j 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Chapter X – Decisions 		X-1 
 1. Basic principles of decisions 		X-1 
@@ -21723,8 +21441,7 @@ Chapter X – Decisions 		X-1
 5. Information as to means of redress 		X-10 
 6. Notification 		X-10 
 7. Expiry of the term of the European patent 		X-10 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Contents k 
  
 Chapter XI – Impartiality of divisions 		XI-1 
@@ -21753,8 +21470,7 @@ Chapter XIII – Request from a national court for a technical opinion concernin
 3.1 Composition 		XIII-2 
 3.2 Duties 		XIII-2 
 Part E – Contents l 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 4. Language to be used 		XIII-2 
 5. Procedure 		XIII-2 
@@ -21774,21 +21490,24 @@ Chapter XIV – Registration of changes of name, transfers, licences and other r
 6.1 Registration 		XIV-3 
 6.2 Cancellation of the registration 		XIV-4 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter I-1 
  
-Chapter I – Introduction Part E contains guidelines for those procedural steps in respect of the examination of European patent applications and patents which without 
+## Chapter I – Introduction 
+
+Part E contains guidelines for those procedural steps in respect of the examination of European patent applications and patents which without 
 major variations may, in so far as the EPC permits, occur at a number of 
 stages in the procedure. Attention is also drawn to Art. 125, which states: 
 "In the absence of procedural provisions in this Convention, the EPO shall 
 take into account the principles of procedural law generally recognised in 
 the Contracting States". 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter II-1 
  
-Chapter II – Communications and notifications 1. Communications 1.1 General remarks 
+## Chapter II – Communications and notifications  
+
+### 1. Communications 1.1 General remarks 
+
 Communications are sent, inter alia: 
 (i) 
 if a party has to be informed of deficiencies, together, where 
@@ -21846,8 +21565,7 @@ Rule 125
 Rule 126 
 Rule 127 
 Part E – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 President of the EPO; other communications are not subject to formal 
 notification. 
@@ -21905,8 +21623,7 @@ web-based online service MyEPO Portfolio and electronic notification to the
 Mailbox in proceedings under the EPC and the PCT (OJ EPO 2024, A20) 
 Rule 125(2) and (3) 
 Rule 127(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter II-3 
  
 and the notice from the EPO dated 9 February 2024 concerning new 
@@ -21959,8 +21676,7 @@ Rule 126
 Rule 126(2) 
 Rule 130 
 Part E – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.6 Irregularities in the notification 
@@ -21976,11 +21692,13 @@ have received the document, although they do not mention the date of its
 notification, the date on which that reply was written is to be regarded as 
 the date of notification. 
 Rule 125(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-1 
  
-Chapter III – Oral proceedings 1. General 1.1 Introduction 
+## Chapter III – Oral proceedings  
+
+### 1. General 1.1 Introduction 
+
 By "oral proceedings" is meant formal proceedings within the meaning of 
 Art. 116. The term does not include consultations such as occur in 
 examination 
@@ -22046,8 +21764,7 @@ Art. 18(2)
 Art. 19(2) 
 Art. 113 
 Part E – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 1.3 Request for oral proceedings to be held on EPO premises 
@@ -22100,8 +21817,7 @@ oral proceedings, which will only be held after the issues to be determined
 are sufficiently clear (see E-III, 5). 
 Art. 116(1) 
 Art. 116(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-3 
  
 With a conditional request for oral proceedings, i.e. if any party concerned 
@@ -22155,8 +21871,7 @@ the proceedings after the original oral proceedings, then further oral
 proceedings will generally have to be held if requested (see T 194/96). 
 Art. 116(1) 
 Part E – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 ### 4. Oral proceedings at the instance of the EPO 
@@ -22222,8 +21937,7 @@ particular cases, more than one consecutive day. No pre-announcement of
 Art. 116(1) 
 Rule 115(1) 
 Art. 119 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-5 
  
 the date will be made. Oral proceedings may be set for any working day on 
@@ -22281,8 +21995,7 @@ the date of the oral proceedings (see C-III, 5).
 Rule 116(1) 
 Rule 115(1) 
 Part E – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The summons must state that if parties duly summoned do not appear as 
 summoned or fail to connect to the oral proceeding by videoconference, as 
@@ -22335,8 +22048,7 @@ military service or other obligatory performance of civic duties,
 – 
 business trips which have been firmly booked before notification of 
 the summons to oral proceedings, 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-7 
  
 – 
@@ -22387,8 +22099,7 @@ The notice period defined in Rule 115(1), i.e. at least two months, is valid
 also in the case of a change of date unless the parties have agreed on a 
 shorter period (see also E-III, 6(iii) and E-III, 8.11.1). 
 Part E – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 7.2 Cancellation or maintenance of oral proceedings 
@@ -22447,8 +22158,7 @@ discussions about a request for exclusion of a document from file
 inspection (see D-II, 4.3) and when a decision on the matter is pronounced. 
 Art. 116(3) 
 Art. 116(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-9 
  
 The parties other than the requester(s), as well as their representatives, 
@@ -22501,8 +22211,7 @@ vote among themselves via a separate communication channel. The venue
 of oral proceedings will be deemed to be the location where the division is 
 set up. 
 Part E – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The applicant or representative will be informed of the remote participation 
 of the members of the division at the beginning of the oral proceedings, 
@@ -22557,8 +22266,7 @@ practitioner. Equally, if a party is not represented but personally present
 together with an accompanying person, it is sufficient to check the ID 
 document of that party. 
 OJ EPO 2022, A103 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-11 
  
 However, the division checks the ID documents of all parties, witnesses 
@@ -22613,8 +22321,7 @@ a natural person (e.g. executive director) authorised by law in the
 party's country of business to act on behalf of that party 
 then no further check is required. 
 Part E – Chapter III-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If however the person is: 
 (a) 
@@ -22676,8 +22383,7 @@ If any party who has been duly summoned to oral proceedings does not
 appear as summoned or fails to connect to the oral proceedings by 
 videoconference, as the case may be, the oral proceedings may be 
 Rule 115(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-13 
  
 conducted without them, since a party should not be able to delay issuance 
@@ -22729,8 +22435,7 @@ overcoming the objections of the opponent is not considered a "new fact"
 (see T 133/92 and T 202/92). Nor is it unexpected that amended claims are 
 Art. 104(1) 
 Part E – Chapter III-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 examined for formal admissibility and for compliance with Art. 123(2) and 
 (3) (see T 341/92). 
@@ -22782,8 +22487,7 @@ After the introduction referred to above, the party or parties will be allowed
 the floor in order to put their cases and to make applications on procedural 
 matters and state the grounds thereof. In the normal course of events each 
 party will have only one opportunity of making a comprehensive statement. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-15 
  
 In opposition proceedings the opponents will generally speak first and the 
@@ -22834,8 +22538,7 @@ Parties are not to be considered as accompanying persons in the sense of
 G 4/95 (see T 621/98). They have the right to make submissions in oral 
 proceedings by virtue of their status as party to the proceedings. 
 Part E – Chapter III-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If written submissions are made during oral proceedings, the division will 
 make sure that requirements such as typed-form, signature and dating of 
@@ -22893,8 +22596,7 @@ might be considered by the opposition division to facilitate the discussion.
 If copies of the material to be presented have not been filed in good time, or 
 if the slides contain new matter, the presentation may be disregarded under 
 Art. 114(2) and Rule 116. In this case the opposition division will apply the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-17 
  
 same criteria for admissibility as are used for other late-filed facts or 
@@ -22960,8 +22662,7 @@ OJ EPO 2022, A106
 OJ EPO 2020, A71, 
 Art. 4 
 Part E – Chapter III-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 document (or that part of the document which is illegible or incomplete) is 
 deemed not to have been received. 
@@ -23016,8 +22717,7 @@ OJ EPO 2022, A106
 Rules 50(1) and 86 
 Rule 49(2) 
 OJ EPO 2022, A113 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-19 
  
 documents to be printed from a USB stick, and internet access in public 
@@ -23071,8 +22771,7 @@ formally compliant documents. Pursuant to this provision, in oral opposition
 proceedings, the patent proprietor is by way of exception not required to file 
 OJ EPO 2022, A113 
 Part E – Chapter III-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 documents compliant with the requirements of Art. 2(7) of the decision of 
 the President of the EPO dated 25 November 2022 (OJ EPO 2022, A113) 
@@ -23128,8 +22827,7 @@ amendments filed during oral proceedings (see H-III, 2.1.3), since this
 would unduly delay the procedure. Making a request under Rule 137(4) 
 during oral proceedings would have the consequence of staying the 
 proceedings for one month, while waiting for the applicant's answer. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-21 
  
 The examining division therefore requests the applicants to provide a basis 
@@ -23184,8 +22882,7 @@ oral proceedings from different locations (see E-III, 8.2.2), the members will
 deliberate and vote among themselves via a separate communication 
 channel. If new aspects emerge during the discussion and require further 
 Part E – Chapter III-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 questions to be put to the parties, the proceedings may be restarted. Any 
 person conducting the proceedings may thereafter give the decision of the 
@@ -23235,8 +22932,7 @@ oral proceedings. The explicit agreement of all parties is necessary and
 must be recorded in the minutes. 
 The new summons must indicate the points that still need to be discussed 
 during the upcoming oral proceedings (Rule 116(1)). It is at the discretion of 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-23 
  
 the division whether to indicate the points that are closed or to provide a 
@@ -23282,8 +22978,7 @@ undue delay. The period for appeal will only begin to run from the date of
 notification of the written decision. 
 Rule 111(1) and (2) 
 Part E – Chapter III-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Generally speaking it will not be possible to give a decision granting a 
 European patent or maintaining it in amended or limited form in oral 
@@ -23332,8 +23027,7 @@ the name or names of the minute-writer or writers. Minutes must also
 include the details referred to in E-III, 10.3. 
 Rule 124(1) 
 Rule 124(3) and (4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-25 
  
 
@@ -23383,8 +23077,7 @@ limited to the essentials and are as brief and concise as possible.
 Art. 113(1) 
 Rule 124(1) 
 Part E – Chapter III-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Vague or general statements are to be avoided. Also, care must be taken 
 to ensure that statements crucial to the decision are correctly recorded. 
@@ -23427,8 +23120,7 @@ E-III, 8 and sub-points).
 If a decision is given (see E-III, 9), it must be reproduced in the minutes. 
 The minutes with the result reached during the proceedings are 
 communicated to the parties as soon as possible. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter III-27 
  
 
@@ -23455,11 +23147,12 @@ they show deficiencies with regard to the aspects mentioned, for example if
 essential submissions or similarly important procedural statements are 
 missing, or if they are incorrectly reflected in the minutes (T 231/99, 
 T 642/97 and T 819/96). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-1 
  
-Chapter IV – Taking and conservation of evidence 1. Taking of evidence by the departments of the EPO 
+## Chapter IV – Taking and conservation of evidence  
+
+### 1. Taking of evidence by the departments of the EPO 
 
 #### 1.1 General remarks 
 
@@ -23508,8 +23201,7 @@ Art. 117
 Rule 117 
 Art. 117(1) 
 Part E – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 opinions by experts (see E-IV, 1.8.1); and 
@@ -23558,8 +23250,7 @@ Inspection will enable direct observations to be made and direct
 impressions to be formed of the object or process concerned. It may, for 
 example, involve the demonstration of a product or process requested by 
 the applicant or proprietor of the patent to substantiate the method of 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-3 
  
 operation of the subject-matter of the patent where this is disputed by the 
@@ -23614,8 +23305,7 @@ Art. 117(2)
 Rules 118 to 120 
 Rule 117 
 Part E – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The order to take evidence must be notified to the parties. It may be 
 appealed only together with the final decision unless it allows separate 
@@ -23676,8 +23366,7 @@ Rule 118(2)(b)
 Rule 118(2)(c) 
 Rule 118(2)(d) 
 Rule 119(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-5 
  
 Where a hearing is held in connection with oral proceedings, the 
@@ -23738,8 +23427,7 @@ chair or any other member of the department concerned. As regards the
 entitlement of other members of the division to put questions, 
 Rule 119(2) 
 Part E – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 see E-III, 8.10. When formulating questions the same considerations apply 
 as for the parties (see E-IV, 1.6.7). 
@@ -23796,8 +23484,7 @@ persons being heard must raise any objections immediately. This is pointed
 Rule 119(3) 
 Rule 124(1) 
 Rule 124(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-7 
  
 out to them at the beginning of their testimony. At the end of their 
@@ -23862,8 +23549,7 @@ Rule 121(2)(a)-
 Art. 104(1) and (2) 
 Rule 122(1) and (2) 
 Part E – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 for the EPO in respect of witnesses and experts (see E-IV, 1.10). The 
 competent body may make the taking of evidence conditional upon deposit 
@@ -23933,8 +23619,7 @@ amounts due must be made by the EPO.
 Rule 122(2) 
 Rule 122(3) 
 Rule 122(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-9 
  
 
@@ -23989,8 +23674,7 @@ or return the model. If the model is to be kept, the formalities officer notes
 this on a label on the file. If it is to be returned, the formalities officer 
 informs the submitter that the model should be preserved in view of 
 Part E – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 possible opposition or appeal proceedings and notes the date of return on 
 the label. 
@@ -24053,8 +23737,7 @@ Rule 123(2)(e)
 Rule 123(3) 
 Rule 123(3) 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-11 
  
 Responsibility for the decision and the taking of evidence will therefore 
@@ -24130,8 +23813,7 @@ Art. 131(2)
 Rule 120(3) 
 Rule 120(3) 
 Part E – Chapter IV-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (ii) 
 the competent department considers it advisable for the evidence of 
@@ -24206,8 +23888,7 @@ Rule 120(3)
 Rule 150(6) 
 Rule 150(7) 
 Rule 150(8) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-13 
  
 
@@ -24261,8 +23942,7 @@ claim 1 (argument).
 Evidence admissible in EPO proceedings is not confined to that listed in 
 Art. 117(1). "Taking of evidence" within the meaning of Art. 117 comprises 
 Part E – Chapter IV-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the submission or gathering of evidence of any kind, particularly the filing of 
 documents. 
@@ -24312,8 +23992,7 @@ require a specific kind of evidence (see T 474/04), nor
 (b) 
 prescribe the content of the evidence (e.g. the wording of a sworn 
 statement in writing (see T 804/92). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IV-15 
  
 The taking of evidence in each of the forms listed in Art. 117 is done at the 
@@ -24367,8 +24046,7 @@ intending to make any statement regarding substance X itself;
 an employee of a party to the proceedings can be heard as a witness 
 (see T 482/89). The possible partiality of a witness determines how 
 Part E – Chapter IV-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the 
 evidence 
@@ -24411,11 +24089,13 @@ claimed for the invention are complied with. Where an invention is
 compared under test with an item forming part of the state of the art, as far 
 as possible the same or comparable test conditions must be applied to 
 both. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter V-1 
  
-Chapter V – Derogations from the language of the proceedings in oral proceedings 1. Use of an official language 
+## Chapter V – Derogations from the language of the proceedings in oral proceedings  
+
+### 1. Use of an official language 
+
 Any party to oral proceedings before the EPO may, in lieu of the language 
 of the proceedings, use one of the other official languages of the EPO, on 
 condition that such party either gives notice to the EPO at least one month 
@@ -24471,8 +24151,7 @@ Rule 4(1) and (5)
 Rule 4(1) and (4) 
 Rule 4(1) 
 Part E – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the oral proceedings continue if the parties agree and the employees of the 
 EPO involved in the proceedings can cope with the language. In other 
@@ -24526,14 +24205,15 @@ application or European patent made during oral proceedings must be
 entered in the minutes in the language of the proceedings. 
 Rule 4(3) 
 Rule 4(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VI-1 
  
-Chapter VI – Examination by the EPO of its own motion; facts, evidence or grounds not submitted in due time; observations by third 
+## Chapter VI – Examination by the EPO of its own motion; facts, evidence or grounds not submitted in due time; observations by third 
 parties 
 
-### 1. Examination by the EPO of its own motion 
+###  
+
+1. Examination by the EPO of its own motion 
 
 
 #### 1.1 General remarks 
@@ -24591,8 +24271,7 @@ of inventive step.
 Art. 114(1) 
 Art. 114(2) 
 Part E – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 New arguments based on facts, evidence and grounds constituting the 
 legal and factual framework of the opposition cannot be disregarded. 
@@ -24642,8 +24321,7 @@ Thus, if the proprietor limits the patent to the subject-matter of a dependent
 claim as granted, new facts and evidence submitted by the opponent in 
 reply to this amendment are as a general rule to be treated as late-filed and 
 only to be admitted under Art. 114(1) if they are prima facie relevant 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VI-3 
  
 because the opponent must be prepared for this type of amendment and 
@@ -24705,8 +24383,7 @@ division reaches the conclusion that maintenance of the patent is not
 prejudiced by the facts and evidence submitted so far by the opponent, this 
 Rule 116(1) 
 Part E – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 fact per se does not give the opponent the right to have new facts and 
 evidence admitted into the proceedings, even if submitted before the final 
@@ -24760,8 +24437,7 @@ division must assess all relevant factors of the case.
 Rule 116(2) 
 Art. 114(2) 
 Rule 116(1) and (2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VI-5 
  
 The division will in the first place have to consider the relevance of the 
@@ -24811,8 +24487,7 @@ The patent proprietor introduces at short notice a proliferation of
 auxiliary requests which are not a reaction to the course of the 
 proceedings. 
 Part E – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 The opponent knowingly abstains from raising an assertion of public 
@@ -24866,8 +24541,7 @@ in good time before the proceedings. They may, however, be quoted or
 submitted for the first time in the oral proceedings themselves if the 
 opposition division agrees after consulting the parties. 
 Art. 113(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VI-7 
  
 The reasons for the decision on the admissibility of late-filed facts, evidence 
@@ -24929,8 +24603,7 @@ Rule 114(1)
 Rule 3(3) 
 Rule 114(2) 
 Part E – Chapter VI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Observations by third parties received in examination after dispatch of a 
 Rule 71(3) communication but before the decision to grant (EPO Form 
@@ -24979,8 +24652,7 @@ before the EPO (for enquiries as to the processing of files, see E-VIII, 7).
 Complaints can be submitted using the online form available at 
 epo.org/en/formal-complaint. 
 Complaints are forwarded to a dedicated EPO department responsible for 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VI-9 
  
 (i) 
@@ -25011,11 +24683,12 @@ documents excluded from file inspection, OJ EPO 2007, Special edition
 No. 3, J.3). 
 Art. 128(4) 
 Rule 144(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VII-1 
  
-Chapter VII – Interruption, stay and consolidation of the proceedings 1. Interruption 
+## Chapter VII – Interruption, stay and consolidation of the proceedings  
+
+### 1. Interruption 
 
 #### 1.1 Cases in which the proceedings may be interrupted 
 
@@ -25073,8 +24746,7 @@ Art. 20
 Rule 143(1)(t) 
 Rule 142(2) 
 Part E – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If, three years after the publication of the date of interruption in the 
 European Patent Bulletin, the EPO has not been informed of the identity of 
@@ -25126,8 +24798,7 @@ Rule 142(3)
 Rule 142(3)(a) 
 Rule 142(3)(b) 
 Rule 142(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VII-3 
  
 Concerning renewal fees falling due during the period of interruption, 
@@ -25178,8 +24849,7 @@ Board of Appeal is to be distinguished from a stay of proceedings pursuant
 to Rule 14 (see E-VII, 2). 
 Rule 14(1) 
 Part E – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 ### 4. Consolidation of proceedings 
@@ -25209,13 +24879,14 @@ A decision to consolidate proceedings is not subject to a separate appeal
 but may be appealed only together with the final decision unless the 
 decision allows a separate appeal (see E-X, 3). The same applies 
 mutatis mutandis to a decision setting aside consolidation. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-1 
  
-Chapter VIII – Time limits, loss of rights, further and accelerated processing and re-establishment of rights 
+## Chapter VIII – Time limits, loss of rights, further and accelerated processing and re-establishment of rights 
 
-### 1. Time limits and loss of rights resulting from failure to respond 
+###  
+
+1. Time limits and loss of rights resulting from failure to respond 
 
 within a time limit 
 
@@ -25265,8 +24936,7 @@ communications from the Legal Division – two months.
 Art. 120 
 Rule 131 
 Part E – Chapter VIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Where a communication according to Art. 94(3) in examination is 
 accompanied by a request for a translation of a priority document 
@@ -25325,8 +24995,7 @@ Rule 131
 Rule 134 
 Rule 142 
 Art. 88(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-3 
  
 month time limit will not be deferred. Part A of the Guidelines deals with the 
@@ -25389,8 +25058,7 @@ rejected and any applicant considers this unjust, they can only overcome
 Rule 132 
 Art. 106(2) 
 Part E – Chapter VIII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the ensuing loss of rights by requesting a decision under Rule 112(2) 
 and/or further processing under Art. 121(1) and Rule 135(1) (see E-VIII, 2), 
@@ -25444,8 +25112,7 @@ are available unless the outage lasts less than four hours and is
 announced at least two working days in advance. 
 For further details see OJ EPO 2020, A120. 
 Rule 134(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-5 
  
 
@@ -25504,8 +25171,7 @@ periods under Rule 51(3) and (4) (see A-X, 5.2.4).
 Rule 134(2) and (4) 
 Rule 134(5) 
 Part E – Chapter VIII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 By contrast, an extension under Rule 134 does not affect: 
 – 
@@ -25559,8 +25225,7 @@ Recognised postal service providers are the designated operators within
 the meaning of Article 1 of the Universal Postal Convention as well as 
 Chronopost, DHL, Federal Express, flexpress, TNT, SkyNet, UPS and 
 Rule 133(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-7 
  
 Transworld (see the decision of the President of the EPO dated 
@@ -25623,8 +25288,7 @@ Art. 119
 Rule 112(1) 
 Rule 112(2) 
 Part E – Chapter VIII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 which they are based must be stated. Only the person affected by the loss 
 of rights noted will be party to the proceedings. 
@@ -25678,8 +25342,7 @@ Art. 121(1) and (2)
 Rule 135(1) and (3) 
 Art. 2(1), 
 item 12, RFees 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-9 
  
 – 
@@ -25731,8 +25394,7 @@ A request for further processing may also be filed between expiry of the
 unobserved time limit and notification of the communication concerning 
 either the failure to observe a time limit or a loss of rights. 
 Part E – Chapter VIII-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The department competent to decide on the omitted act also decides on the 
 request for further processing. 
@@ -25789,8 +25451,7 @@ Art. 122(1)
 Art. 122(4) 
 Rule 136(3) 
 Rule 131(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-11 
  
 The following are examples of cases where re-establishment of rights may 
@@ -25853,8 +25514,7 @@ Art. 112a(4)
 Rule 22(3) 
 Rule 136(1), (2) 
 Part E – Chapter VIII-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Unlike the time limit for other cases as described above, a request for 
 re-establishment in respect of the priority period (Art. 87(1)) or the period 
@@ -25908,8 +25568,7 @@ re-establishment of rights in respect of the period. The request requires
 completion of the omitted acts and payment of the corresponding number 
 of fees for re-establishment of rights within the period under Rule 136(1). 
 The omitted acts are those that were to be performed within the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-13 
  
 31-month period and payment of the corresponding five fees for further 
@@ -26001,8 +25660,7 @@ Example 3
 After a decision to refuse by the examining division, the applicant missed 
 both the time limit for filing the notice and the time limit for filing the 
 Part E – Chapter VIII-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 statement of grounds of appeal. Both time limits were missed for the same 
 reason. Despite two time limits being missed, only one re-establishment fee 
@@ -26055,8 +25713,7 @@ rights is dependent on the individual facts of the case. Examples include
 inter alia organisational upheavals and sudden serious illnesses. In such 
 cases, the requesters must show not only the existence of those 
 Art. 122(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-15 
  
 circumstances, but also that they took all due care, e.g. by carefully 
@@ -26111,8 +25768,7 @@ particular, a non-European representative must also show that a reliable
 system for the monitoring of time limits was in place when the time limit was 
 missed (see J 4/07). 
 Part E – Chapter VIII-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 3.3 Decision on re-establishment of rights 
@@ -26166,8 +25822,7 @@ the applicant wishes to have the application examined in an accelerated
 Rule 136(4) 
 Art. 122(3) 
 Rule 51(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-17 
  
 manner, a PACE request may be filed, once the application has entered the 
@@ -26217,8 +25872,7 @@ Without prejudice to the above an accelerated search can only start:
 after receipt of the applicant's response to a communication under 
 Rule 62a or 63, or expiry of the respective time limit; 
 Part E – Chapter VIII-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (ii) 
 in all cases: when the application documents on filing are complete 
@@ -26269,8 +25923,7 @@ immediately, on entry into the European phase the applicant must explicitly
 waive the right to the communication pursuant to Rule 161(1) and 
 Rule 162(2) and fulfil all corresponding requirements (see the notice from 
 the EPO dated 30 November 2015, OJ EPO 2015, A94). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-19 
  
 The EPO strives to produce subsequent examination communications 
@@ -26414,8 +26067,7 @@ OJ EPO 2016, A44
 OJ EPO 2022, A44 
 and A45 
 Part E – Chapter VIII-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 informed by the Unified Patent Court, the national court or the competent 
 authority of a contracting state that infringement or revocation actions are 
@@ -26468,8 +26120,7 @@ OJ EPO 2016, A66).
 Under this procedure, an enquiry is processed and replied to only if it is 
 filed online using EPO Form 1012. It may be submitted for only one 
 application or patent at a time. The EPO will promptly issue an 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter VIII-21 
  
 acknowledgement of receipt. Both the enquiries and the replies from the 
@@ -26525,8 +26176,7 @@ Art. 79(3)
 Rule 39(2) and 
 (3) 
 Part E – Chapter VIII-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Withdrawal of the application in due time before the eighteen-month 
 publication has the advantage that the contents of the application do not 
@@ -26574,11 +26224,13 @@ patent, this is deemed equivalent to a request that the patent be revoked
 (see also D-VIII, 1.2.5). 
 Art. 87(4) 
 Rule 84(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-1 
  
-Chapter IX – Applications under the Patent Cooperation Treaty (PCT) 1. General remarks 
+## Chapter IX – Applications under the Patent Cooperation Treaty (PCT)  
+
+### 1. General remarks 
+
 The EPO may be a "designated Office" or an "elected Office" for an 
 international application filed under the Patent Cooperation Treaty (PCT) 
 designating "EP" (Euro-PCT application). If an applicant enters the 
@@ -26635,8 +26287,7 @@ Art. 152
 Rule 157 
 Rule 158 
 Part E – Chapter IX-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (vi) 
 if the international search has been carried out by an office other 
@@ -26689,8 +26340,7 @@ As a result of the prevalence of the PCT provisions and the requirements of
 Art. 150 and Art. 153 relating to international applications under the PCT in 
 Art. 150(2) 
 Art. 27(1) PCT 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-3 
  
 the European phase, the instructions in the earlier chapters of these 
@@ -26750,8 +26400,7 @@ pay the designation fee (and any extension or validation fees) if the
 period under Rule 39 has expired earlier (see E-IX, 2.1.5.2), 
 Rule 159 
 Part E – Chapter IX-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 pay the search fee if a supplementary European search report is to 
@@ -26806,8 +26455,7 @@ indications given in the table for section 6 provided for the calculation of the
 additional (page) fee to be paid for applications comprising more than 
 35 pages (see A-III, 13.2). If the applicant has filed test reports 
 Rule 159(1)(b) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-5 
  
 (e.g. comparative examples in support of inventive step) with the EPO as 
@@ -26874,8 +26522,7 @@ Rule 73 PCT
 PCT Newsletter 
 11/2013, 9 
 Part E – Chapter IX-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 However, if the EPO is acting as designated Office and the IB has not yet 
 sent it a copy of the international application, the ISR and the WO-ISA, the 
@@ -26939,8 +26586,7 @@ Rule 49.5(f) PCT
 Rule 49.5(a) PCT 
 Rules 12.1(d) and 
 49.5(a-bis) PCT 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-7 
  
 translation needs to be filed only if the ʺlanguage-dependentʺ free-
@@ -27006,8 +26652,7 @@ Rule 160(1)
 Rule 49.5(c-bis), (g), 
 (h) PCT 
 Part E – Chapter IX-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 as regards items (iii) to (vii) above, the application is deemed to be 
@@ -27084,8 +26729,7 @@ Rule 49.5(c) PCT
 Rule 3(1) 
 Rule 49.5(c) PCT 
 Rule 3(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-9 
  
 be informed that they are not duly filed and shall not serve as basis for the 
@@ -27142,8 +26786,7 @@ Art. 14(2)
 Rule 159(1) 
 Rule 159(1) 
 Part E – Chapter IX-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Extension or validation is possible and deemed requested for any 
 international application entering the European phase in respect of any 
@@ -27198,8 +26841,7 @@ Rule 160(3)
 Rule 39(2a) 
 Rule 159(1) 
 Rule 159(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-11 
  
 The required written request for examination is automatically made if 
@@ -27254,8 +26896,7 @@ Rule 160
 Art. 2(1), item 12, 
 RFees 
 Part E – Chapter IX-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If the application is deemed withdrawn because the filing fee was not paid 
 in due time, reinstatement of rights under Rule 49.6 PCT is available as an 
@@ -27305,8 +26946,7 @@ upon effective entry into the European phase. For a request under Rule 56
 Rule 56 
 Rule 56a 
 Rule 20 PCT 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-13 
  
 or Rule 56a to be allowed by the EPO as designated/elected Office, it must 
@@ -27371,8 +27011,7 @@ Rule 82bis and
 82ter PCT 
 Rule 139 
 Part E – Chapter IX-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 appointed in the procedure before the EPO as receiving Office, ISA, SISA 
 or IPEA and it is clear from the respective file that the appointment extends 
@@ -27432,8 +27071,7 @@ Rule 163(5) - (6)
 Rule 163(4) - (6) 
 Rules 160(3) and 
 Rule 39(2a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-15 
  
 (Rule 163(5)), with the same consequence for failure to correct the 
@@ -27506,8 +27144,7 @@ Rule 17.1 and
 ### 17.2 PCT 
 
 Part E – Chapter IX-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.3.5.1 Priority document 
@@ -27569,8 +27206,7 @@ delay after they have become available to the applicant (Rule 141(1)).
 Rule 163(2) 
 Art. 88(1) 
 Rule 53(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-17 
  
 
@@ -27627,8 +27263,7 @@ Art. 122
 PCT Newsletter 
 9/2015, 10 
 Part E – Chapter IX-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 European phase (see E-IX, 2.8); where the application is deemed 
 withdrawn under Rule 160(1) for failure to comply with a requirement 
@@ -27682,8 +27317,7 @@ ensure that any claims fees not yet paid for the set of claims filed within the
 31-month period are paid before expiry of the six-month period under 
 Rule 161. 
 Rule 162(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-19 
  
 Example: 
@@ -27735,8 +27369,7 @@ The abstract (see A-III, 10 ("Abstract")) is included in the copy of the
 international application supplied to the EPO. 
 Rule 162(3) 
 Part E – Chapter IX-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.4 Instructions in Chapter A-IV ("Special provisions") 
@@ -27791,8 +27424,7 @@ EPO dated 9 December 2021 (OJ EPO 2021, A97)). Where a sequence
 listing is filed or corrected after the filing date, the applicant is required to 
 submit a statement that it does not include matter going beyond the content 
 Rule 163(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-21 
  
 of the application as filed. This statement can be made by selecting the 
@@ -27844,8 +27476,7 @@ an independent expert nominated by the requester (see A-IV, 4.3).
 Rule 159(1)(h) 
 Rule 31 
 Part E – Chapter IX-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.5 Instructions in Chapter A-VI ("Publication of application; request 
@@ -27904,8 +27535,7 @@ Art. 153(3) and
 (4) 
 Rule 159 
 Art. 67 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-23 
  
 The mandatory translation of the annexes to the IPER and any 
@@ -27970,8 +27600,7 @@ Art. 150(2)
 Rule 159(1)(f) 
 Rule 70(2) 
 Part E – Chapter IX-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The supplementary European search is based on the last set of claims filed 
 up to expiry of the period set under Rule 161(2) for which any claims fee 
@@ -28030,8 +27659,7 @@ Rule 44bis.2 PCT
 Art. 23(2) and 
 40(2) PCT 
 Rule 159(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-25 
  
 vary depending on the date of receipt of the request and the particularities 
@@ -28093,8 +27721,7 @@ declaration of incompatibility (Rule 20.8 PCT). Thus, applicants who want
 Rule 20.5bis PCT 
 OJ EPO 2022, A3 
 Part E – Chapter IX-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 to make use of the abridged procedure (by requesting that the correct 
 application documents be disregarded or by indicating that they wish to 
@@ -28143,8 +27770,7 @@ applicant, examination will not start until the EPO has received an
 indication from them that they wish to proceed with the application and, if 
 required, a response to the extended European search report (see 
 E-IX, 2.5.3). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-27 
  
 An invitation under Rule 70a(2) to inform the EPO whether, upon 
@@ -28202,8 +27828,7 @@ Rules 51 and 82ter
 PCT 
 Rule 159(2) 
 Part E – Chapter IX-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 documents received from the International Bureau under the circumstances 
 of Art. 25(1)(a) PCT to the examining division. Where it is decided that the 
@@ -28267,8 +27892,7 @@ Rule 4.18, Rule
 82ter.1(b) PCT 
 Rule 82ter.1(c), 
 (d) PCT 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-29 
  
 comment in accordance with Art. 113(1). In the case of missing parts, the 
@@ -28342,8 +27966,7 @@ Art. 30(2) PCT
 Rule 94.2bis PCT 
 Rule 94.3 PCT 
 Part E – Chapter IX-30 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 comments on their application within the time limit set in the communication 
 under Rules 161 and 162 (see E-IX, 3.2). Whether or not a response is 
@@ -28395,8 +28018,7 @@ search opinion. The supplementary European search will be based on the
 last set of claims filed up to expiry of this period for which any claims fee 
 due is paid. 
 Rule 161(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-31 
  
 The applicant may, but is not required to, reply to the WO-ISA, IPER or 
@@ -28456,8 +28078,7 @@ supplementary international search report (SISR) or has issued a
 declaration under Art. 17(2)(a) PCT, no supplementary European search 
 Rule 161(1) 
 Part E – Chapter IX-32 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 report is prepared (see the decision of the Administrative Council of 
 28 October 2009, OJ EPO 2009, 594, and B-II, 4.3.1, B-II, 4.3.2). In these 
@@ -28516,8 +28137,7 @@ European phase or on effecting early entry into the European phase.
 If no supplementary European search report is drawn up, the application, 
 upon effective entry into the European phase, immediately falls within the 
 competence of the examining division and will, after formalities 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-33 
  
 examination, be passed on for substantive examination on condition that a 
@@ -28554,8 +28174,7 @@ they constitute a valid response (see B-XI, 8).
 (ii) 
 If the applicant filed amendments according to Art. 19 and/or 34 PCT 
 in the international phase, and if the EPO prepared the WO-ISA or 
-SISR but no IPER (either because the applicant did not demand PCT 
-Chapter II or because the IPEA was an office other than the EPO), then these amendments are considered to constitute a response to the WO-ISA or SISR, provided that the applicant 
+SISR but no IPER (either because the applicant did not demand PCT Chapter II or because the IPEA was an office other than the EPO), then these amendments are considered to constitute a response to the WO-ISA or SISR, provided that the applicant 
 – 
 has indicated on entry into the European phase that these 
 amendments are maintained, 
@@ -28569,8 +28188,7 @@ IPEA, these are not considered to constitute a response to the IPER as
 required by Rule 161(1); in these cases, the applicant is required to 
 respond to the IPER within the six-month period according to Rule 161(1). 
 Part E – Chapter IX-34 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If the requirements of Rule 137(4) were not fulfilled for amendments 
 already filed, the required indications are to be made in reply to the 
@@ -28621,8 +28239,7 @@ Since the communication under Rule 137(4) can only be issued by the
 examining division, it cannot be issued by a search division drawing up a 
 supplementary European search report (see B-XI, 2 and H-III, 2.1.1). 
 Rule 137(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-35 
  
 
@@ -28688,8 +28305,7 @@ Rule 164(2)
 Rule 137(5) 
 Art. 14(1) 
 Part E – Chapter IX-36 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The examination must be conducted in accordance with Art. 41 and 
 42 PCT, which stipulate that: 
@@ -28755,8 +28371,7 @@ Rule 159(1)(b)
 Rule 161 
 Rule 161(1) 
 Rule 159 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter IX-37 
  
 conversely where the applicant provides amendments in response to the 
@@ -28765,11 +28380,15 @@ Examination reports drawn up by other International Preliminary Examining
 Authorities must be examined carefully. If the reasons put forward in the 
 international preliminary examination report are sound, they must not be 
 disregarded. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter X-1 
  
-Chapter X – Decisions 1. Basic principles of decisions 1.1 General remarks 
+## Chapter X – Decisions  
+
+### 1. Basic principles of decisions 
+
+#### 1.1 General remarks 
+
 Decisions subject to appeal are taken by the Receiving Section, the 
 examining divisions, the opposition divisions and the Legal Division. Unless 
 otherwise specified, the principles described in this chapter apply to all 
@@ -28815,8 +28434,7 @@ opponents) and, if applicable, their representatives;
 Art. 106(1) 
 Art. 113(1) 
 Part E – Chapter X-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 the order (operative part), and, if necessary; 
@@ -28865,8 +28483,7 @@ forming the basis of the decision, as appropriate. It is essential that the
 parties have been given an opportunity to comment on all the grounds on 
 which the decision is based. 
 Rule 113(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter X-3 
  
 When several grounds are used in the decision, it is imperative to link them 
@@ -28918,8 +28535,7 @@ introduced during oral proceedings. The use of fresh arguments in a
 decision still based on grounds and evidence communicated beforehand is 
 not precluded (see T 268/00 and T 1557/07). 
 Part E – Chapter X-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If a case is remitted from the boards of appeal for further prosecution, the 
 examining division must check whether requests from examination 
@@ -28970,8 +28586,7 @@ Art. 113(2) (see T 234/86), and therefore must be dealt with in the order
 indicated or agreed to by the applicant or proprietor, up to and including the 
 highest-ranking allowable request, if any. 
 Art. 113(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter X-5 
  
 When considering such requests it is essential that they are treated in the 
@@ -29032,8 +28647,7 @@ ensured that the facts and submissions are consistent with the contents of
 the minutes of oral proceedings (also see E-III, 10.3). 
 Rule 111(1) 
 Part E – Chapter X-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The facts and submissions must clearly indicate what is the subject of the 
 application and show on which documents the decision is based. In 
@@ -29086,8 +28700,7 @@ checked without difficulty. Therefore, reference is made to each particular
 passage in the publication. It is not sufficient, for example, merely to assert 
 Art. 113(1) 
 Rule 111(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter X-7 
  
 that the cited publications show that the subject of a claim is known or 
@@ -29138,8 +28751,7 @@ Formulations implying doubt or uncertainty, such as "seems" or
 All significant arguments advanced by a losing party to the proceedings are 
 carefully examined and comprehensively refuted in the decision. The 
 Part E – Chapter X-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 decision must substantiate the division's view that none of the submitted 
 arguments overcome the objections it has raised. 
@@ -29200,8 +28812,7 @@ If an examining or opposition division has exercised its discretion under
 Art. 114(2) or Rule 116 to refuse late-filed facts, evidence or requests, its 
 Art. 114(2) 
 Rule 116 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter X-9 
  
 decision must give the reasons for its refusal. A mere reference to the 
@@ -29257,8 +28868,7 @@ Rule 137(3)
 Art. 106(2) 
 Art. 111(2) 
 Part E – Chapter X-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 e.g. the subject-matter of the patent and the relevant state of the art, are 
 the same. 
@@ -29310,11 +28920,12 @@ Art. 89
 Rule 75 
 Rule 84 
 Rule 98 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XI-1 
  
-Chapter XI – Impartiality of divisions Members of the competent divisions may not take part in the decision on a case: 
+## Chapter XI – Impartiality of divisions 
+
+Members of the competent divisions may not take part in the decision on a case: 
 (i) 
 in which they may have any personal interest (partiality for subjective 
 reasons) or 
@@ -29351,11 +28962,14 @@ division will inform the parties accordingly and the oral proceedings will
 continue. In either case, the superior's decision will be communicated to the 
 parties, normally as an annex to the division's decision, and will be referred 
 to in the facts and submissions part of that decision. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XII-1 
  
-Chapter XII – Appeals 1. Suspensive effect This chapter deals in detail only with those questions which are relevant for 
+## Chapter XII – Appeals  
+
+### 1. Suspensive effect 
+
+This chapter deals in detail only with those questions which are relevant for 
 interlocutory revision. At this stage of the proceedings the department of 
 first instance is still competent. More information on the appeal proceedings 
 and the rules of procedure of the boards of appeal can be found on the 
@@ -29419,8 +29033,7 @@ Rule 99(1)
 Rule 7a(2) 
  
 Part E – Chapter XII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 the EPC. For appeals filed on or after 1 April 2018 by natural persons and 
 entities referred to in Rule 6(4) and (5), i.e. small and medium-sized 
@@ -29473,8 +29086,7 @@ see E-X, 2.6.
 Rule 99(2) 
 Art. 109(1) 
 Art. 109(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XII-3 
  
 In either case, whether the appealed decision is rectified or the appeal is 
@@ -29528,8 +29140,7 @@ Art. 109(2)
 Rule 103(1)(a) 
 Art. 109 
 Part E – Chapter XII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 7.4 Examples 
@@ -29581,8 +29192,7 @@ is in the interest of procedural efficiency and to the benefit of the applicant
 (no second appeal fee necessary, see T 2445/11). 
 If amendments made to the independent claims clearly do not meet the 
 requirements of Art. 123(2), interlocutory revision is not granted, but the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XII-5 
  
 division sends the file to the boards of appeal. If there are doubts as to 
@@ -29643,8 +29253,7 @@ the original searched claims to form a single general inventive
 concept: no interlocutory revision because said claims cannot be 
 allowed in the proceedings. 
 Part E – Chapter XII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 7.4.3 Main and auxiliary requests filed with the appeal 
@@ -29699,8 +29308,7 @@ by the board.
 (b) 
 The case is remitted for the description to be brought into line with 
 claims whose wording has been finally decided by the board. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XII-7 
  
 (c) 
@@ -29744,13 +29352,14 @@ and
 the division must check whether requests from examination or 
 opposition proceedings prior to the appeal (e.g. for oral proceedings) 
 are still outstanding – see T 892/92, Headnote. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XIII-1 
  
-Chapter XIII – Request from a national court for a technical opinion concerning a European patent 
+## Chapter XIII – Request from a national court for a technical opinion concerning a European patent 
 
-### 1. General 
+###  
+
+1. General 
 
 At the request of the competent national court trying an infringement or 
 revocation action, the EPO is obliged, against payment of an appropriate 
@@ -29796,8 +29405,7 @@ formulated, so that the examining division will be in no doubt as to the
 questions on which the court wishes to have an opinion. Since the court is 
 Art. 25 
 Part E – Chapter XIII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 responsible for deciding the issues of law involved in the questions and 
 since most questions include a mixture of legal and technical aspects, the 
@@ -29853,8 +29461,7 @@ may be required to satisfy the above conditions.
 ### 5. Procedure 
 
 It is envisaged that the procedure will normally involve the following stages. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XIII-3 
  
 
@@ -29913,8 +29520,7 @@ Art. 2(1),
 item 20, RFees 
 Art. 10 RFees 
 Part E – Chapter XIII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 5.6 Appearance before the national court 
@@ -29927,11 +29533,13 @@ on the technical opinion given and will not be required to give an opinion on
 additional matters unless notice in writing of these additional matters is 
 given to the examining division at least one month before the appearance 
 before the court. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XIV-1 
  
-Chapter XIV – Registration of changes of name, transfers, licences and other rights 1. General 
+## Chapter XIV – Registration of changes of name, transfers, licences and other rights  
+
+### 1. General 
+
 Pursuant to Rules 22 to 24 and 85 in conjunction with Rule 143(1)(w), 
 rights and transfer of such rights relating to an application or, where 
 applicable, a European patent are registered in the European Patent 
@@ -29981,8 +29589,7 @@ Art. 72
 Rule 22(1) and 
 (2) 
 Part E – Chapter XIV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Rule 22 furthermore requires the production of documents providing 
 evidence of such a transfer. Any kind of written evidence suitable for 
@@ -30030,8 +29637,7 @@ latest. In case of a minor deficiency, i.e. if all requirements were present but
 not fulfilled completely (e.g. the request was signed but the name and/or 
 position of the person signing were missing), once rectified the effective 
 date is the date of receipt of the original request for registration. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part E – Chapter XIV-3 
  
 On the above date, the transfer becomes effective vis-à-vis the EPO, 
@@ -30094,8 +29700,7 @@ Rule 23(1)
 Rule 24(a) and 
 (b) 
 Part E – Chapter XIV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 A licence will be recorded in the European Patent Register as an exclusive 
 licence if the applicant and the licensee so require. A licence will be 
@@ -30117,8 +29722,7 @@ Rule 23(2)
 Part F 
  
 The European Patent Application 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Contents a 
  
 Contents 
@@ -30149,8 +29753,7 @@ Chapter II – Content of a European patent application (other than claims) 		II
 4.9 Industrial application 		II-8 
 4.10 Manner and order of presentation 		II-8 
 Part F – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 4.11 Terminology 		II-9 
 4.12 Computer programs 		II-9 
@@ -30177,8 +29780,7 @@ Annex 1 Checklist for considering the abstract (see F-II, 2.5) 		II-16
 Annex 2 Units recognised in international practice as determined by the President under Rule 49(2) (see F-II, 4.13) 		II-17 
 1. SI units and their decimal multiples and submultiples 		II-17 
 2. Units which are defined on the basis of SI units but are not decimal multiples or submultiples thereof 		II-20 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Contents c 
  
 3. Units used with the SI, and whose values in SI are obtained experimentally 		II-20 
@@ -30206,8 +29808,7 @@ Chapter III – Sufficiency of disclosure 		III-1
 11. Sufficiency of disclosure and clarity 		III-10 
 12. Sufficiency of disclosure and inventive step 		III-11 
 Part F – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Chapter IV – Claims (Art. 84 and formal requirements) 		IV-1 
 1. General 		IV-1 
@@ -30236,8 +29837,7 @@ Chapter IV – Claims (Art. 84 and formal requirements) 		IV-1
 4.2 Interpretation 		IV-16 
 4.3 Inconsistencies 		IV-17 
 4.4 General statements, "spirit of the invention", claim-like clauses 		IV-20 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Contents e 
  
 4.5 Essential features 		IV-21 
@@ -30274,8 +29874,7 @@ Part F – Contents e
 4.20 "Comprising" vs "consisting of" 		IV-36 
 4.21 Functional definition of a pathological condition 		IV-37 
 Part F – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 4.22 Broad claims 		IV-37 
 4.23 Order of claims 		IV-37 
@@ -30307,8 +29906,7 @@ Chapter V – Unity of invention 		V-1
 3.2.7 Intermediate and final products 		V-11 
 3.3 Reasoning for a lack-of-unity objection 		V-12 
 3.3.1 Minimum requirements for reasoning of lack of unity 		V-12 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Contents g 
  
 3.4 Determination of the invention first mentioned in the claims 		V-14 
@@ -30337,8 +29935,7 @@ Chapter VI – Priority 		VI-1
 2.1 Examining the validity of a right to priority 		VI-5 
 2.2 The same invention 		VI-6 
 Part F – Contents h 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 2.3 Priority claim not valid 		VI-7 
 2.4 Some examples of determining priority dates 		VI-7 
@@ -30354,11 +29951,12 @@ April 2025
 3.5 Withdrawal of priority claim 		VI-10 
 3.6 Re-establishment of rights in respect of the priority period 		VI-11 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter I-1 
  
-Chapter I – Introduction Apart from the requirements of patentability (novelty, inventive step, industrial application and exclusions from patentability), a European patent 
+## Chapter I – Introduction 
+
+Apart from the requirements of patentability (novelty, inventive step, industrial application and exclusions from patentability), a European patent 
 application must also satisfy a number of other requirements. These 
 include substantive requirements such as sufficiency of disclosure (Art. 83), 
 clarity of the claims (Art. 84) and unity of invention (Art. 82) as well as 
@@ -30369,11 +29967,13 @@ Part F also deals with the requirements relating to the right to priority. This
 is because, despite the fact that this issue is usually assessed only when it 
 has a potential bearing on a question of patentability (see G-IV, 3), it is 
 nonetheless assessed independently of any issues of patentability. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-1 
  
-Chapter II – Content of a European patent application (other than claims) 1. General 
+## Chapter II – Content of a European patent application (other than claims)  
+
+### 1. General 
+
 The requirements for a European patent application are set out in Art. 78. 
 The application must contain: 
 (i) 
@@ -30437,8 +30037,7 @@ Rule 47(5)
 Rule 47(1) 
 Rule 47(2) 
 Part F – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (iii) 
 contain a concise summary of the disclosure as contained in the 
@@ -30504,8 +30103,7 @@ Rule 47(4)
 Rule 47(4) 
 Rule 66 
 Art. 98 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-3 
  
 the patent specification does not contain an abstract. The examining 
@@ -30563,8 +30161,7 @@ Rule 41(2)(b)
 Art. 83 
 Rule 42 
 Part F – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (ii) 
 to enable the skilled person to understand the contribution to the art 
@@ -30620,8 +30217,7 @@ the light of the prior art.
 Rule 42(1)(a) 
 Rule 42(1)(b) 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-5 
  
 New statements of advantage are permissible if they do not introduce into 
@@ -30689,8 +30285,7 @@ ST.16
 Art. 54(3) 
 Art. 54(4) EPC 1973 
 Part F – Chapter II-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (Recommended Standard Code for the Identification of Different 
 Kinds of Patent Documents). 
@@ -30741,8 +30336,7 @@ otherwise well known. Likewise, the examining division does not require a
 detailed description of the content of cited prior documents. It is sufficient to 
 indicate the reason for the inclusion of the reference unless, in a particular 
 Rule 48(1)(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-7 
  
 case, a more detailed description is necessary for a full understanding of 
@@ -30801,8 +30395,7 @@ Rule 48(1)(b)
 Rule 42(1)(c) 
 Rule 42(1)(d) 
 Part F – Chapter II-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 elements of the drawings, the name of the element should be referred to as 
 well as its number, i.e. the reference should not be in the form "3 is 
@@ -30862,8 +30455,7 @@ Art. 52(1)
 Art. 57 
 Rule 29(3) 
 Rule 42(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-9 
  
 comprehensible with the minimum of description and only slight reference 
@@ -30919,8 +30511,7 @@ formulae, the symbols in general use must be employed. For chemical
 formulae, the symbols, atomic weights and molecular formulae in general 
 use must be employed. 
 Part F – Chapter II-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In general, only technical terms, signs and symbols generally accepted in 
 the field in question should be used. 
@@ -30980,8 +30571,7 @@ WIPO standard or in any other format.
 In this case, since the sequence is already publicly available, the applicant 
 does not need to supply a sequence listing. This applies even if these 
 sequences are referred to in one or more claims or if they are essential 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-11 
  
 features of the invention or necessary for the prior-art search (see J 8/11). 
@@ -31043,8 +30633,7 @@ paragraph 3(k) of WIPO Standard ST.26).
 Degenerate symbols representing a subgroup of residues are considered 
 as specifically defined. For example, the degenerate nucleotide symbol "s" 
 Part F – Chapter II-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (used to represent "c" or "g" as defined in Annex I, Table 1 of WIPO 
 Standard ST.26) is specifically defined.  
@@ -31087,8 +30676,7 @@ separate SEQ ID.
 For example, for the sequence: a10nxt12 
 the sequence listing must have two entries 
 SEQ ID No. 1: aaaaaaaaaa 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-13 
  
 SEQ ID No. 2: tttttttttttt 
@@ -31138,8 +30726,7 @@ The following table indicates which feature key and qualifier should be used
 to annotate the variants according to the type of sequence and the type of 
 variation (see paragraph 96 of WIPO Standard ST.26).  
 Part F – Chapter II-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Type of 
 sequence 
@@ -31211,8 +30798,7 @@ The values "other RNA" and "other DNA" must be applied to synthetic
 molecules, i.e. molecules that have been artificially created.  
 The values "unassigned DNA" and "unassigned RNA", on the other hand, 
 must be used for molecules that have been isolated from an organism but 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-15 
  
 their nature is not known or not disclosed and they cannot be assigned to 
@@ -31275,8 +30861,7 @@ Rule 48(1)(c)
 Rule 48(2) and 
 (3) 
 Part F – Chapter II-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Annex 1 
 Checklist for considering the abstract (see F-II, 2.5) 
@@ -31350,8 +30935,7 @@ in range 50-150: ……....
 Ref: Standards – ST.12/A, April 1994 
 Original: Handbook on Industrial Property Information and Documentation, Publication N° 208(E), 1998, 
 WIPO, Geneva (CH). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-17 
  
 Annex 2 
@@ -31422,8 +31006,7 @@ Mainly based on Chapter I of the Annex to EEC Directive 80/181/EEC of 20.12.1979
 by EEC Directives 85/1/EEC of 18.12.1984, 89/617/EEC of 27.11.1989, 1999/103/EC of 
 24.01.2000, 2009/3/EC of 11.03.2009 and Commission Directive (EU) 2019/1258 of 23.07.2019. 
 Part F – Chapter II-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 kg m2 s–2 K–1, where the kilogram, metre and second are defined in terms of 
 h, c and ΔνCs. 
@@ -31516,8 +31099,7 @@ watt
 W 
 J·s-1 
 m2·kg·s-3 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-19 
  
 Quantity 
@@ -31688,8 +31270,7 @@ The names and symbols of the decimal multiples and submultiples of the
 unit of mass are formed by attaching prefixes to the word "gram" and their 
 symbols to the symbol "g". 
 Part F – Chapter II-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Where a derived unit is expressed as a fraction, its decimal multiples and 
 submultiples may be designated by attaching a prefix to units in the 
@@ -31793,8 +31374,7 @@ Energy
 Electronvolt 
 eV 
 1eV ≈ 1,6021892 x 10-19 J 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter II-21 
  
 The value of these units, expressed in SI units, is not known exactly. 
@@ -31863,11 +31443,14 @@ called a "hectare".
 ### 5. Compound units 
 
 Combinations of the units listed in this annex form compound units. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-1 
  
-Chapter III – Sufficiency of disclosure 1. Sufficiency of disclosure A detailed description of at least one way of carrying out the invention must 
+## Chapter III – Sufficiency of disclosure  
+
+### 1. Sufficiency of disclosure 
+
+A detailed description of at least one way of carrying out the invention must 
 be given. Since the application is addressed to the skilled person, it is 
 neither necessary nor desirable to give details of well-known ancillary 
 features. However, the description must disclose any feature essential for 
@@ -31919,8 +31502,7 @@ Rule 42(1)(c) and
 (e) 
 Rule 63 
 Part F – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 amendment, an objection under Rule 63(3) will also be raised (see H-II, 5 
 and H-IV, 4.1.1). 
@@ -31986,8 +31568,7 @@ physical laws – this applies e.g. to a perpetual motion machine. If the
 Art. 83 
 Art. 123(2) 
 Art. 83 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-3 
  
 claims for such a machine are directed to its function, and not merely to its 
@@ -32043,8 +31624,7 @@ For the purposes of sufficient disclosure, the specification does not need to
 describe all the details of the operations to be carried out by the skilled 
 person on the basis of the instructions given if these details are well-known 
 Part F – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 and clear from the definition of the class of the claims or on the basis of 
 common general knowledge (see also F-III, 1 and F-IV, 4.5). 
@@ -32110,8 +31690,7 @@ Traditional Knowledge (not yet applicable to EP/PCT applications).
 Rule 26(3) 
 Rule 31(1) 
 Rule 26(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-5 
  
 division knows to have been preserved in a recognised depositary 
@@ -32165,8 +31744,7 @@ plasmids, vectors or free DNA or RNA), the above-mentioned
 Rule 31(1) and 
 (2) 
 Part F – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 information is also required for that biological system. If, for example, 
 other biological material that cannot be sufficiently described or is not 
@@ -32215,8 +31793,7 @@ In addition, the depositary institution named must be on the list of
 recognised institutions that is regularly updated and published in the Official 
 Journal of the EPO.  
 Rule 33(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-7 
  
 Where a deposit was originally made outside the Budapest Treaty, it must 
@@ -32276,8 +31853,7 @@ Rule 56(2) and
 (3) 
 Rule 56a(3) and (4) 
 Part F – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 indications must be furnished as required during the international phase 
 (see also the notice from the EPO dated 7 July 2010, OJ EPO 2010, 498). 
@@ -32328,8 +31904,7 @@ application as originally filed, the relevant content of the reference
 document is to be considered as forming part of the content of the 
 application for the purpose of citing the application under Art. 54(3) against 
 Art. 65 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-9 
  
 later applications. For reference documents not available to the public 
@@ -32388,8 +31963,7 @@ compounds
 (see F-III, 1) or to test every known compound and every conceivable 
 future compound for this activity to see if it falls within the scope of the 
 Part F – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 claim. In effect, the applicant is attempting to patent what has not yet been 
 invented, and the fact that the applicant can test for the effect used to 
@@ -32446,8 +32020,7 @@ decisive for establishing insufficiency within the meaning of Art. 83 is
 whether the parameter, in the specific case, is so ill-defined that a skilled 
 person is not able, on the basis of the disclosure as a whole and using 
 common general knowledge, to identify (without undue burden) the 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter III-11 
  
 technical measures necessary to solve the problem underlying the 
@@ -32474,11 +32047,13 @@ G 1/03, Reasons 2.5.2, T 1079/08, T 1319/10, T 5/06 and T 380/05).
 See F-III, 3 for cases where successful performance of the invention is 
 inherently impossible because it would be contrary to the well-established 
 laws of physics. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-1 
  
-Chapter IV – Claims (Art. 84 and formal requirements) 1. General 
+## Chapter IV – Claims (Art. 84 and formal requirements) 
+
+### 1. General 
+
 The application must contain "one or more claims". 
 These must: 
 (i) 
@@ -32530,8 +32105,7 @@ Art. 69(1)
 Rule 43(1) 
 Rule 43(1) 
 Part F – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 but the inventive step relates entirely to the shutter, it would be sufficient for 
 the first part of the claim to read: "A photographic camera including a focal 
@@ -32580,8 +32154,7 @@ substance for another and
 (iii) 
 a complex system of functionally interrelated parts, the inventive step 
 concerning changes in several of these or in their interrelationships. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-3 
  
 In examples (i) and (ii), the Rule 43 form of claim may be artificial and 
@@ -32644,8 +32217,7 @@ the process is implied; the activity may be exercised upon material
 Art. 54(3) 
 Rule 43(2) 
 Part F – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 products, upon energy, upon other processes (as in control processes) or 
 upon living things (see, however, G-II, 4.2 and 5.4). 
@@ -32697,8 +32269,7 @@ transmitter – receiver
 Art. 82 
 Art. 64(2) 
 Rule 43(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-5 
  
 – 
@@ -32755,8 +32326,7 @@ plurality of devices coupled to a bus
 a data-receiving method for receiving a data packet between a 
 plurality of devices coupled to a bus. 
 Part F – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 methods of operating a data processing system comprising 
@@ -32813,8 +32383,7 @@ Rule 43(2) but containing one or more claims directed to subject-matter
 excluded from the search in accordance with Rule 62a(1), an objection 
 under Rule 137(5) is raised and such amendments may not be admitted 
 Rule 43(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-7 
  
 (see also H-IV, 4 and 4.1.1). However, before such a decision can be 
@@ -32870,8 +32439,7 @@ Rule 43(3) and
 Rule 43(4) 
 Art. 84 
 Part F – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 A dependent claim referring explicitly to independent claims in two 
 categories as alternatives cannot be objected to on this ground alone. For 
@@ -32932,8 +32500,7 @@ Art. 84
 Rule 43(4) 
 Art. 84 
 Art. 82 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-9 
  
 features (Rule 43(1)) apply to a claim which simply says "Apparatus for 
@@ -32984,8 +32551,7 @@ The expression "computer-implemented inventions" (CII) covers claims
 which involve computers, computer networks or other programmable 
 apparatus, whereby at least one feature is realised by means of a program. 
 Part F – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Claims directed to CII should define all the features which are essential for 
 the technical effect of the process which the computer program is intended 
@@ -33045,8 +32611,7 @@ for carrying out step A, means for carrying out step B, ...
 A data processing apparatus/device/system comprising a 
 processor adapted to/configured to perform [the steps of] the 
 method of claim 1. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-11 
  
 (iii) 
@@ -33098,8 +32663,7 @@ claim. If the subject-matter of the method claim is considered novel and
 inventive, the subject-matter of the other claims in a set formulated in 
 accordance with the headings above will normally be novel and inventive 
 Part F – Chapter IV-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 as well if they comprise the features corresponding to all those which 
 assure the patentability of the method. 
@@ -33148,8 +32712,7 @@ electro-mechanics or industrial production processes, method claims
 frequently involve steps of manipulating or interacting with technical 
 physical entities by using computer control. These method steps may not 
 always be fully performed by the computer, and the method claim may 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-13 
  
 recite specific technical means for carrying out some of the steps. In such a 
@@ -33205,8 +32768,7 @@ Remarks: In this example, the method claim comprises a step which is
 defined as being executed by specific technical means (the electromagnetic 
 detector in a pulse oximeter). A computer program claim making reference 
 Part F – Chapter IV-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 only to the method would lack clarity because such a program could not be 
 executed, for example, on a general-purpose computer which does not 
@@ -33263,8 +32825,7 @@ Another common type of CII is realised in a distributed computing
 environment. Examples are a networked client (e.g. a smartphone) and 
 server system, accessing storage or processing resources of a computer 
 cloud, devices in a peer-to-peer network performing file sharing, an 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-15 
  
 augmented reality environment with head-mounted displays, autonomous 
@@ -33320,8 +32881,7 @@ encoded data to a second computer.
 
 the program is executed by a second computer, cause the second 
 Part F – Chapter IV-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 computer to receive encoded data from a first computer and decode 
 the received data by performing steps C and D. 
@@ -33374,8 +32934,7 @@ departure from the strict literal meaning of the wording of the claims. Art. 69
 and its Protocol do not provide a basis for excluding what is literally 
 covered by the terms of the claims (see T 223/05). 
 Art. 84 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-17 
  
 
@@ -33430,8 +32989,7 @@ supported by the description. This means that there must not
 be inconsistency between the claims and the description. 
 Parts of the description that give the skilled person the 
 Part F – Chapter IV-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 impression that they disclose ways to carry out the invention 
 but are not encompassed by the wording of the claims are 
@@ -33486,8 +33044,7 @@ advantages, but which can be interpreted as meant for being
 combined with the other features of the claim would not need 
 an amendment caused by the limitation of the claim from B to 
 B2 unless one of A1-A3 is incompatible with B2. On the other 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-19 
  
 hand, any passage explicitly referring to a sub-combination of 
@@ -33544,8 +33101,7 @@ under the scope of the appended claims are to be considered
 merely as examples suitable for understanding the invention", 
 without indicating which parts of the description are no longer 
 Part F – Chapter IV-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 covered. To remove the inconsistency, such a statement has 
 to refer to specific embodiments (e.g. "Embodiments X and Y 
@@ -33594,8 +33150,7 @@ by the claims.
 
 General statements in the description which imply that the extent of 
 protection may be expanded in some vague and not precisely defined way 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-21 
  
 are not allowed. In particular, any statement which refers to the extent of 
@@ -33650,8 +33205,7 @@ Art. 84
 Rule 43(1) and 
 (3) 
 Part F – Chapter IV-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If a claim is to a process for producing the product of the invention, then the 
 process as claimed must be one which, when carried out in a manner 
@@ -33700,8 +33254,7 @@ Similar considerations apply to claims for an apparatus.
 #### 4.5.5 Examples 
 
 Examples illustrating essential features can be found in the annex to F-IV. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-23 
  
 
@@ -33751,8 +33304,7 @@ limit the type of material because elasticity is an intrinsic property of any
 solid material measured by Young's modulus. In other words, taken outside 
 any context an elastic material can be anything from rubber to diamond. 
 Part F – Chapter IV-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 4.7 Terms such as "about", "approximately" or "substantially" 
@@ -33806,8 +33358,7 @@ being unambiguously distinguished from the prior art with respect to novelty
 and inventive step. 
 For example, if the application suggests that an icosagon (20-sided 
 polygon) is also a "substantially circular circumference" for a metal tray 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-25 
  
 realised by a CNC waterjet cutting machine, this renders the scope of the 
@@ -33862,8 +33413,7 @@ defined more precisely without unduly restricting the scope of the claims
 and if the result is one which can be directly and positively verified by tests 
 or procedures adequately specified in the description or known to the 
 Part F – Chapter IV-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 skilled person and which do not require undue experimentation 
 (see T 68/85). For example, the invention may relate to an ashtray in which 
@@ -33917,8 +33467,7 @@ Where the characteristics of the product are defined by a mathematical
 relation between parameters, each parameter needs to be clearly and 
 reliably determined. 
 The same applies to process-related features defined by parameters. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-27 
  
 The requirements of Art. 84 with regard to the characterisation of a product 
@@ -33970,8 +33519,7 @@ parameter generally recognised in the art is possible, or a
 non-accessible apparatus for measuring the unusual parameter is 
 used are prima facie objectionable on grounds of lack of clarity as no 
 Part F – Chapter IV-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 meaningful comparison with the prior art can be made. Such cases 
 might also disguise lack of novelty (see G-VI, 5). 
@@ -34023,8 +33571,7 @@ directed to a plant or animal lacks clarity.
 Art. 53(b) 
 Rule 28(2) 
 Art. 64(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-29 
  
 Claims for products defined in terms of a process of manufacture are 
@@ -34081,8 +33628,7 @@ Similarly, a claim to a substance or composition for a particular use is
 construed as meaning a substance or composition which is in fact suitable 
 Art. 69 
 Part F – Chapter IV-30 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 for the stated use; a known product which prima facie is the same as the 
 substance or composition defined in the claim, but which is in a form which 
@@ -34124,8 +33670,7 @@ first bevel path such that said second bevel path passes through a
 desired position on a lens edge; and 
 means for controlling the grinding wheel during the bevelling of the 
 lens on the basis of said second bevel path." 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-31 
  
 "1. 
@@ -34178,8 +33723,7 @@ such words as "Method for remelting galvanic layers", the part "for
 remelting ..." is not to be understood as meaning that the process is merely 
 suitable for remelting galvanic layers but rather as a functional feature 
 Part F – Chapter IV-32 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 concerning the remelting of galvanic layers and, hence, defining one of the 
 method steps of the claimed working method (see T 1931/14 and 
@@ -34229,8 +33773,7 @@ separate entity), see F-IV, 3.9.
 Once it has been established if a claim is directed either to one entity or to 
 a combination of entities, the wording of the claim must be adapted 
 appropriately to reflect it; otherwise the claim is objected to under Art. 84. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-33 
  
 For example, in the case of a claim directed to a single entity, the first entity 
@@ -34286,8 +33829,7 @@ current and voltage) rather than the complete unit within which the subunit
 is contained (four-stroke engine, telephone, process). This can make it 
 unclear whether the protection sought is limited to the subunit per se or 
 Part F – Chapter IV-34 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 whether the unit as a whole is to be protected. For the sake of clarity, 
 claims of this kind must be directed either to "a unit with (or comprising) a 
@@ -34335,8 +33877,7 @@ combine (a) a screening step (i.e. using a specified test material to select a
 compound having a given property) with (b) further production steps 
 (i.e. further transforming the selected compound for instance into the 
 desired composition). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-35 
  
 According to G 2/88, there are two different types of process claim, (i) the 
@@ -34392,8 +33933,7 @@ special features to which the last sentence of Rule 43(7) is not applicable.
 Rule 43(6) 
 Rule 43(7) 
 Part F – Chapter IV-36 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Consequently, it is unclear whether the features added to the reference 
 signs are limiting. Accordingly, such bracketed features are generally not 
@@ -34443,8 +33983,7 @@ A claim directed to an apparatus/method/product "comprising" certain
 features is interpreted as meaning that it includes those features, but that it 
 does not exclude the presence of other features as long as they do not 
 render the claim unworkable. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-37 
  
 On the other hand, if the wording "consist of" is used, then no further 
@@ -34500,8 +34039,7 @@ large number of claims is a long way down such that it could easily be
 Art. 84 and Art. 83 
 Art. 54 and Art. 56 
 Part F – Chapter IV-38 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 overlooked, the applicant is required either to rearrange the claims in a 
 more logical way or to direct attention to the broadest claim in the 
@@ -34556,8 +34094,7 @@ each particular case. The interests of the relevant public must also be
 borne in mind. The presentation of the claims must not make it unduly 
 Art. 84 
 Rule 43(5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-39 
  
 burdensome to determine the matter for which protection is sought (T 79/91 
@@ -34615,8 +34152,7 @@ broad claim is not supported over the whole of its breadth, the onus of
 demonstrating that the claim is fully supported lies with the applicant 
 Art. 84 
 Part F – Chapter IV-40 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (see F-IV, 4). Where an objection is raised, the reasons are, if possible, to 
 be supported specifically by a published document. 
@@ -34674,8 +34210,7 @@ under
 Rule 63(1) 
 (see B-VIII, 3.2) or the search opinion under Rule 70a (see B-XI, 8), an 
 objection under Rule 63(3) will also be raised (see H-II, 5). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-41 
  
 
@@ -34733,8 +34268,7 @@ a claim is formulated in such a way as to embrace other or all means of
 Art. 83 
 Art. 84 
 Part F – Chapter IV-42 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 performing the function, then an objection should be raised. Furthermore, it 
 may not be sufficient for the description to merely state in vague terms that 
@@ -34749,8 +34283,7 @@ permissible to amend the description so that it includes this subject-matter.
 Where the claim is dependent, it may suffice for the description to mention 
 that the claim sets out a particular embodiment of the invention 
 (see F-II, 4.5). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter IV-43 
  
 Annex 
@@ -34799,8 +34332,7 @@ of A and B for at least 10 minutes at 100°C. It is emphasised that A and B
 must be reacted for this minimum amount of time, as otherwise the reaction 
 will be incomplete and C will not be formed. Claim 1 is directed to a process 
 Part F – Chapter IV-44 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 for the production of compound C, characterised by reacting a mixture of A 
 and B for 5 to 15 minutes at 100°C. The claim does not contain all the 
@@ -34839,11 +34371,14 @@ included in the independent claim as an essential feature is to be applied
 only if it is clear from the application/patent as a whole that the inevitable 
 result of the findings leads unambiguously to a particular diagnosis: this will 
 have to be decided by the division on a case-by-case basis. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-1 
  
-Chapter V – Unity of invention 1. Introduction The basic principle behind the requirement of unity is that a patent is 
+## Chapter V – Unity of invention  
+
+### 1. Introduction 
+
+The basic principle behind the requirement of unity is that a patent is 
 granted for each invention separately, i.e. in order to proceed to grant, a 
 European patent application is required to contain claims relating to one 
 invention only (G 2/92, Reasons 2). 
@@ -34890,8 +34425,7 @@ Rule 64
 Art. 150(2) 
 Art. 82 
 Part F – Chapter V-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 plurality of alternative inventions defined within a single independent claim 
 (see also F-IV, 3.7) or a plurality of dependent claims where the 
@@ -34941,8 +34475,7 @@ and Art. 82 is explained in more detail in F-V, 3.2.1).
 Rule 44(1) 
 Art. 84 
 Rule 43(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-3 
  
 Lack of unity does not occur because of one claim containing a number of 
@@ -35003,8 +34536,7 @@ analysing any remaining technical features which are not part of the
 identified common matter to determine if there is a unifying technical 
 relationship between some of the claims. 
 Part F – Chapter V-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 For example, there may be a lack of unity between dependent claims if the 
 independent claim on which they depend does not comprise any features 
@@ -35051,8 +34583,7 @@ technical problem stated by the applicant since, by definition, this problem
 must be solved by the features of said independent claim. 
 The division will then proceed to analyse if any other common matter is 
 present among the claims, i.e. identify, in the light of the application as a 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-5 
  
 whole, any technical features of the claims that are the same or 
@@ -35108,8 +34639,7 @@ desideratum), or is obvious, these alternative features cannot be
 considered as defining a technical relationship within the meaning of 
 Rule 44(1) because there is no inventive merit in formulating the problem. 
 Part F – Chapter V-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The "prior art at hand", i.e. the prior art relied upon in the non-unity 
 assessment, may vary depending on the stage of proceedings. For 
@@ -35153,8 +34683,7 @@ be invited to pay an additional search fee for a group (see F-V, 4).
 If the problems associated with the different groups are either known from 
 the prior art at hand or different from each other, then the finding of step (ii) 
 that there exists a lack of unity is confirmed. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-7 
  
 
@@ -35215,8 +34744,7 @@ A plurality of inventions in the same category may constitute a group of
 inventions so linked as to form a single general inventive concept. 
 Rule 43(2) 
 Part F – Chapter V-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Examples of inventions in the same category are alternative forms of an 
 invention or interrelated inventions provided that they share a single 
@@ -35267,8 +34795,7 @@ dependent claims, the opposite is not true: a claim dependent on several
 independent claims is never part of the common matter between these 
 independent claims. 
 Rule 44(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-9 
  
 Unity is assessed firstly between the independent claims. If a dependent 
@@ -35321,8 +34848,7 @@ a device comprising features A, B and C.
 In this example, feature A is not a special technical feature (i.e. the subject-
 matter of claim 1 is either not new or not inventive).  
 Part F – Chapter V-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 If both features B and C are special technical features (new and 
@@ -35373,8 +34899,7 @@ element may be a single component or a combination of individual
 components linked together. 
 There is no need for a significant structural element to be novel in absolute 
 terms (i.e. novel per se). Rather, the term "significant" means that in 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-11 
  
 relation to the common property or activity, there must be a common part of 
@@ -35425,8 +34950,7 @@ final product and
 the intermediate and final products are technically interrelated, 
 i.e. the final product is manufactured directly from the intermediate or 
 Part F – Chapter V-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 is separated from it by a small number of intermediates all containing 
 the same essential structural element. 
@@ -35477,8 +35001,7 @@ common matter is based on the same or corresponding technical
 features. It is not confined to individual features but also includes 
 synergistic effects being the result of a combination of features, see 
 G-VII, 7 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-13 
  
 (ii) 
@@ -35533,8 +35056,7 @@ concept linking different uses as defined in the claims
 why a use in itself does not provide a single general inventive 
 concept linking the subject-matter of the claims. 
 Part F – Chapter V-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 3.4 Determination of the invention first mentioned in the claims 
@@ -35589,8 +35111,7 @@ Rule 64(1)
 Rule 164(1) 
 Rule 64(1) 
 Rule 64(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-15 
  
 enabling disclosure, the search division may invite the applicant to pay 
@@ -35635,8 +35156,7 @@ application may be necessary (see C-III, 3.3 and F-IV, 4.3).
 Non-searched subject-matter can always be prosecuted in a divisional 
 application. 
 Part F – Chapter V-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 ### 5. Procedure in the case of lack of unity during substantive 
@@ -35686,8 +35206,7 @@ stage to extend the search to that subject-matter, see H-IV, 4.1.2 and
 B-III, 3.5. 
 Rule 36(1) 
 Rule 137(5) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter V-17 
  
 
@@ -35747,8 +35266,7 @@ examination will be carried out on all claims.
 Art. 153(7) 
 Rule 164(2) 
 Part F – Chapter V-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In cases (i) to (iv), the applicant may file divisional applications for the 
 inventions deleted to satisfy the non-unity objection (see C-IX, 1 and 
@@ -35794,11 +35312,14 @@ Art. 153(7)
 Rule 164(1) 
 Art. 76 
 Rule 164(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-1 
  
-Chapter VI – Priority 1. The right to priority In this respect see also A-III, 6. 
+## Chapter VI – Priority  
+
+### 1. The right to priority 
+
+In this respect see also A-III, 6. 
 
 #### 1.1 Date of filing as effective date 
 
@@ -35855,8 +35376,7 @@ Art. 87(1), (2) and
 Art. 87(2) and 
 (3) 
 Part F – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 EPC contracting state, this state may also be designated in the European 
 application. The previous application may be for a patent, a utility model or 
@@ -35912,8 +35432,7 @@ examined.
 Art. 87(1) 
 Art. 87(1) 
 Art. 87(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-3 
  
 Examples of applications that cannot be recognised as a "first application" 
@@ -35968,8 +35487,7 @@ Rule 40(1)(c)
 Art. 88(2) and 
 (3) 
 Part F – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 accorded the priority date of the earliest priority application which discloses 
 it. 
@@ -36010,8 +35528,7 @@ divided into two parts, the first corresponding to the invention disclosed
 directly and unambiguously in the priority document, the second being the 
 remaining part of the subsequent generic "OR" claim not enjoying this 
 priority but itself giving rise to a right to priority as laid down in Art. 88(3). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-5 
  
 For example, if the priority document discloses the use of a specific 
@@ -36066,8 +35583,7 @@ priority date within that period. In such cases (i.e. where the art in question
 would be relevant if of earlier date), the division must examine whether the 
 priority date(s) claimed may be accorded to the appropriate parts of the 
 Part F – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 application it is examining and inform the applicant of the outcome and 
 whether, in consequence, the particular prior art under consideration, 
@@ -36120,8 +35636,7 @@ documents of the previous application, taken as a whole, "specifically
 disclose" such subject-matter. The description and any claims or drawings 
 of the previous application are, therefore, to be considered as a whole in 
 Art. 88(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-7 
  
 deciding this question; however, subject-matter only found in the part of the 
@@ -36180,8 +35695,7 @@ D is state of the art under Art. 54(2) if the priority claim of P is not valid.
 P1 is the application from which EP1 claims priority, P2 the one from which 
 EP2 claims priority. EP1 and EP2 are filed by different applicants. 
 Part F – Chapter VI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 ### 1.2.89 1.1.90 
@@ -36278,8 +35792,7 @@ P2 is a "continuation-in-part" of P1. Therefore, Art. 87(4) does not apply
 and this does not change even if P1 is abandoned, withdrawn, refused or 
 not published. D is prior art pursuant to Art. 54(2) for claim 1, but not for 
 claim 2, as the latter claim has the earlier priority of P2. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-9 
  
 
@@ -36349,8 +35862,7 @@ Rule 53(2)
 Art. 88(1) 
 Rule 53(3) 
 Part F – Chapter VI-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 filed). In all these cases, a complete translation must be filed. Where the 
 European application contains claims on its date of filing and the priority 
@@ -36401,8 +35913,7 @@ so before the technical preparations for publication have been completed,
 then the priority date is not effective and the publication is deferred until 
 18 months after the date of filing. If it is withdrawn after the technical 
 Rule 56 and Rule 56a 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part F – Chapter VI-11 
  
 preparations for publication have been completed, then the application is 
@@ -36433,8 +35944,7 @@ Rule 136(1)
 Part G 
  
 Patentability 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Contents a 
  
 Contents 
@@ -36468,8 +35978,7 @@ Chapter II – Inventions 		II-1
 4.1.2 Offensive and non-offensive use 		II-28 
 4.1.3 Economic effects 		II-28 
 Part G – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 4.2 Surgery, therapy and diagnostic methods 		II-28 
 4.2.1 Limitations of exception under Art. 53(c) 		II-29 
@@ -36502,8 +36011,7 @@ Chapter III – Industrial application 		III-1
 2. Method of testing 		III-1 
 3. Industrial application vs. exclusion under Art. 52(2) 		III-1 
 4. Sequences and partial sequences of genes 		III-1 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Contents c 
  
 Chapter IV – State of the art 		IV-1 
@@ -36536,8 +36044,7 @@ Chapter IV – State of the art 		IV-1
 7.4 State of the art made available to the public in writing and/or by any other means 		IV-11 
 7.5 Internet disclosures 		IV-12 
 Part G – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 7.5.1 Establishing the publication date 		IV-12 
 7.5.2 Standard of proof 		IV-13 
@@ -36571,8 +36078,7 @@ Chapter VI – Novelty 		VI-1
 6.1.5 Dependent claims under Art. 54(5) 		VI-10 
 6.2 Second non-medical use 		VI-11 
 7. Selection inventions 		VI-11 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Contents e 
  
 7.1 Error margins in numerical values 		VI-15 
@@ -36604,8 +36110,7 @@ Chapter VII – Inventive step 		VII-1
 10.2 Unexpected technical effect; bonus effect 		VII-23 
 10.3 Long-felt need; commercial success 		VII-23 
 Part G – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 11. Arguments and evidence submitted by the applicant 		VII-23 
 12. Selection inventions 		VII-24 
@@ -36617,11 +36122,14 @@ April 2025
 3. Obvious selection? 		VII-28 
 4. Overcoming a technical prejudice? 		VII-30 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter I-1 
  
-Chapter I – Patentability 1. Patentability requirements There are four basic requirements for patentability: 
+## Chapter I – Patentability  
+
+### 1. Patentability requirements 
+
+There are four basic requirements for patentability: 
 (i) 
 there must be an "invention", belonging to any field of technology 
 (see G-II) 
@@ -36660,11 +36168,13 @@ Art. 83
 Rule 42(1)(a) and 
 Rule 42(1)(c) 
 Rule 43(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-1 
  
-Chapter II – Inventions 1. General remarks The EPC does not define what is meant by "invention", but Art. 52(2) 
+## Chapter II – Inventions  
+
+### 1. General remarks 
+The EPC does not define what is meant by "invention", but Art. 52(2) 
 contains a non-exhaustive list of "non-inventions", i.e. subject-matter which 
 is not to be regarded as an invention within the meaning of Art. 52(1). The 
 items on this list are all abstract (e.g. discoveries or scientific theories) 
@@ -36719,8 +36229,7 @@ The items listed in Art. 52(2) will now be dealt with in turn, and more
 examples will be given in order to make it clearer how to distinguish 
 Art. 52(2) and (3) 
 Part G – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 between what is patentable, i.e. not excluded from patentability under 
 Art. 52(2) and (3), and what is not. 
@@ -36776,8 +36285,7 @@ invention within the meaning of Art. 52(1). Even if the resulting method
 Art. 52(2)(a) 
 Art. 52(2)(a) 
 Art. 52(2)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-3 
  
 would not be considered a purely abstract mathematical method as such 
@@ -36837,8 +36345,7 @@ electronic
 communications; 
 generating keys in an RSA cryptographic system 
 Part G – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 – 
 optimising load distribution in a computer network 
@@ -36887,8 +36394,7 @@ word-size shifts matched to the word size of the computer hardware is
 based on such technical considerations and can contribute to producing the 
 technical effect of an efficient hardware implementation of that algorithm. 
 Another example is assigning the execution of data-intensive training steps 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-5 
  
 of a machine-learning algorithm to a graphical processing unit (GPU) and 
@@ -36940,8 +36446,7 @@ of technology. For example, using a neural network in a heart monitoring
 apparatus to identify irregular heartbeats makes a technical contribution. 
 The classification of digital images, videos, audio or speech signals based 
 Part G – Chapter II-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 on low-level features (e.g. edges or pixel attributes for images) is another 
 typical technical application of classification algorithms. More examples of 
@@ -36988,8 +36493,7 @@ Simulations interacting with the external physical reality
 Computer-implemented simulations that comprise features representing an 
 interaction with an external physical reality at the level of their input or 
 output may provide a technical effect related to this interaction. A computer-
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-7 
  
 implemented simulation that uses measurements as input may form part of 
@@ -37036,8 +36540,7 @@ knowledge about a technical or natural system), the potential technical
 effect is not achieved over substantially the whole scope of the claim and 
 therefore cannot be relied on in the assessment of inventive step. 
 Part G – Chapter II-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Accuracy 
 Whether a simulation contributes to the technical character of the claimed 
@@ -37099,8 +36602,7 @@ serves only an aesthetic purpose.
 The aesthetic effect itself is not patentable, neither in a product nor in a 
 process claim. 
 Art. 52(2)(b) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-9 
  
 For example, features relating solely to the aesthetic or artistic effect of a 
@@ -37155,8 +36657,7 @@ carrying out all method steps mentally, the claimed subject-matter is
 excluded from patentability. This objection also applies when the simulation 
 Art. 52(2)(c) 
 Part G – Chapter II-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 involves real-world values obtained by a technical measurement unless the 
 claim includes either a step of carrying out the technical measurement or a 
@@ -37201,8 +36702,7 @@ affixing a driver to a Coriolis mass flowmeter, steps specifying how to select
 the position of the driver so as to maximise the performance of the 
 flowmeter make a technical contribution to the extent that they define that 
 particular position (T 1063/05). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-11 
  
 For additional information about methods of simulation, design and 
@@ -37256,8 +36756,7 @@ encryption, while having no bearing on the actual playing of the game. In
 contrast, a reduction of memory, network or computational resources 
 Art. 52(2)(c) 
 Part G – Chapter II-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 achieved by limiting the complexity of a game does not overcome a 
 technical constraint by a technical solution. Rather than solving the 
@@ -37309,8 +36808,7 @@ functioning of a computer system, is technical. For instance, merely
 predicting the virtual trajectory of a billiard ball shot by the player, even if 
 highly accurate, fails to solve a technical problem beyond its 
 implementation. In contrast, adjusting the step sizes used in the distributed 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-13 
  
 simulation of bullets fired in a multi-player online game based on current 
@@ -37361,8 +36859,7 @@ be established which features contribute to the technical character of the
 invention (G-VII, 5.4). 
 Art. 52(2)(c) 
 Part G – Chapter II-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Where the claim specifies a technical implementation of a business 
 method, the features which contribute to the technical character of the 
@@ -37417,8 +36914,7 @@ information. Changing the auction rules to obviate the need for timestamp
 information amounts to circumventing the technical problem of transmission 
 delays rather than solving it with technical means (T 258/03). As a further 
 example, in a method for carrying out electronic financial transactions with 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-15 
  
 credit cards at a point of sale, the administrative decision to dispense with 
@@ -37489,8 +36985,7 @@ for Art. 52(2) and (3) (G-II, 2), the exclusion does not apply to computer
 programs with technical character. 
 Art. 52(2)(c) 
 Part G – Chapter II-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In order to have technical character, and so not be excluded from 
 patentability, a computer program must produce a "further technical 
@@ -37536,8 +37031,7 @@ program. Claims directed to computer-implemented inventions may take
 the forms described in F-IV, 3.9 and its subsections. 
 A computer program and a corresponding computer-implemented method 
 are distinct from each other. The former refers to a sequence of 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-17 
  
 computer-executable instructions specifying a method while the latter refers 
@@ -37590,8 +37084,7 @@ the structure of an information modelling process (e.g. use of a template) or
 the maintenance of models likewise have no technical character (T 354/07). 
 Similarly, properties inherent to information models, such as re-usability, 
 Part G – Chapter II-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 platform-independence or convenience for documentation, are not 
 regarded as technical effects (T 1171/06). 
@@ -37638,8 +37131,7 @@ chain and an operand chain and replacing repeating instruction sets by
 macro-instructions so as to generate optimised code of reduced memory 
 size makes a technical contribution as the effect does not depend on how a 
 human programmer makes use of the macro-instructions. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-19 
  
 Features of a programming environment that relate to its graphical user 
@@ -37691,8 +37183,7 @@ but which nevertheless do not make a technical contribution. For example,
 the structure of a computer program may merely aim at facilitating the task 
 of the programmer, which is not a technical effect serving a technical 
 Part G – Chapter II-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 purpose. Furthermore, data models and other information models at an 
 abstract logical level have per se no technical character (see G-II, 3.6.2). 
@@ -37740,8 +37231,7 @@ using various data structures for efficient data management. A method
 performed in a database management system is thus a method which uses 
 technical means and is therefore not excluded from patentability under 
 Art. 52(2) and (3). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-21 
  
 Features specifying the internal functioning of a database management 
@@ -37791,8 +37281,7 @@ is not enough to guarantee that the mathematical model has technical
 character, and other technical considerations, such as those relating to the 
 computer system's internal functioning, are needed. 
 Part G – Chapter II-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 For example, a mathematical model for calculating the probability that a 
 given term is similar in meaning to another term by analysing how often the 
@@ -37843,8 +37332,7 @@ and inventive step (G-I, 1).
 In the assessment of inventive step, features related to the presentation of 
 information are analysed to determine whether, in the context of the 
 Art. 52(2)(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-23 
  
 invention, they contribute to producing a technical effect serving a technical 
@@ -37896,8 +37384,7 @@ presented information (surname of a customer) and the way it is presented
 two features: the displayed text is the surname of a customer (falling into 
 the first category) and the displayed text is shown in capital letters (falling 
 Part G – Chapter II-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 into the second category). The manner of presentation itself might 
 additionally convey cognitive information. For example, there may be a 
@@ -37944,8 +37431,7 @@ of several images in a limited display area by displaying a single image and
 sequentially replacing it with other images is not based on technical 
 considerations, but is a matter of layout design. Similarly, arranging objects 
 within available screen space by eliminating "white space" between window 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-25 
  
 panes follows the same layout principles as would apply to the layout of a 
@@ -37996,8 +37482,7 @@ order to produce in that person a physiological reaction (e.g. involuntary
 eye gaze) which can be measured for the purpose of assessing a medical 
 condition (e.g. eyesight, hearing impairment or brain damage), that 
 Part G – Chapter II-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 presentation of information may be considered to produce a technical 
 effect. 
@@ -38047,8 +37532,7 @@ other hand, supporting user input by providing information that merely
 facilitates the user's mental decision-making process during this task 
 (e.g. by helping the user to decide what to input) is not considered to make 
 a technical contribution (T 1741/08). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-27 
  
 Assisting a user in entering text in a computer system by providing a 
@@ -38103,8 +37587,7 @@ would not infringe "ordre public" and morality (see T 866/01). If difficult lega
 questions arise in this context, then refer to C-VIII, 7. 
 Art. 53(a) 
 Part G – Chapter II-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Where the claims are found to relate in part to such excluded 
 subject-matter, this may lead to the issuing of a partial European or 
@@ -38164,8 +37647,7 @@ methods. The manufacture of prostheses or artificial limbs could be
 patentable. For instance, a method of manufacturing insoles designed to 
 Art. 53(a) 
 Art. 53(c) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-29 
  
 correct posture or a method of manufacturing an artificial limb is patentable 
@@ -38220,8 +37702,7 @@ Art. 54(4)
 Art. 54(5) 
 Art. 53(c) 
 Part G – Chapter II-30 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 of wool) or other methods of measuring or recording characteristics of the 
 human or animal body are patentable as long as they are of a technical and 
@@ -38271,8 +37752,7 @@ The term "treatment by surgery" is not to be interpreted as meaning only
 surgical methods with a therapeutic purpose (see G 1/07, Reasons 3.3.10). 
 Accordingly, the term "surgery" defines the nature of the treatment rather 
 than its purpose. So, for example, a method of treatment by surgery for 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-31 
  
 cosmetic purposes or for embryo transfer is excluded from patentability in 
@@ -38328,8 +37808,7 @@ actually is "treatment by surgery" within the meaning of Art. 53(c). Other
 criteria, such as the degree of invasiveness or the complexity of the 
 operation performed, could also lead to a finding that a physical 
 Part G – Chapter II-32 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 intervention on the human or animal body is such treatment (see G 1/07, 
 Reasons 3.4.2.4). 
@@ -38378,8 +37857,7 @@ comprise or encompass at least one therapeutic step. The non-patentable
 subject-matter must be removed from the scope of the claim either by 
 means of a disclaimer or by omitting the step of treatment by therapy from 
 the wording of the claim (G 1/07). For the general principles governing 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-33 
  
 disclaimers, see H-V, 4. The overall patentability of the amended claim will 
@@ -38449,8 +37927,7 @@ from the comparison are not subject to this criterion, because these
 activities are predominantly of a non-technical nature and are normally not 
 practised on the human or animal body. This means that, in most cases, 
 Part G – Chapter II-34 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 only phase (i), i.e. the examination phase involving the collection of data, 
 can actually be of a technical nature within the meaning of G 1/04 and so 
@@ -38500,8 +37977,7 @@ performed under strictly controlled conditions and with the informed
 consent of the patient concerned. In such cases, no objection under 
 Art. 53(a) is raised (see, however, G-II, 4.2.1.2). 
 Art. 53(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-35 
  
 
@@ -38563,8 +38039,7 @@ Rule 27(a)
 Rule 29(1) and (2) 
 Rule 29(3) 
 Part G – Chapter II-36 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (ii) 
 Plants or animals if the technical feasibility of the invention is not 
@@ -38619,8 +38094,7 @@ Rule 27(b)
 Rule 28(2) 
 Rule 27(c) 
 Rule 26(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-37 
  
 this technical field. A possible immoral use is only to be taken into account 
@@ -38673,8 +38147,7 @@ Rule 28(1)(a)
 Rule 28(1)(b) 
 Rule 28(1)(c) 
 Part G – Chapter II-38 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 An application concerning human pluripotent stem cells, including 
 human embryonic stem cells, uses of such cells or products derived 
@@ -38734,8 +38207,7 @@ suffering
 and 
 substantial medical benefit in terms of the animals claimed. 
 Rule 28(1)(d) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-39 
  
 The level or standard of proof for establishing animal suffering and 
@@ -38786,8 +38258,7 @@ Rule 29(1)
 Art. 53(b) 
 Rule 28(2) 
 Part G – Chapter II-40 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 filing and/or a priority date before that date (see G 3/19, OJ EPO 
 2020, A119). 
@@ -38835,8 +38306,7 @@ by disclosing in the application as filed the gene sequence
 responsible for the claimed trait together with instructions on how to 
 reproducibly introduce by technical means such an altered sequence 
 in a target organism (e.g. by CRISPR-Cas). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-41 
  
 If a technical feature of a claimed plant or animal, e.g. a single nucleotide 
@@ -38884,8 +38354,7 @@ material such as seeds or other plant propagation material. This applies
 even if the only method available at the date of filing for generating the 
 claimed plants or plant material is an essentially biological process for the 
 Part G – Chapter II-42 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 production of plants, and even if the claimed product is defined in terms of 
 such a process (product-by-process claim, see F-IV, 4.12). In this context it 
@@ -38937,8 +38406,7 @@ defined in Rule 26(4).
 Rule 26(4) 
 Rule 27(b) 
 Rule 28(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-43 
  
 A claim cannot escape the exclusion of plant varieties under Art. 53(b) by 
@@ -38991,8 +38459,7 @@ Processes for selecting plants or animals using genetic molecular markers
 without crossing the plants or animals are not excluded from patentability. 
 Rule 26(5) 
 Part G – Chapter II-44 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Technical means, such as genetic molecular markers, used in such 
 processes are not excluded either. 
@@ -39042,8 +38509,7 @@ Methods for plant breeding by crossing of whole genomes and
 selection of plants comprising the step of embryo rescue. 
 The following subject-matter relates to products exclusively obtained by 
 means of an essentially biological process which are excluded from 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-45 
  
 patentability where the application in question has a date of filing or priority 
@@ -39092,8 +38558,7 @@ Flour or oil produced from plant X (even if it is apparent from the
 description that the plant was exclusively obtained by means of an 
 essentially biological method). 
 Part G – Chapter II-46 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 5.5 Microbiological processes 
@@ -39148,8 +38613,7 @@ Art. 53(b)
 Rule 26(6) 
 Rule 27(c) 
 Rule 33(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-47 
  
 
@@ -39211,8 +38675,7 @@ If CDRs are not defined by their specific sequence, but by reference to a
 larger heavy or light chain sequence, the numbering scheme, e.g. Kabat, 
 Chothia or IMGT, must also be indicated. 
 Part G – Chapter II-48 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 6.1.2 Definition by reference to the target antigen 
@@ -39263,8 +38726,7 @@ antibodies having the claimed functional property without undue burden
 (see F-III, 1 and 4). In addition, the functional definition must allow the 
 skilled person to easily and unambiguously verify whether they are working 
 inside or outside the scope of the claim. The claim should therefore 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter II-49 
  
 normally include the relevant characteristics of the method used to 
@@ -39322,11 +38784,14 @@ T 187/04, section 11).
 Nevertheless, antibodies can be inventive if the application overcomes 
 technical difficulties in generating or manufacturing them. A novel type of 
 functional antibody format may also be considered inventive. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter III-1 
  
-Chapter III – Industrial application 1. General remarks "An invention shall be considered as susceptible of industrial application if it 
+## Chapter III – Industrial application  
+
+### 1. General remarks 
+
+"An invention shall be considered as susceptible of industrial application if it 
 can be made or used in any kind of industry, including agriculture". 
 "Industry" is understood in its broad sense as including any physical activity 
 of "technical character" (see G-I, 1), i.e. an activity which belongs to the 
@@ -39382,19 +38847,21 @@ Art. 57
 Rule 42(1)(f) 
 Rule 29(3) 
 Part G – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 part of a protein, it is necessary to specify which protein or part of a protein 
 is produced and what function it performs. Where a nucleotide sequence is 
 not used to produce a protein or part of a protein, the function to be 
 indicated could be, for example, that it exhibits a certain transcription 
 promoter activity. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-1 
  
-Chapter IV – State of the art 1. General remarks and definition An invention is "considered to be new if it does not form part of the state of 
+## Chapter IV – State of the art  
+
+### 1. General remarks and definition 
+
+An invention is "considered to be new if it does not form part of the state of 
 the art". The "state of the art" is defined as "everything made available to 
 the public by means of a written or oral description, by use, or in any other 
 way, before the date of filing of the European patent application". It is 
@@ -39439,8 +38906,7 @@ and
 Art. 54(1) and (2) 
 Art. 52(1) 
 Part G – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (ii) 
 only the oral description or lecture was publicly available before the 
@@ -39499,8 +38965,7 @@ conflicting European applications under Art. 54(3), on condition that the
 priority in question is valid (Art. 89). Different claims, or alternatives claimed 
 in one claim, can have different effective dates, i.e. the date of filing or (one 
 Art. 89 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-3 
  
 of) the claimed priority date(s). The question of novelty must be considered 
@@ -39553,8 +39018,7 @@ Rule 56
 Rule 56a 
 Rule 58 
 Part G – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 4.1 Machine translations 
@@ -39612,8 +39076,7 @@ Art. 54(3)
 Art. 56 
 Art. 85 
 Art. 89 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-5 
  
 filed in a non-official language, as permitted by Art. 14(2) (see A-VII, 1.1), it 
@@ -39675,8 +39138,7 @@ The examiner checks whether a final decision on the accorded date of filing
 and the application's content on the date of filing has already been taken 
 before considering the documents to be state of the art under Art. 54(3). 
 Part G – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The content determined in accordance with Rules 56 or 56a EPC or 
 Rules 20.5, 20.5bis or 20.6 PCT is considered to be the content of the 
@@ -39731,8 +39193,7 @@ claim the same subject-matter (see also T 2461/10). However, when, for
 example, the subject-matter of claim 1 in an application is the same as that 
 Art. 153 
 Rule 165 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-7 
  
 of a dependent claim in a granted patent held by the same applicant, an 
@@ -39787,8 +39248,7 @@ for example by demonstrating an object or process in specialist training
 courses or on online media platforms. 
 Rule 138 
 Part G – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Availability to the public in any other way also includes all possibilities 
 which technological progress may subsequently offer of making the aspect 
@@ -39842,8 +39302,7 @@ written descriptions). This may, for example, be the case if an object is
 unconditionally sold to a member of the public, since the buyer thereby 
 acquires unlimited possession of any knowledge which may be obtained 
 from the object. Even where in such cases the object's specific features 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-9 
  
 cannot be ascertained from an external examination, but only by further 
@@ -39897,8 +39356,7 @@ sale of parts for serial production.
 As a rule, the general standard "balance of probabilities" applies. However, 
 if practically all evidence lies within the power of the party bearing the 
 Part G – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 burden of proof, the facts must be proven beyond reasonable doubt. For 
 example, an opponent alleging that subject-matter was made available 
@@ -39952,8 +39410,7 @@ asserted that a similar already known product had been produced by the
 process claimed. However, it could not be clearly ascertained, even after 
 an exhaustive examination, by which process it had been produced. 
 Art. 55(1)(a) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-11 
  
 
@@ -40017,8 +39474,7 @@ patent proprietor can give a good reason why this is not the case. The
 Art. 54(2) 
 Art. 55(1)(a) 
 Part G – Chapter IV-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 opponent must then adduce proof countering the reasons given by the 
 patent proprietor. Caution must be exercised when considering the type of 
@@ -40067,8 +39523,7 @@ the sheer size and redundancy of the content available on the internet, it is
 considered very unlikely that an internet disclosure discovered by an 
 examiner has been manipulated. Its date can therefore be accepted as 
 correct unless there is specific evidence to the contrary. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-13 
  
 
@@ -40121,8 +39576,7 @@ support of the publication date.
 If an applicant disputes the publication date of an internet disclosure with 
 no reasoning or merely with generic statements about the reliability of 
 Part G – Chapter IV-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 internet disclosures, this argument will be given minimal weight and is 
 therefore unlikely to sway the examiner's opinion. 
@@ -40173,8 +39627,7 @@ Cryptology Research). Some of these archives crawl the internet to
 automatically retrieve publications which are publicly available from 
 researchers' web pages, such as CiteseerX (citeseerx.ist.psu.edu, hosted 
 by Pennsylvania State University). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-15 
  
 Companies, organisations or individuals use the internet to publish 
@@ -40230,8 +39683,7 @@ Computer-generated timestamp information as available from file
 directories or other repositories, or as automatically appended to 
 content (e.g. forum messages and blogs). 
 Part G – Chapter IV-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (d) 
 Indexing dates given to the web page by search engines (see also 
@@ -40283,8 +39735,7 @@ that archived links do not work at all.
 Some internet addresses (URLs) are not persistent, i.e. they are designed 
 to work only during a single session. Long URLs with seemingly random 
 numbers and letters are indicative of these. Such a URL does not prevent 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-17 
  
 the disclosure from being used as prior art, but it does mean that the URL 
@@ -40337,8 +39788,7 @@ which do not publish the final standards but make them available to the
 interested circles, subject to acceptance of a non-disclosure agreement 
 (categorically forbidding them to disclose the documents' content). 
 Part G – Chapter IV-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Before an SDO reaches agreement on the establishment or further 
 development of a standard, various types of preparatory documents are 
@@ -40389,8 +39839,7 @@ novelty purposes, however, is always the date of the primary document
 ### 9. Errors in prior-art documents 
 
 Prior-art documents may contain errors. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter IV-19 
  
 When a potential error is detected, three situations may arise depending on 
@@ -40413,11 +39862,14 @@ disregarded
 in case (iii), the literal disclosure is taken into account as is. 
 For possible errors concerning compound records in online databases, 
 see B-VI, 6.5. For non-enabling disclosures, see G-IV, 2. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter V-1 
  
-Chapter V – Non-prejudicial disclosures 1. General There are only two specific cases in which a prior disclosure of the 
+## Chapter V – Non-prejudicial disclosures  
+
+### 1. General 
+
+There are only two specific cases in which a prior disclosure of the 
 invention is not taken into consideration as part of the state of the art, 
 namely where the disclosure was due to, or in consequence of: 
 (i) 
@@ -40466,11 +39918,14 @@ Art. 55(1)(a)
 Art. 55(1)(b) 
 Art. 55(2) 
 Rule 25 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-1 
  
-Chapter VI – Novelty 1. State of the art under Art. 54(2) An invention is considered to be new if it does not form part of the state of 
+## Chapter VI – Novelty 
+
+### 1. State of the art under Art. 54(2) 
+
+An invention is considered to be new if it does not form part of the state of 
 the art. For a definition of "state of the art", see G-IV, 1. It is important to 
 note that, when considering novelty (as distinct from inventive step; 
 see G-VII, 6), it is not permissible to combine separate items of prior art. It 
@@ -40519,8 +39974,7 @@ In considering novelty, it is to be borne in mind that a generic disclosure
 usually does not take away the novelty of any specific example falling 
 within the terms of that disclosure, but that a specific disclosure does take 
 Part G – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 away the novelty of a generic claim including that disclosure. For example, 
 a disclosure of copper takes away the novelty of metal as a generic 
@@ -40574,8 +40028,7 @@ preparing the compound that inevitably results in the purity as claimed.
 However, such a claim does not lack novelty if the disclosure of the prior art 
 needs to be supplemented, e.g. by suitable (further) purification methods 
 allowing the skilled person to arrive at the claimed purity. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-3 
  
 
@@ -40628,8 +40081,7 @@ No
 53(c) 
 Art. 82 
 Part G – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 # 
 Claim 
@@ -40702,8 +40154,7 @@ If a parent application has been granted with a Swiss-type claim,
 granting a patent on the basis of the purpose-related product claim in 
 its divisional application would not lead to double patenting (T 13/14; 
 see also G-IV, 5.4). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-5 
  
 (ii) 
@@ -40757,8 +40208,7 @@ relates to a different therapy of the same disease using the same
 substance/composition, the claim must also define all technical features of 
 the therapy giving rise to the desired technical effect (G 2/08). 
 Part G – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 An independent claim directed to a further therapeutic use of a 
 substance/composition which is based on the use of said product in the 
@@ -40817,8 +40267,7 @@ Art. 53(c) are construed as claims directed to a product per se which is
 suitable for the claimed use. 
 The table below shows some examples of claims which do not define a 
 further medical use within the meaning of Art. 53(c). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-7 
  
  
@@ -40911,8 +40360,7 @@ The examining division can propose these amendments in the Rule 71(3)
 communication without having to consult the applicant beforehand 
 (see C-V, 1.1, point (f)). 
 Part G – Chapter VI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The following are examples of claims which would not be considered novel. 
 Example 1 
@@ -40950,8 +40398,7 @@ This claim can usually be reformulated as a method of contraception using
 product X. Reformulation may not be possible in so far as the contraception 
 method involves the personal and private sphere, i.e. does not fulfil the 
 requirement of industrial application (T 74/93). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-9 
  
 
@@ -41008,8 +40455,7 @@ The examining division may propose these amendments in the Rule 71(3)
 communication without having to consult the applicant beforehand 
 (see C-V, 1.1, point (f)). 
 Part G – Chapter VI-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 6.1.4 Surgical uses under Art. 54(5) 
@@ -41076,8 +40522,7 @@ Claim 1: Composition comprising X for use in the treatment of Y.
 Claim 2: Composition according to claim 1, comprising 5 mg X. 
 The category of claim 2 is unclear and the dependency is doubtful. The 
 claim appears to depend on a claim directed to a product per se. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-11 
  
 The claim would also lack novelty over prior art disclosing a composition 
@@ -41125,8 +40570,7 @@ subsets of a larger set.
 A selection of one or more elements from a single list of 
 specifically disclosed elements does not confer novelty.  
 Part G – Chapter VI-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (b) 
 The selection is a selection of a subrange selected from a 
@@ -41164,18 +40608,14 @@ composition comprising a surfactant in a general range of 1-30 wt%
 and one specific example of 25 wt%. The selection of the claimed 
 subrange will be novel since the claimed range is both narrow 
 compared to the prior-art range and far removed from the specific 
-example. However, if a specific example from D1 discloses a value of 
-
-#### 4.5 wt% of surfactant or if a more preferred range of 5-20 wt% is 
-
+example. However, if a specific example from D1 discloses a value of 4.5 wt% of surfactant or if a more preferred range of 5-20 wt% is 
 disclosed in D1, then D1 takes away claim 1's novelty. If D1 
 discloses an example with 2.8 wt% surfactant instead, it will have to 
 be determined whether the value 2.8 wt% is sufficiently far removed 
 from the claimed range of 3.0-6.0 wt% by assessing whether the 
 skilled person would seriously contemplate working in the claimed 
 range. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-13 
  
 In T 1571/15, which concerned an alloy defined by its composition, it 
@@ -41226,8 +40666,7 @@ described by a Markush formula. This includes individual
 chemical compounds from a known generic formula where the 
 compound selected results from the selection of specific 
 Part G – Chapter VI-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 substituents from two or more lists of substituents given in the 
 known generic formula. The same applies to specific mixtures 
@@ -41243,18 +40682,11 @@ prior-art range or overlaps with an endpoint of the prior-art
 range, thereby creating a range of overlap with the prior-art 
 range. These two scenarios are illustrated below, with the area 
 of overlap marked as "xxxx". 
-35. 
- 36. 
-claim 
-37. 
- 38. 
-prior art 
-39. 
- 40. 
-claim 
-41. 
- 42. 
-prior art 
+35.     I-----I            36. claim 
+37. I---IxxxxxI-----I      38. prior art 
+39.             I--------I 40. claim 
+41. I-----------IxxxI      42. prior art 
+
 The two-list principle mentioned above applies in the same 
 way here. In contrast to the situation involving a single 
 selection described in (i)(b) above, it is not sufficient that, for 
@@ -41284,8 +40716,7 @@ alloy falling within both claimed ranges.
 The identified selections involve a combination of selections 
 from lists and subranges. In this case, both principles 
 described above under (ii)(a) and (ii)(b) need to be applied. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VI-15 
  
 This situation frequently arises in the field of chemistry when a 
@@ -41324,11 +40755,14 @@ exert this action on the new biological target. They thereby demonstrate
 that compounds falling within the functional definition of the "reach-through" 
 claim are known in the state of the art and so establish that a reach-through 
 claim relating to compounds defined in this way lacks novelty. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-1 
  
-Chapter VII – Inventive step 1. General An invention is considered to involve an inventive step if, having regard to 
+## Chapter VII – Inventive step  
+
+### 1. General 
+
+An invention is considered to involve an inventive step if, having regard to 
 the state of the art, it is not obvious to a person skilled in the art. Novelty 
 (see G-VI) and inventive step are two separate criteria. The question 
 whether there is any inventive step arises only if the invention is novel. 
@@ -41381,8 +40815,7 @@ A single publication (e.g. a patent document, but also the content of a
 technical journal) cannot normally be considered common general 
 Art. 56 
 Part G – Chapter VII-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 knowledge (see T 475/88). In special cases, articles in technical journals 
 can be representative of common general knowledge (see T 595/90), in 
@@ -41433,8 +40866,7 @@ The problem-solution approach has three main stages:
 determining the "closest prior art" 
 (ii) 
 establishing the "objective technical problem" to be solved and 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-3 
  
 (iii) 
@@ -41486,8 +40918,7 @@ view on the day before the filing or priority date valid for the claimed
 invention. The examiner must not interpret the closest prior art artificially on 
 the basis of prior knowledge of the application (see also G-VII, 8). 
 Part G – Chapter VII-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In identifying the closest prior art, account is taken of what the applicant 
 acknowledges in the description and claims to be known. The examiner 
@@ -41539,8 +40970,7 @@ identified in the search and instead there is only evidence with respect to
 more distantly related prior art (or possibly none at all). In this case, the 
 problem has to be reformulated as the provision of an alternative product, 
 process or method. The obviousness of the claimed solution to that 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-5 
  
 reformulated problem must then be assessed in the light of the cited prior 
@@ -41592,8 +41022,7 @@ problem, to modify or adapt the closest prior art in the light of that teaching
 in such a way as to arrive at something falling within the terms of the claims 
 and thus achieve what the invention achieves (see G-VII, 4). 
 Part G – Chapter VII-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In other words, the point is not whether the skilled person could have 
 arrived at the invention by adapting or modifying the closest prior art but 
@@ -41647,8 +41076,7 @@ in the formulation of the objective technical problem as part of the
 framework of the technical problem to be solved, in particular as a 
 constraint that has to be met (T 641/00; see step (iii)(c) below and 
 G-VII, 5.4.1). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-7 
  
 The steps below outline how the problem-solution approach is applied to 
@@ -41703,8 +41131,7 @@ effects. This analysis, limited to the differences, can be performed in more
 detail and on a more definite basis than the one performed at step (i). It 
 may therefore reveal that some features considered at first glance in 
 Part G – Chapter VII-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 step (i) not to contribute to the technical character of the invention do, on 
 closer inspection, make such a contribution. The reverse situation is also 
@@ -41754,8 +41181,7 @@ invention but are only "potential technical effects", see G-II, 3.3.2.
 On technical effects arising from specific technical implementations where 
 the design of algorithms is motivated by technical considerations of the 
 internal functioning of the computer, see G-II, 3.3. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-9 
  
 Where claims are directed to a technical implementation of a non-technical 
@@ -41807,8 +41233,7 @@ device location to a server;
 the server accesses a database of vendors to identify vendors 
 offering at least one of the selected products; 
 Part G – Chapter VII-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (d) 
 the server determines, on the basis of the device location and the 
@@ -41857,8 +41282,7 @@ business-related matters. In this case, the skilled person can be defined as
 an expert in information technology who gains knowledge of the 
 business-related features (1) and (2) as part of the formulation of the 
 technical problem to be solved, as would be the case in a realistic situation 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-11 
  
 in the form of a requirement specification. The objective technical problem 
@@ -41911,8 +41335,7 @@ after receiving a new offer/demand request, verifying if there are
 previous offers/demands not yet satisfied that can respond to the 
 new request; 
 Part G – Chapter VII-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (d) 
 if so, selecting the one for which the current locations of both users 
@@ -41958,8 +41381,7 @@ information from GPS terminals, is selected as the closest prior art.
 Step (iii): The difference between the subject-matter of claim 1 and D1 is 
 thus the computer implementation of the steps of the business method 
 defined above. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-13 
  
 The technical effect of this difference is merely the automation of the 
@@ -42006,8 +41428,7 @@ and
 means for transmitting data at the determined rate to said remote 
 client. 
 Part G – Chapter VII-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Application of the steps of the problem-solution approach outlined in 
 G-VII, 5.4: 
@@ -42054,8 +41475,7 @@ to implement in the system of D1 a pricing model which allows the
 customer to choose a data-rate service level. 
 Obviousness: Given the task of implementing this choice of data-rate 
 service level in accordance with the pricing model, it would be obvious to 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-15 
  
 the skilled person that the data rate purchased by a subscriber (i.e. the 
@@ -42107,8 +41527,7 @@ Step (i): The control of an IR camera in step (a) clearly makes a technical
 contribution. The question is whether steps (b) to (f) also contribute to the 
 technical character of the claimed subject-matter.  
 Part G – Chapter VII-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Considered in isolation, steps (b) to (e) relate to algorithmic/mathematical 
 steps and step (f) defines a presentation of information. However, the claim 
@@ -42157,8 +41576,7 @@ condensation temperature are identified as areas at increased risk of
 condensation on the surface; 
 (5) 
 colours are used to indicate areas at increased risk of condensation. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-17 
  
 As mentioned above, distinguishing features (1)-(4) contribute to the 
@@ -42203,8 +41621,7 @@ which are algorithmic/mathematical steps). Since these features contribute
 to the technical character of the invention, they may support an inventive 
 step. 
 Part G – Chapter VII-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 5.4.2.5 Example 5 
@@ -42250,8 +41667,7 @@ spray coating process by applying material to a workpiece using a spray jet,
 detecting deviations in the properties of the particles in said spray jet and 
 adjusting process parameters automatically on the basis of the outcome of 
 a neural network analysis. This document represents the closest prior art. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-19 
  
 Step (iii): The difference between the method of claim 1 and D1 concerns 
@@ -42300,8 +41716,7 @@ is non-technical when taken in isolation but contributes to producing a
 technical effect serving a technical purpose in the context of the claim. The 
 feature of using a combination of neural network results and fuzzy logic for 
 Part G – Chapter VII-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 adjusting process parameters for controlling thermal spraying contributes to 
 the technical character of the invention and may therefore support inventive 
@@ -42352,8 +41767,7 @@ normally regarded as obvious
 (ii) 
 whether the disclosures (e.g. documents) come from similar, 
 neighbouring or remote technical fields (see G-VII, 3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-21 
  
 (iii) 
@@ -42410,8 +41824,7 @@ known, by a series of apparently easy steps. The examiner must be wary of
 any ex post facto analysis of this kind. When combining documents cited in 
 the search report, it always has to be borne in mind that the documents 
 Part G – Chapter VII-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 produced in the search were necessarily obtained with foreknowledge of 
 the alleged invention's subject-matter. The examiner must always attempt 
@@ -42465,8 +41878,7 @@ by an unexpected technical advantage, then the claimed invention does not
 involve an inventive step (see T 119/82 and T 155/85). In other words, a 
 foreseeable worsening of the prior art does not on its own involve an 
 inventive step but it may involve one if it is accompanied by an unexpected 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-23 
  
 technical advantage. Similar considerations apply where an invention is 
@@ -42519,8 +41931,7 @@ When an effect is cited in support of inventive step, it must be checked that
 the effect in question is encompassed by the technical teaching and 
 embodied by the same originally disclosed invention (see G-VII, 5.2). 
 Part G – Chapter VII-24 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Any evidence submitted to prove a purported technical effect that can be 
 taken into account for the assessment of inventive step is to be considered 
@@ -42567,8 +41978,7 @@ whether the skilled person would have made the selection or would have
 chosen the overlapping range in the expectation of some improvement or 
 advantage. If the answer is no, then the claimed matter involves an 
 inventive step. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-25 
  
 
@@ -42616,8 +42026,7 @@ obvious to a person skilled in the art?" (see G-VII, 5). Examiners must not
 try to make a particular case fit into one of these examples if it is not clearly 
 applicable. The list is also not exhaustive. 
 Part G – Chapter VII-26 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Annex 
 Examples relating to the requirement of inventive step – indicators 
@@ -42665,8 +42074,7 @@ technique to the electric motor driving the auxiliary mechanisms of an
 industrial truck, such as a fork-lift truck, the use of this technique to 
 control the electric propulsion motor of the truck being already 
 known. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-27 
  
 
@@ -42720,8 +42128,7 @@ Example: A mixture of medicines consists of a painkiller (analgesic) and a
 tranquilliser (sedative). It was found that adding the tranquilliser, which 
 intrinsically appeared to have no painkilling effect, intensified the analgesic 
 Part G – Chapter VII-28 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 effect of the painkiller in a way which could not have been predicted from 
 the known properties of the active substances. 
@@ -42767,8 +42174,7 @@ substance X.
 (iv) 
 The invention consists merely in selecting particular chemical 
 compounds or compositions (including alloys) from a broad field. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part G – Chapter VII-29 
  
 Example: The prior art includes the disclosure of a chemical 
@@ -42822,8 +42228,7 @@ there is generally a constantly increasing yield of substance C as the
 temperature increases in the range between 50 and 130°C. It has 
 now been found that in the temperature range from 63 to 65°C, 
 Part G – Chapter VII-30 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 which previously had not been explored, the yield of substance C 
 was considerably higher than expected. 
@@ -42861,8 +42266,7 @@ would therefore be inventive.
 Part H 
  
 Amendments and Corrections 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Contents a 
  
 Contents 
@@ -42894,8 +42298,7 @@ Chapter II – Admissibility of amendments – general rules 		II-1
 3.4 Insistence on inadmissible amendments 		II-9 
 3.5 Late-filed requests in opposition proceedings 		II-10 
 Part H – Contents b 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 4. Amendments in limitation procedure 		II-10 
 5. Amendments required by a limitation of the search under Rule 62a and/or Rule 63 		II-10 
@@ -42923,8 +42326,7 @@ Chapter III – Admissibility of amendments – other procedural matters 		III-1
 3.1.2 Obligation to give reasons 		III-7 
 3.1.3 Neither main nor auxiliary requests allowable 		III-7 
 3.2 In the search phase 		III-7 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Contents c 
  
 3.3 In examination proceedings 		III-7 
@@ -42956,8 +42358,7 @@ Part H – Contents c
 Chapter IV – Allowability of amendments 		IV-1 
 1. Introduction 		IV-1 
 Part H – Contents d 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 2. Allowability of amendments under Art. 123(2) 		IV-1 
 2.1 Basic principle 		IV-1 
@@ -42988,8 +42389,7 @@ April 2025
 4.1.1 Rule 62a and/or Rule 63 cases 		IV-9 
 4.1.2 Subject-matter taken from the description 		IV-9 
 4.2 Euro-PCT applications 		IV-10 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Contents e 
  
 Chapter V – Allowability of amendments – examples 		V-11 
@@ -43018,8 +42418,7 @@ Chapter V – Allowability of amendments – examples 		V-11
 6. Amendments derived from drawings 		V-21 
 7. Changes in claim category in opposition 		V-21 
 Part H – Contents f 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 7.1 Product claim to use claim 		V-22 
 7.2 Product claim to method claim 		V-22 
@@ -43043,11 +42442,12 @@ Chapter VI – Correction of errors 		VI-1
 5. Correction of the translations of the claims 		VI-8 
 6. Errors in publication 		VI-8 
  
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter I-1 
  
-Chapter I – The right to amend A European patent application or European patent may be amended in examination, opposition and limitation proceedings. With regard to 
+## Chapter I – The right to amend 
+
+A European patent application or European patent may be amended in examination, opposition and limitation proceedings. With regard to 
 amendments filed in such proceedings, there are a number of important 
 aspects to consider. Firstly, amendments must be admissible, i.e. they 
 must meet the requirements for being admitted into the proceedings (see 
@@ -43063,11 +42463,13 @@ Art. 84)
 (iii) 
 extend the protection conferred by a granted patent (Art. 123(3)). 
 Chapters H-II and H-III deal with the admissibility of amendments, while Chapters H-IV and H-V deal with their allowability. Chapter H-VI is dedicated to the correction of errors. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-1 
  
-Chapter II – Admissibility of amendments – general rules 1. Introduction 
+## Chapter II – Admissibility of amendments – general rules  
+
+### 1. Introduction 
+
 How the admissibility of amendments is assessed will depend on the type 
 of procedure (examination, opposition or limitation) and on the stage of the 
 proceedings, as detailed in the following sections. 
@@ -43119,8 +42521,7 @@ Rule 137(1)
 Rule 137(2) 
 Rule 71(1) 
 Part H – Chapter II-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (iii) 
 which enter the European phase from the PCT, where the EPO was 
@@ -43176,8 +42577,7 @@ at an earlier rather than at a later stage: the later amendments are filed, the
 more important the aspect of procedural economy becomes in balancing 
 the interest of the applicant in obtaining a patent and the EPO's interest in 
 bringing the examination procedure to a close (see T 951/97 and G 7/93). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-3 
  
 On the other hand, amendments limiting a claim which is already 
@@ -43230,8 +42630,7 @@ as filed, which usually infringes Art. 123(2) EPC.
 Art. 94(3) 
 Rule 62a, 63, 137(5) 
 Part H – Chapter II-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.3.1.2 Rule 137(3) in conjunction with Art. 123(2) 
@@ -43292,8 +42691,7 @@ admissibility of late-filed amendments in examination. The particular case
 to which that decision relates arose when the rules were differently 
 Rule 137(3) 
 Rule 71(6) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-5 
  
 formulated, and in a situation where the applicant had already consented to 
@@ -43351,8 +42749,7 @@ Rule 71(6)
 Rule 71a(2) 
 Rule 137(3) 
 Part H – Chapter II-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 However, if the examining division is of the opinion that the amendments 
 are not allowable (a finding of inadmissibility with regard to these 
@@ -43406,8 +42803,7 @@ Art. 116(1) must be observed (see C-V, 4.7.1). It must be shown that the
 conditions defined in G 7/93 are not met. This means that arguments must 
 Rule 71(5) 
 Rule 137(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-7 
  
 be given as to why the amendments are not minor in nature but in fact 
@@ -43460,8 +42856,7 @@ examining division that the amendments successfully overcome the
 objections without giving rise to new ones (prima facie assessment). 
 Rule 140 
 Part H – Chapter II-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 For example, late-filed requests will not be admitted if they do not clearly 
 meet the requirements under Art. 123(2) or Art. 84. Likewise, late-filed 
@@ -43516,8 +42911,7 @@ necessary and appropriate. In particular, if one part of a claim has been
 amended, it may be necessary or appropriate to amend other parts of the 
 claim as well. 
 Rule 80 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-9 
  
 Moreover, where a "clarification" can be considered as a limitation of the 
@@ -43575,8 +42969,7 @@ If, in addition to requests containing unnecessary amendments, there is an
 auxiliary request which meets the requirements of the Convention and in 
 particular does not comprise amendments not complying with Rule 80, the 
 Part H – Chapter II-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 decision must include the grounds for not admitting the higher-ranking 
 requests. 
@@ -43626,8 +43019,7 @@ B-VIII, 4.2). The applicant will then have to confirm maintenance of these
 amendments formally on entry into the examination phase (see A-V, 2.2). 
 Rule 63(3) 
 Rule 62a(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-11 
  
 
@@ -43679,8 +43071,7 @@ or objects under Rule 164(1) in line with G 2/92 in the context of a
 supplementary search in the European phase (see B-II, 4.3.2, 
 B-VII, 2.3 and E-IX, 4.2). 
 Part H – Chapter II-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In both cases, if the applicant declines to limit the claims to a searched 
 invention, the application is refused under Rule 164 in accordance with 
@@ -43724,8 +43115,7 @@ Sometimes lack of unity of invention arises only during substantive
 examination, for example following an amendment of one or more claims 
 so as to overcome an objection of lack of inventive step. In such situations 
 the examining division may raise an objection, but only in very clear cases. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter II-13 
  
 
@@ -43755,11 +43145,13 @@ established for those inventions for which a search fee has been paid. The
 application must then be limited to one of the inventions searched in the 
 supplementary search. The above principles (H-II, 6.1 to 6.3) then apply 
 mutatis mutandis (see also E-IX, 4.2). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-1 
  
-Chapter III – Admissibility of amendments – other procedural matters 1. Introduction 
+## Chapter III – Admissibility of amendments – other procedural matters  
+
+### 1. Introduction 
+
 This chapter deals with procedural matters and formal requirements 
 relating to the admissibility of amendments. An important requirement dealt 
 with is the applicant's obligation to identify amendments and indicate the 
@@ -43809,8 +43201,7 @@ application as filed is accurate. Consequently, in order to comply with
 Rule 137(4) 
 Rule 7 
 Part H – Chapter III-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Rule 137(4), the basis of an amendment must be indicated in the 
 translation of the application as filed. 
@@ -43862,8 +43253,7 @@ Regarding the application of Rule 137(4) to auxiliary requests, see
 H-III, 3.3.1. 
 Rule 137(4) 
 Art. 94(4) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-3 
  
 
@@ -43918,8 +43308,7 @@ communication is sent in respect of these amendments and the application
 is deemed to be withdrawn on expiry of the one-month period 
 on 6 December 2023. 
 Part H – Chapter III-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.1.3 Rule 137(4) and oral proceedings 
@@ -43973,8 +43362,7 @@ If handwritten amendments are filed during oral proceedings in opposition,
 the proprietor is invited in a Rule 82(2) communication to submit 
 replacement paragraphs and/or claims only, and not replacement pages 
 (see E-III, 8.7.3, and OJ EPO 2016, A22, points 8 to 14). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-5 
  
 Amendments should preferably be identified using functions available in a 
@@ -44028,8 +43416,7 @@ In examination, opposition and limitation proceedings, parties may submit a
 main request followed by one or more auxiliary requests (see also 
 D-IV, 5.3). 
 Part H – Chapter III-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Example 1: 
 "We request grant of a patent as per the documents originally filed or, 
@@ -44076,8 +43463,7 @@ proprietors. These parties must therefore clearly indicate the text they are
 proposing or, if they are submitting more than one text, the sequence in 
 which they want the EPO to consider them. Otherwise the division does not 
 know which version to base its decision on and would ultimately have to 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-7 
  
 refuse the application, revoke the patent or reject the request for limitation 
@@ -44135,8 +43521,7 @@ When deciding on the admissibility of auxiliary requests the principles set
 out in H-II are considered for each of the requests, since each request is in 
 fact a set of amended claims. 
 Part H – Chapter III-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Auxiliary requests reintroducing subject-matter which has already been 
 considered unallowable and has been removed by the applicant will not be 
@@ -44187,8 +43572,7 @@ During oral proceedings, the division addresses the main request and
 decides on the admissibility of the auxiliary requests, if any, filed in reply to 
 the summons to oral proceedings (see H-II, 2.3 and H-III, 2.1.3). Moreover, 
 it may be appropriate to ask applicants whether, in view of an allowable 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-9 
  
 request, they would be prepared to withdraw the unallowable higher-
@@ -44254,8 +43638,7 @@ If the applicant does not approve the text according to the auxiliary request
 as proposed in the communication under Rule 71(3), the procedure is as 
 set out in C-V, 4 (see in particular C-V, 4.7 and C-V, 4.6.2). 
 Part H – Chapter III-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 3.4 In opposition proceedings 
@@ -44308,8 +43691,7 @@ If, on the other hand, the proprietor withdraws the higher-ranking requests
 such that the allowable auxiliary request becomes the main request, the 
 division will issue an interlocutory decision to the effect that this request 
 satisfies the EPC. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-11 
  
 The division tries as far as possible to ensure that, if it allows an auxiliary 
@@ -44365,8 +43747,7 @@ If in response to the communication under Rule 95(2) the requester
 withdraws the unallowable request(s) and (where applicable) makes any 
 amendments still outstanding, the examining division will issue a 
 Part H – Chapter III-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 communication under Rule 95(3) inviting them to pay the prescribed fee 
 and to file the translation of the limited claims of the allowable request 
@@ -44420,8 +43801,7 @@ drawings to remedy this. If the applicant or proprietor voluntarily proposes
 such an amendment the examining or opposition division will admit it only if 
 it considers this necessary. In particular, different descriptions and 
 drawings will be required only if it is not possible to set out clearly in a 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-13 
  
 common description which subject-matter is to be protected in the different 
@@ -44481,8 +43861,7 @@ Art. 61(1)(b)
 Rule 17 
 Rule 18(1) and (2) 
 Part H – Chapter III-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 contracting states in which the decision was taken or recognised or must be 
 recognised on the basis of the Protocol on Recognition, claims, a 
@@ -44538,8 +43917,7 @@ national right (see G-IV, 6). That is the responsibility of the applicant or
 proprietor. 
 Rule 78(2) 
 Art. 139(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter III-15 
  
 The examining or opposition division must check that the separate claims 
@@ -44571,11 +43949,14 @@ Rule 138, if applicable).
 
 The claims fees are calculated in accordance with A-X, 11.2, C-V, 1.4, 
 C-V, 4.2 and C-V, 4.8.1. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter IV-1 
  
-Chapter IV – Allowability of amendments 1. Introduction Chapters H-II and H-III deal with the admissibility of amendments, i.e. whether the competent department of the EPO will admit amended 
+## Chapter IV – Allowability of amendments  
+
+### 1. Introduction 
+
+Chapters H-II and H-III deal with the admissibility of amendments, i.e. whether the competent department of the EPO will admit amended 
 application documents or an amended patent specification into the 
 procedure. After an amendment has been admitted into the procedure, the 
 competent department must then decide whether the amendment is 
@@ -44623,8 +44004,7 @@ The term "implicit disclosure" means no more than the clear and
 unambiguous consequence of what is explicitly mentioned in the 
 application as filed. Thus, the common general knowledge must be taken 
 Part H – Chapter IV-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 into account in deciding what is clearly and unambiguously implied by the 
 explicit disclosure of a document. However, the question of what may be 
@@ -44681,8 +44061,7 @@ a copy of the document was available to the EPO, or to the receiving
 Office if the application is a Euro-PCT application which was not filed 
 at the EPO as the receiving Office, on or before the date of filing of 
 the application; and 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter IV-3 
  
 (b) 
@@ -44737,8 +44116,7 @@ Rule 56a(4) are always considered to be part of the application documents
 Rule 56 
 Rule 56a 
 Part H – Chapter IV-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 application documents or parts remain in the application under Rule 56a(4), 
 they are part of the application as filed (Art. 123(2)). 
@@ -44792,8 +44170,7 @@ point 10).
 Under Art. 123(2) it is impermissible to add to a European application 
 matter present only in the priority document for that application 
 Rule 58 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter IV-5 
  
 (see T 260/85) unless this is done under the provisions of Rule 56(3) (H-IV, 
@@ -44853,8 +44230,7 @@ its filing may not extend beyond the content of the divisional application as
 originally filed (Art. 123(2); for more details see C-IX, 1.4). 
 Art. 123(2) 
 Part H – Chapter IV-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.3.3 Applications resulting from a decision under Art. 61 
@@ -44912,8 +44288,7 @@ interpret the claims.
 Art. 69(2) 
 Art. 123(3) 
 Art. 69(1) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter IV-7 
  
 The Protocol on the Interpretation of Art. 69, which is, pursuant to 
@@ -44974,8 +44349,7 @@ implicit proviso excluding the presence of that component in an amount
 outside of that range. An amendment restricting the breadth of that 
 component, for instance by narrowing down a generic class or a list of 
 Part H – Chapter IV-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 chemical compounds defining that component, has the consequence of 
 limiting the scope of this implicit proviso. However, a composition which is 
@@ -45037,8 +44411,7 @@ the patent cannot be maintained in amended form because
 amendment of the claims as granted by deletion of such "method 
 features" would be contrary to Art. 123(3) (see T 82/93). 
 Art. 123(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter IV-9 
  
 
@@ -45104,8 +44477,7 @@ second sentence
 Rule 137(5), 
 first sentence 
 Part H – Chapter IV-10 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 In other words, in order to assess whether or not amended claims fulfil the 
 requirements of Rule 137(5), first sentence, the examining division needs to 
@@ -45142,11 +44514,13 @@ application documents (description, claims and drawings, if any) which are
 to serve as the basis for examination upon expiry of the six-month time limit 
 set in the communication under Rule 161 or Rule 162 (see C-III, 3.1). 
 Rule 137(3) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-11 
  
-Chapter V – Allowability of amendments – examples 1. Introduction 
+## Chapter V – Allowability of amendments – examples  
+
+### 1. Introduction 
+
 Chapter H-V provides additional guidance and examples relating to a number of typical situations where compliance with Art. 123(2) and/or Art. 123(3) is an issue. However, it must be borne in mind that the 
 allowability of a specific amendment is ultimately to be decided on a case-
 by-case basis. 
@@ -45197,8 +44571,7 @@ mention will be printed on the cover page of the patent specification.
 Art. 123(2) 
 Art. 123(2) 
 Part H – Chapter V-12 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 
 #### 2.4 Revision of stated technical problem 
@@ -45253,8 +44626,7 @@ itself, but also in the claims when considered as a whole. In fact, such
 amendments could result in a combination of features not disclosed in the 
 application as filed when the amended claim is considered together with its 
 dependent claims and/or the claims on which it depends. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-13 
  
 
@@ -45311,8 +44683,7 @@ Art. 123(2)
 Art. 123(3) 
 Art. 123(2) 
 Part H – Chapter V-14 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 The fact that the resulting combination can be seen as: 
 – 
@@ -45361,8 +44732,7 @@ the requirements of Art. 123(2). In any case it has to be ensured that the
 skilled person is not presented with information which is not directly and 
 unambiguously derivable from the originally filed application, even when 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-15 
  
 account is taken of matter which is implicit to a person skilled in the art 
@@ -45409,8 +44779,7 @@ The board held that the incorporated features, albeit disclosed as such, had
 been isolated in an arbitrary manner from the overall disclosure of the 
 cache coherent memory access architecture. At least one feature had been 
 Part H – Chapter V-16 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 omitted although its function was presented as being essential to achieving 
 cache coherence. Therefore amended claim 1 was not directly and 
@@ -45444,8 +44813,7 @@ embodiments.
 These principles also apply to the combination of features resulting from 
 dependent claims. 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-17 
  
 Example 
@@ -45499,8 +44867,7 @@ independent product claim fulfils the requirements of Art. 123(2) only if the
 application as filed offers a basis for the assumption that the product can 
 Art. 123(2) 
 Part H – Chapter V-18 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 also be used in some other way (and if the statement of purpose does not 
 amount to a functional limitation). 
@@ -45557,8 +44924,7 @@ restoring novelty over a disclosure under Art. 54(3);
 Art. 123(3) 
 Art. 123(2) 
 Art. 123(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-19 
  
 (ii) 
@@ -45612,8 +44978,7 @@ conflicting application alone (Art. 54(3)), renders the invention novel
 or inventive over a separate prior art document under Art. 54(2), 
 which is a not accidental anticipation of the claimed invention; 
 Part H – Chapter V-20 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 (v) 
 the disclaimer based on a conflicting application also serves another 
@@ -45662,8 +45027,7 @@ application as filed (see T 2130/11).
 
 It sometimes occurs that the drawings used for publication of the 
 application are not those originally filed but are subsequently filed drawings, 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-21 
  
 because the latter are more suitable for reproduction (for drawings filed 
@@ -45716,8 +45080,7 @@ Firstly it must be clear that this amendment is necessitated by grounds for
 Rule 80 
 Art. 123(2) and (3) 
 Part H – Chapter V-22 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 opposition (see H-II, 3.1). If that is not the case, a change of category is 
 refused. 
@@ -45768,8 +45131,7 @@ purpose-limited product claim (T 1673/11).
 The change from a process for the preparation of a product to the use of 
 the product for a purpose other than previously claimed is not allowable 
 (see T 98/85 and T 194/85). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter V-23 
  
 On the other hand, the change in a claim from a method in which a certain 
@@ -45787,11 +45149,14 @@ Thus the ultimate responsibility for the title (in the three official EPO
 languages) rests with the division, and it is within the division's discretion to 
 accept or not any request from the applicant for a change in the title (see 
 also A-III, 7). 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter VI-1 
  
-Chapter VI – Correction of errors 1. Introduction Documents filed with the EPO may contain errors, e.g. in the bibliographic 
+## Chapter VI – Correction of errors  
+
+### 1. Introduction 
+
+Documents filed with the EPO may contain errors, e.g. in the bibliographic 
 data, the description, the claims or the drawings (see H-VI, 2). Errors may 
 also occur in the decision to grant or other decisions of the EPO 
 (see H-VI, 3), in formatting/editing (see H-VI, 4), as well as in printing the 
@@ -45841,8 +45206,7 @@ request for correction of a priority claim by the addition of a first
 Rule 139 
 Rule 139 
 Part H – Chapter VI-2 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 priority needs to be made sufficiently early for a warning to be 
 included in the publication of the application (J 6/91). Otherwise, 
@@ -45892,8 +45256,7 @@ Rule 95(2) is filed in limitation proceedings, obvious errors can be corrected
 under Rule 139. 
 Rule 80 
 Rule 95(2) 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter VI-3 
  
 
@@ -45947,8 +45310,7 @@ patent application, seen as a whole, relating to the disclosure (see G 3/89
 Rule 139 
 Art. 123(2) 
 Part H – Chapter VI-4 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 and G 11/91 mentioned above). Therefore, the complete replacement of 
 the application documents (i.e. description, claims and drawings) by other 
@@ -45999,8 +45361,7 @@ would require making it evident that nothing else was intended than what is
 offered as the corrected application documents. 
 In extremely rare cases the other application documents might allow the 
 skilled person to reconstruct the missing parts of the description and/or 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter VI-5 
  
 missing drawings such that they may be filed by way of a correction 
@@ -46060,8 +45421,7 @@ Form 2004
 and 
 the 
 Part H – Chapter VI-6 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 Druckexemplar). The same applies to documents as proposed for 
 maintenance in amended form (see Rules 71(5), 82(1) and 95(2), 
@@ -46111,8 +45471,7 @@ inadmissible, i.e. the requested correction does not concern errors in
 bibliographic data contained in the decision to grant or formatting/editing 
 errors in the text of the B1 publication, the opposition division continues the 
 proceedings until the decision under Art. 101 is taken without waiting for 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter VI-7 
  
 closure of the proceedings before the examining division concerning the 
@@ -46159,8 +45518,7 @@ In this case, the amendment is indicated in EPO Form 2004 so that the
 error does not qualify as a formatting/editing error. Thus, no correction can 
 be made after issuance of the decision to grant. 
 Part H – Chapter VI-8 
-Guidelines for Examination in the EPO 
-April 2025 
+ 
  
 If any correction in the text of the specification as published is allowed, a 
 corrected version of it will be published. However, such a correction has no 
@@ -46208,8 +45566,7 @@ publication of the application and of the amended patent specification
 following a decision to maintain the patent as amended. 
 The competence to correct errors in publication lies with the body before 
 which proceedings are or were last pending. 
-April 2025 
-Guidelines for Examination in the EPO 
+
 Part H – Chapter VI-9 
  
 Therefore a request for correction of errors in the publication of the 
