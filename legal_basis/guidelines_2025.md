@@ -11,8 +11,9 @@ Germany
 patentlaw@epo.org 
 © EPO 2025 
 ISBN 978-3-89605-389-3 
-Guidelines for Examination in the 
-European Patent Office 
+
+# Guidelines for Examination in the European Patent Office 
+
 April 2025 
 
 List of Contents – a 
@@ -30,7 +31,7 @@ a
 7. Extension to and validation in states not party to the EPC 		9 
 8. Unitary Patent protection 		9 
 
-Part A – Guidelines for Formalities Examination 
+## Part A – Guidelines for Formalities Examination 
 Contents 
  
 a 
@@ -165,7 +166,8 @@ Guidelines for Examination Alphabetical keyword index 		1
 List of sections amended in 2025 revision 		1 
  
  
-General Part 
+## General Part 
+
 
 General Part – Contents – a 
 Contents 
@@ -611,10 +613,8 @@ Guidelines
 and 
 epo.org/applying/european/unitary.html.  
  
-Part A 
- 
-Guidelines for Formalities 
-Examination 
+# Part A  Guidelines for Formalities Examination 
+
 
 Part A – Contents a 
 Contents 
@@ -1637,9 +1637,8 @@ after the filing date.
 ### 5. Late filing of missing drawings or missing parts of the description 
 
 
-#### 5.1 Late filing of missing drawings or missing parts of the 
+#### 5.1 Late filing of missing drawings or missing parts of the description – on invitation 
 
-description – on invitation 
 The application is examined on filing to check that it is entitled to a date of 
 filing. If, during this check, the EPO notes that parts of the description or 
 drawings appear to be missing, it will invite the applicant to file the missing 
@@ -1651,9 +1650,8 @@ deleted. It should be noted that the applicant may not invoke the omission
 of the communication under Rules 56(1) and 56a(1). 
 Missing parts of the claims cannot be filed under Rule 56. 
 
-#### 5.2 Late filing of missing drawings or missing parts of the 
+#### 5.2 Late filing of missing drawings or missing parts of the description – without invitation 
 
-description – without invitation 
 Applicants may also file missing parts of the description or missing 
 drawings on their own initiative (without being invited to do so by the EPO) 
 within two months of the original date of filing. If the applicant does not do 
@@ -1689,9 +1687,8 @@ A "drawing" means a single numbered figure. Only whole figures are
 accepted according to Rule 56, even where only a part of the original figure 
 was missing. 
 
-#### 5.4 Missing parts of the description or missing drawings based on 
+#### 5.4 Missing parts of the description or missing drawings based on the priority application, no change in date of filing 
 
-the priority application, no change in date of filing 
 If the applicant files missing parts of the description or missing drawings 
 after the date of filing in accordance with the procedure specified in A-II, 5.1 
 or 5.2, the date of filing does not change, provided that all of the following 
@@ -1759,9 +1756,8 @@ priority claim in question must have been in existence no later than on the
 date on which the requirements laid down in Rule 40(1) were first fulfilled 
 (see A-II, 4.1). 
 
-#### 5.4.2 The missing parts of the description or missing drawings are 
+#### 5.4.2 The missing parts of the description or missing drawings are completely contained in the priority application 
 
-completely contained in the priority application 
 In cases where no translation of the priority application is required and both 
 the European patent application and the priority application are in the same 
 official EPO language, the requirement that the late-filed parts of the 
@@ -1834,9 +1830,8 @@ The entire priority application does not need to be translated, since this
 translation is required to satisfy the "completely contained" requirement of 
 Rule 56(3), not the translation requirement of Rule 56(3)(b). 
 
-#### 5.5 Withdrawal of late-filed missing drawings or missing parts of the 
+#### 5.5 Withdrawal of late-filed missing drawings or missing parts of the description 
 
-description 
 Where applicants file missing parts of the description or missing drawings 
 and make no request to base these late-filed parts on a claimed priority, 
 they are informed of the new date of filing in a communication from the 
@@ -1884,9 +1879,8 @@ Part A – Chapter II-15
 ### 6. Correction of erroneously filed application documents or parts 
 
 
-#### 6.1 Correction of erroneously filed application documents or parts – 
+#### 6.1 Correction of erroneously filed application documents or parts – on invitation 
 
-on invitation 
 The application is examined on filing to check that it is entitled to a date of 
 filing. If, during this check, the EPO establishes that the description, claims 
 or drawings (or parts of them) appear to have been erroneously filed, it will 
@@ -1903,9 +1897,8 @@ A71).
 Claims filed after the date of filing (see A-II, 4.1) cannot be corrected under 
 Rule 56a. 
 
-#### 6.2 Correction of erroneously filed application documents or parts – 
+#### 6.2 Correction of erroneously filed application documents or parts – without invitation 
 
-without invitation 
 Applicants may also file correct (parts of) the description, claims or 
 drawings on their own initiative (without being invited to do so by the EPO) 
 within two months of the original date of filing. If the applicant is invited by 
@@ -1942,9 +1935,8 @@ considered not part of the application as filed. As such, following publication
 of the application, the erroneous application documents or parts are open 
 to file inspection (see A-XI, 2.1 and 2.3). 
 
-#### 6.4 Correct application documents based on priority application, no 
+#### 6.4 Correct application documents based on priority application, no change in the date of filing 
 
-change in the date of filing 
 If, after the date of filing, the applicant corrects the application documents 
 (or parts) in accordance with the procedures explained in A-II, 6.1 or 6.2, 
 then the date of filing does not change, provided that all of the following 
@@ -2005,9 +1997,8 @@ which the EPO received the correct application documents or parts and the
 erroneously filed ones will be deemed not to have been filed. The EPO will 
 inform the applicant of this in accordance with Rule 56a(6). 
 
-#### 6.4.1 Later-filed correct application documents or parts when 
+#### 6.4.1 Later-filed correct application documents or parts when priority is claimed 
 
-priority is claimed 
 In the case of a request under Rule 56a(4), the EPO will check that the 
 requirements for the priority claim are met (see A-III, 6). 
 Where the applicant files a request under Rule 56a(4) (see A-II, 6.4), the 
@@ -2057,9 +2048,8 @@ correct application documents or parts are included in the application and
 the erroneously filed ones are deemed not to have been filed. The EPO will 
 inform the applicants of this in accordance with Rule 56a(2). 
 
-#### 6.7 Correct application documents or parts filed after the search has 
+#### 6.7 Correct application documents or parts filed after the search has started 
 
-started 
 If applicants file correct application documents or parts after the EPO has 
 already begun to draw up the search report, the EPO will invite them to pay 
 a further search fee under Rule 56a(8) within a time limit of one month. If 
@@ -2195,9 +2185,8 @@ out
 below. 
 Non-compliance with the requirements is considered in A-III, 16. 
 
-#### 3.2 Documents making up the application, replacement documents, 
+#### 3.2 Documents making up the application, replacement documents, translations 
 
-translations 
 The Receiving Section must ensure that the documents making up the 
 application, i.e. request, description, claims, drawings and abstract, meet 
 the requirements of Rule 49(2) in conjunction with Art. 4(2) of the decision 
@@ -2261,9 +2250,8 @@ OJ EPO 2014, A6).
 With regard to sequence listings, see A-IV, 5. 
 The particular requirements for drawings are dealt with in A-IX. 
 
-#### 3.2.1 Physical requirements of applications filed by reference to a 
+#### 3.2.1 Physical requirements of applications filed by reference to a previously filed application 
 
-previously filed application 
 If the application is filed by reference to a previously filed application under 
 Rule 40(1)(c) (see A-II, 4.1.3.1), and if no translation is required, the 
 certified copy of the previously filed application required under Rule 40(3) 
@@ -2281,9 +2269,8 @@ Rule 86
 Part A – Chapter III-4 
  
 
-#### 3.2.2 Physical requirements of late-filed application documents or 
+#### 3.2.2 Physical requirements of late-filed application documents or correct application documents or parts 
 
-correct application documents or parts 
 Where claims are filed after the date of filing (see A-III, 15) or where 
 missing parts of the description, missing drawings or correct application 
 documents or parts are inserted after the date of filing (see A-II, 5 and 6), 
@@ -3756,9 +3743,8 @@ not cause those designations that have been withdrawn to be reactivated.
 Furthermore, no Rule 112(1) communication will be sent in respect of a 
 failure to pay designation fees for any designation withdrawn. 
 
-### 11.3.9 Euro-PCT applications entering the European phase before 
+### 11.3.9 Euro-PCT applications entering the European phase before 1 April 2009 
 
-1 April 2009 
 For Euro-PCT applications entering the European phase, a designation fee 
 with respect to each contracting state designated, up to a maximum of 
 seven times the amount of one designation fee to designate all contracting 
@@ -3799,9 +3785,7 @@ can request further processing according to Art. 121 and Rule 135.
 For designation fees in relation to Euro-PCT applications entering the 
 European phase, see also E-IX, 2.1.1 and E-IX, 2.1.5.2. 
 
-### 12. Extension and validation of European patent applications and 
-
-patents to/in states not party to the EPC 
+### 12. Extension and validation of European patent applications and patents to/in states not party to the EPC 
 
 ### 12.1 General remarks 
 
@@ -4002,9 +3986,8 @@ A-X, 9.3.1 and 9.3.2.
 For the reduction of the filing fee and the search fee under the fee reduction 
 scheme for micro-entities, see A-X, 9.4.1 and 9.4.2. 
 
-### 13.2 Additional fee (if application documents comprise more than 35 
+### 13.2 Additional fee (if application documents comprise more than 35 pages) 
 
-pages) 
 This section relates only to applications filed and international applications 
 entering the European phase on or after 1 April 2009 (see also the notice 
 from the EPO dated 26 January 2009, OJ EPO 2009, 118, and its 
@@ -4035,11 +4018,8 @@ An additional fee is payable as part of the filing fee for European patent
 applications filed on or after 1 April 2009 and comprising more than 35 
 pages. The fee amount depends on the number of pages over 35. For fee 
 reductions under the language arrangements, see A-X, 9.3.1 and 9.3.2; for 
-fee reductions under the scheme for micro-entities, see A-X, 9.4.1 and 
+fee reductions under the scheme for micro-entities, see A-X, 9.4.1 and 9.4.2. The additional fee is payable within one month of the filing date of the application or of the date of receipt of a European divisional application or a 
 
-### 9.4.2. The additional fee is payable within one month of the filing date of the 
-
-application or of the date of receipt of a European divisional application or a 
 European patent application according to Art. 61(1)(b). If the application is 
 filed without claims or by reference to a previously filed application, the 
 additional fee is payable within one month of filing the first set of claims or 
@@ -4866,16 +4846,14 @@ likewise deemed withdrawn and a loss of rights communication under Rule
 Art. 121 and Rule 135 (see E-VIII, 2). 
 For divisional applications filed before 1 April 2009, see A-III, 11.3.2 and 
 
-### 11.3.4 for the deemed withdrawal of single designations or of the 
+### 11.3.4 for the deemed withdrawal of single designations or of the application and applicable remedies. 
 
-application and applicable remedies. 
 For fee reductions under the language arrangements, see A-X, 9.3.1 and 
 9.3.2; for fee reductions under the scheme for micro-entities, see A-X, 9.4.1 
 and 9.4.2. 
 
-#### 1.4.1.1 Additional fee for divisional applications of second or 
+#### 1.4.1.1 Additional fee for divisional applications of second or subsequent generations 
 
-subsequent generations 
 An additional fee is payable as part of the filing fee for divisional 
 applications of second or subsequent generations filed on or after 
 1 April 2014 (see the notice from the EPO dated 8 January 2014, 
@@ -4992,9 +4970,9 @@ Rule 136(1) in respect of the renewal fee
 for the fourth year (extended under 
 Rule 134(1)). 
 For other examples see A-X, 5.2.4. 
-For fee reductions under the scheme for micro-entities, see A-X, 9.4.1 and 
+For fee reductions under the scheme for micro-entities, see A-X, 9.4.1 and 9.4.2. 
 
-### 9.4.2. 1.5 Designation of the inventor 
+### 1.5 Designation of the inventor 
 
 The provisions of A-III, 5.4 apply with regard to the designation of the 
 inventor, except that, where the designation of the inventor has not been 
@@ -5032,9 +5010,8 @@ after
 1 January 1993 
 (see A-IV, 5). 
 
-#### 1.8 Search, publication and request for examination of divisional 
+#### 1.8 Search, publication and request for examination of divisional applications 
 
-applications 
 Divisional applications are searched, published and examined in the same 
 way as other European patent applications. 
 The search fee is refunded if the conditions of Art. 9(2) RFees are met (see 
@@ -5217,9 +5194,8 @@ designated contracting states. If the decision is in favour of the third party,
 the proceedings may not be resumed earlier than three months after the 
 decision has become final unless the third party requests the resumption. 
 
-#### 2.2.5.2 Resumption regardless of the stage of entitlement 
+#### 2.2.5.2 Resumption regardless of the stage of entitlement proceedings 
 
-proceedings 
 The Legal Division may also order the resumption of grant proceedings 
 regardless of the stage reached in the proceedings against the applicant. In 
 this case, it is at the discretion of the Legal Division to decide whether the 
@@ -5234,9 +5210,8 @@ proceedings in the first instance and the duration of the stay of proceedings
 before the EPO are to be taken into consideration, as well as an evident 
 abuse of proceedings, e.g. in the form of delaying tactics. 
 
-#### 2.3 Limitation of the option to withdraw the European patent 
+#### 2.3 Limitation of the option to withdraw the European patent application 
 
-application 
 From the time when a third party proves to the EPO that they have initiated 
 proceedings concerning entitlement (see A-IV, 2.2) and up to the date on 
 which the EPO resumes the proceedings for grant (see A-IV, 2.2.5), neither 
@@ -5765,9 +5740,8 @@ Rule 30(3) to file a standard-compliant sequence listing.
 Erroneously filed sequence listings may be corrected under Rule 56a 
 (see A-II, 6). 
 
-#### 5.3 Sequence listings of an application filed by reference to a 
+#### 5.3 Sequence listings of an application filed by reference to a previously filed application 
 
-previously filed application 
 Where the application is filed by reference to a previously filed application 
 (see A-II, 4.1.3.1), and that previously filed application contained sequence 
 listings on its date of filing, then those sequence listings form part of the 
@@ -5940,9 +5914,7 @@ Rule 155(2)
 Part A – Chapter V-1 
 ## Chapter V – Communications concerning formal deficiencies; amendment of application; correction of errors 
 
-###  
-
-1. Communications concerning formal deficiencies 
+###  1. Communications concerning formal deficiencies 
 
 Where an application is found to be formally deficient during a formalities 
 examination, the Receiving Section or, where appropriate, the examining 
@@ -6108,9 +6080,7 @@ Rule 139,
 Part A – Chapter VI-1 
 ## Chapter VI – Publication of application; request for examination and transmission of the dossier to examining division 
 
-###  
-
-1. Publication of application 
+### 1. Publication of application 
 
 
 #### 1.1 Date of publication 
@@ -6282,9 +6252,7 @@ Rule 139
 Part A – Chapter VI-4 
  
 
-### 2. Request for examination and transmission of the dossier to the 
-
-examining division 
+### 2. Request for examination and transmission of the dossier to the examining division 
 
 #### 2.1 Communication 
 
@@ -6598,9 +6566,7 @@ translated into English, the claims will need to be filed in English.
 Subsequent amendments to the application will also have to the filed in 
 English. 
 
-### 3. Derogations from the language of the proceedings in written 
-
-proceedings 
+### 3. Derogations from the language of the proceedings in written proceedings 
 
 #### 3.1 Parties' written submissions 
 
@@ -6673,9 +6639,8 @@ language (Art. 14(1)), the EPO may invite the third party, if identifiable, to
 submit a translation of the observations and, where appropriate, of the cited 
 prior art in one such language within a period according to Rule 132. 
 
-### 4. Derogations from the language of the proceedings in oral 
+### 4. Derogations from the language of the proceedings in oral proceedings 
 
-proceedings 
 This subject is dealt with in E-V. 
 
 ### 5. Documents filed in the wrong language 
@@ -6796,9 +6761,8 @@ Irrespective of whether they do so, the EPO will nevertheless inform
 opponents of the date and location of any oral proceedings and point out 
 that if they appear alone they will not be entitled to act before the division. 
 
-#### 1.2 Representation by a professional representative; list of 
+#### 1.2 Representation by a professional representative; list of professional representatives; associations 
 
-professional representatives; associations 
 Representation of natural or legal persons in proceedings before the EPO 
 may only be undertaken by professional representatives whose names 
 appear on a list kept for this purpose by the EPO. See, however, also 
@@ -6998,9 +6962,8 @@ Part A – Chapter VIII-5
 registered. The Legal Division is responsible for the registration of general 
 authorisations (OJ EPO 2013, 600). 
 
-#### 1.8 Invitation to appoint a representative and legal consequence of 
+#### 1.8 Invitation to appoint a representative and legal consequence of non-compliance 
 
-non-compliance 
 Where the Receiving Section notes during the examination under Art. 90(3) 
 that a party having neither residence nor principal place of business within 
 a contracting state has failed to fulfil the requirements of Art. 133(2) 
@@ -7019,9 +6982,8 @@ remedied by filing a request for further processing under Art. 121 and
 Rule 135 (see E-VIII, 2) or by requesting a decision under Rule 112(2) (see 
 E-VIII, 1.9.3). 
 
-#### 1.9 Invitation to file authorisation and legal consequence in case of 
+#### 1.9 Invitation to file authorisation and legal consequence in case of non-compliance 
 
-non-compliance 
 Where an employee acting for an applicant in accordance with Art. 133(3), 
 first sentence, but who is not a professional representative or legal 
 practitioner, is communicated to the EPO without an authorisation being 
@@ -7317,9 +7279,7 @@ only slight marks in the margin may be used.
 
 #### 4.1 Usable surface area of sheets 
 
-On sheets containing drawings, the usable surface area may not exceed 
-
-### 26.2 cm x 17 cm. These sheets may not contain frames round the usable or 
+On sheets containing drawings, the usable surface area may not exceed 26.2 cm x 17 cm. These sheets may not contain frames round the usable or 
 
 used surface. The minimum margins are as follows: top side: 2.5 cm; 
 left side: 2.5 cm; right side: 1.5 cm; bottom 1 cm. 
@@ -7527,9 +7487,8 @@ The Latin alphabet should normally be used for letters. The Greek alphabet
 is to be accepted however where it is customarily used, e.g. to indicate 
 angles, wavelengths, etc. 
 
-#### 7.5.4 Consistent use of reference signs in description, claims and 
+#### 7.5.4 Consistent use of reference signs in description, claims and drawings 
 
-drawings 
 Reference signs not mentioned in the description and claims may not 
 appear in the drawing, and vice versa. 
 Reference signs appearing in the drawing must be given in the description 
@@ -7665,10 +7624,7 @@ Figures, letters and signs that are not typed must be legible and identical in
 form in the various formulae, irrespective of the document in which they 
 appear. 
 Chemical or mathematical formulae appearing in the text of the application 
-or patent must have symbols, the capital letters of which are at least 
-
-### 0.21 cm high. Where they appear on sheets of drawings, these symbols 
-
+or patent must have symbols, the capital letters of which are at least 0.21 cm high. Where they appear on sheets of drawings, these symbols 
 must be at least 0.32 cm high. 
 All mathematical symbols used in a formula appearing in a description, in 
 an annex or on sheets of drawings must be explained in the description 
@@ -7766,9 +7722,8 @@ euro.
 ### 4. Date considered as date on which payment is made 
 
 
-#### 4.1 Payment or transfer to a bank account held by the European 
+#### 4.1 Payment or transfer to a bank account held by the European Patent Organisation 
 
-Patent Organisation 
 The date on which payment is deemed made is the date on which the 
 amount payable actually enters the European Patent Organisation's bank 
 account. The date on which payment is deemed made may therefore be 
@@ -8426,9 +8381,8 @@ Claims fees are due upon filing the first set of claims, which may be the
 date of filing or may occur later (see A-III, 9 and 15). For Euro-PCT 
 applications, see E-IX, 2.3.8. 
 
-#### 5.2.6 Fees for limitation/revocation, opposition, appeal, petition for 
+#### 5.2.6 Fees for limitation/revocation, opposition, appeal, petition for review 
 
-review 
 All of these fees are due on the date that the document in question is filed 
 (request for limitation, request for revocation, notice of opposition, notice of 
 appeal and petition for review). 
@@ -8464,9 +8418,8 @@ time limit extended under Rule 134.
 #### 6.2 Late payment of fees – period for payment considered observed 
 
 
-#### 6.2.1 Fees paid by bank transfer – application of Art. 7(3) and 
+#### 6.2.1 Fees paid by bank transfer – application of Art. 7(3) and (4) RFees 
 
-(4) RFees 
 If a fee paid by bank transfer enters the EPO's bank account after the 
 period in which it should have been made, the period for payment of that 
 fee is considered observed if the payer provides evidence to the EPO that 
@@ -8607,9 +8560,8 @@ In the case of changes to the purpose of payment not arising from
 Art. 6(2) RFees, the date of payment is the date of receipt of the request for 
 the change. 
 
-#### 7.2 Indication of the purpose of the payment in the case of 
+#### 7.2 Indication of the purpose of the payment in the case of designation fees 
 
-designation fees 
 The following applies only to applications filed before 1 April 2009. 
 Art. 6 RFees 
 Art. 2(2), item 3, 
@@ -8680,9 +8632,8 @@ Where a fee reduction applies, the reduced rate may be paid instead of the
 full fee. The factual conditions for a reduction of the fee must be met on the 
 day the payment is made. 
 
-#### 9.2 Fee-related support measures for small entities and 
+#### 9.2 Fee-related support measures for small entities and micro-entities  
 
-micro-entities  
 Applicants fulfilling certain criteria are eligible for fee reductions under the 
 language arrangements (see A-X, 9.3) and a fee reduction scheme 
 specifically for micro-entities (see A-X, 9.4). If applicants are eligible for a 
@@ -9019,9 +8970,8 @@ additional fee, can still be paid within this period.
 #### 9.5 Special reductions 
 
 
-#### 9.5.1 Reduction of the search fee for a supplementary European 
+#### 9.5.1 Reduction of the search fee for a supplementary European search 
 
-search 
 The search fee for a supplementary European search report is reduced by 
 a fixed amount for PCT applications for which the patent office of Austria, 
 Finland, Spain, Sweden or Türkiye, the Nordic Patent Institute or the 
@@ -9044,9 +8994,8 @@ mentioned above was selected. For the latest overview of the amounts
 payable, see the notice from the EPO dated 29 March 2024, OJ EPO 2024, 
 A33. 
 
-#### 9.5.2 Reduction of the examination fee where the international 
+#### 9.5.2 Reduction of the examination fee where the international preliminary examination report is drawn up by the EPO 
 
-preliminary examination report is drawn up by the EPO 
 Where the EPO has drawn up the international preliminary examination 
 report in respect of an international application, the examination fee is 
 reduced by 75% in proceedings before the EPO as elected Office. 
@@ -9366,9 +9315,8 @@ item 7, RFees
 Part A – Chapter X-28 
  
 
-### 11.3 Separate crediting of the fee for grant and publishing and claims 
+### 11.3 Separate crediting of the fee for grant and publishing and claims fees 
 
-fees 
 The crediting of claims fees and the fee for grant and publishing is dealt 
 with separately. Claims fees are not credited towards any increase in the 
 fee for grant and publishing. 
@@ -9384,8 +9332,7 @@ communication credited towards any subsequent request for further
 processing in respect of the second Rule 71(3) communication. 
 
 Part A – Chapter XI-1 
-## Chapter XI – Inspection of files; communication of information contained in files; consultation of the European Patent Register; issue of certified 
-copies 
+## Chapter XI – Inspection of files; communication of information contained in files; consultation of the European Patent Register; issue of certified copies 
 
 ###  
 
@@ -9587,9 +9534,8 @@ or a new European patent application filed under Art. 61(1)(b) is published,
 the files of the earlier application may be inspected prior to that earlier 
 application's publication and without the relevant applicant's consent. 
 
-#### 2.6 Publication of bibliographic data before publication of the 
+#### 2.6 Publication of bibliographic data before publication of the application 
 
-application 
 In accordance with Art. 128(5), the EPO publishes in the European Patent 
 Bulletin the bibliographic data relating to European patent applications that 
 had been announced for publication but for which the application 
@@ -9643,9 +9589,8 @@ from the Register will be provided on receipt of a substantiated request
 ### 5. Issue of certified copies 
 
 
-#### 5.1 Certified copies of documents from the files or of other 
+#### 5.1 Certified copies of documents from the files or of other documents 
 
-documents 
 The EPO will issue on request a certified copy of the European patent 
 application or European patent specification, or of other documents from 
 the files of European patent applications and patents (e.g. an extract from 
@@ -9704,9 +9649,8 @@ providing the access code that the EPO generates for every European
 patent application filed with it and every international application filed with 
 the EPO as receiving Office (see also A-III, 6.7).  
  
-Part B 
- 
-Guidelines for Search 
+# Part B  Guidelines for Search 
+
 
 Part B – Contents a 
 Contents 
@@ -10017,9 +9961,8 @@ same search report. However, only one member draws up the search
 opinion, albeit in consultation with the members with expertise in the other 
 technical fields where necessary. 
 
-#### 2.2.1 Where claimed unitary subject-matter covers more than one 
+#### 2.2.1 Where claimed unitary subject-matter covers more than one technical field 
 
-technical field 
 Exceptionally, where the subject-matter of an application covers two or 
 more technical fields which are so different that a member trained to carry 
 out searches in one field cannot reasonably be expected to search all of 
@@ -10039,9 +9982,8 @@ fields.
 In all the above cases, the search report and search opinion (if applicable ‒ 
 see B-XI, 7) are usually issued by one member only. 
 
-#### 2.2.2 Further searches in a different technical field for a non-unitary 
+#### 2.2.2 Further searches in a different technical field for a non-unitary application  
 
-application  
 The search division may also have more than one member where 
 subject-matter in different technical fields is found to lack of unity. Such 
 cases are handled as follows: 
@@ -10246,9 +10188,8 @@ patent family member or an abstract of the document in an official
 language, see B-VI, 6.2) unless it can obtain it from another source, 
 e.g. the applicant or the ISA. 
 
-#### 4.3.3 Application documents for the supplementary European 
+#### 4.3.3 Application documents for the supplementary European search report 
 
-search report 
 The European grant procedure, including the supplementary European 
 search, is based on the application documents specified by the applicant 
 when the application enters the European phase (Rule 159(1)(b)). 
@@ -10492,9 +10433,8 @@ However, where the reference does not appear to be allowable under
 Rule 43(6), the search division will object to it in the search opinion (if 
 applicable – see B-XI, 7). 
 
-#### 3.2.2 Using the description and/or drawings to identify the technical 
+#### 3.2.2 Using the description and/or drawings to identify the technical problem 
 
-problem 
 Rule 42(1)(c) states that the description must (at least implicitly) mention 
 the technical problem the invention is intended to solve (see also F-II, 4.5). 
 This means the technical problem can be identified even if it is not 
@@ -10508,9 +10448,8 @@ OJ EPO 1997, 134;
 see 
 also G-VII, 5.2, T 184/82, OJ EPO 1984, 261, and T 732/89). 
 
-#### 3.2.3 Using the description and/or drawings to define unclear terms 
+#### 3.2.3 Using the description and/or drawings to define unclear terms not defined in the claims 
 
-not defined in the claims 
 Sometimes, the terms used to define claimed technical features are unclear 
 and so the scope of the claims cannot be determined unambiguously. The 
 search division then uses the description and/or drawings to interpret what 
@@ -10533,9 +10472,8 @@ objects to the clarity of the term "wide" under Art. 84, second sentence, in
 the search opinion). The definition of "wide" in the description is also a 
 fallback position (see B-III, 3.2.5). 
 
-#### 3.2.4 Using the description and/or drawings to define clear terms 
+#### 3.2.4 Using the description and/or drawings to define clear terms given a definition different from their usual meaning 
 
-given a definition different from their usual meaning 
 The meaning given to a technical term in the description and/or the 
 drawings sometimes differs from the one commonly accepted in the 
 relevant technical field. The meaning given can make the term (and so the 
@@ -10570,9 +10508,7 @@ term. However, if the term's meaning is so unclear that a meaningful search
 cannot be carried out, it is justified to limit the scope of the search under 
 Rule 63. 
 
-#### 3.3 Amended claims, missing parts (Rule 56) or erroneously filed 
-
-application documents or parts (Rule 56a) 
+#### 3.3 Amended claims, missing parts (Rule 56) or erroneously filed application documents or parts (Rule 56a) 
 
 #### 3.3.1 General considerations 
 
@@ -11295,9 +11231,8 @@ happen that a new edition of the IPC is published in the meantime. The
 search division will then use the IPC edition which was in force when the 
 application was published for the search report. 
 
-#### 3.2 IPC classification where the scope of the invention is unclear 
+#### 3.2 IPC classification where the scope of the invention is unclear (e.g. a partial search) 
 
-(e.g. a partial search) 
 Where the scope of the invention is unclear, the IPC classification has to be 
 based on what appears to be the invention in so far as this can be 
 understood. It will then have to be amended if the search clears up the 
@@ -11511,9 +11446,7 @@ concerned, and so they are important for the applicant (see H-III, 4.4). If
 any are found during the search, they will be mentioned in the search report 
 for information (see B-X, 9.2.6). 
 
-### 5. Relevant date for documents cited in the search report; filing and 
-
-priority date 
+### 5. Relevant date for documents cited in the search report; filing and priority date 
 
 #### 5.1 Verification of claimed priority dates 
 
@@ -11544,9 +11477,8 @@ Art. 54(2)
 Part B – Chapter VI-4 
  
 
-#### 5.3 Doubts about the validity of the priority claim; widening of the 
+#### 5.3 Doubts about the validity of the priority claim; widening of the search 
 
-search 
 The examining division is responsible for checking whether and to what 
 extent the priority claim is justified. However, if its search uncovers 
 intermediate state of the art (see B-VI, 5.2) or potential state of the art 
@@ -11709,9 +11641,8 @@ As a general rule, the search division cites only documents which are
 available in the search documentation or which it can access in some other 
 way. 
 
-#### 6.2 Citation of documents corresponding to documents not available 
+#### 6.2 Citation of documents corresponding to documents not available or not published in one of the EPO's official languages 
 
-or not published in one of the EPO's official languages 
 In certain circumstances, the search division can cite a document without 
 having verified its content if it has good reason to assume that it is identical 
 in content to another document which it has inspected. Both documents are 
@@ -12046,14 +11977,10 @@ some of the claims or only part of a claim. This will then be indicated in the
 invitation under Rule 63(1) and in any subsequent partial search report or 
 declaration replacing the search report under Rule 63(2). 
 
-### 2. Considerations relating to specific exclusions from and 
+### 2. Considerations relating to specific exclusions from and exceptions to patentability 
 
-exceptions to patentability 
+#### 2.1 Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body 
 
-#### 2.1 Methods for treatment of the human or animal body by surgery 
-
-or therapy and diagnostic methods practised on the human or animal 
-body 
 Even where a claim is drafted as a method of medical treatment 
 (see G-II, 4.2) and is therefore not directed to patentable subject-matter, a 
 meaningful search may be possible if the determinant technical feature is 
@@ -12089,9 +12016,8 @@ searched or not, the applicant will be informed in the search opinion (if
 applicable ‒ see B-XI, 7) that the subject-matter in question is excluded 
 from patentability (see B-XI, 3). 
 
-#### 2.2 Subject-matter excluded from patentability under Art. 52(2) 
+#### 2.2 Subject-matter excluded from patentability under Art. 52(2) and (3) 
 
-and (3) 
 Subject-matter or activities listed in Art. 52(2), when taken as such 
 (Art. 52(3)), are considered non-technical (G-II, 1 and 2). If a claim contains 
 a mix of technical and non-technical features, the search division identifies 
@@ -12889,9 +12815,8 @@ An "Information on Search Strategy" sheet is automatically added to all
 EPO search reports. It lists the databases searched, classification symbols 
 used and keywords reflecting the searched subject-matter. 
 
-### 4. Identification of the European patent application and the search 
+### 4. Identification of the European patent application and the search report type 
 
-report type 
 The European patent application concerned is identified on the main page 
 and supplemental sheets by its application number. 
 The search report type is also specified. 
@@ -12934,9 +12859,8 @@ displays the parts of the documentation consulted for this previous search
 as the ones consulted for the application in question, again by using the 
 appropriate IPC symbols. 
 
-### 7. Title, abstract and figure to be published with the abstract (as 
+### 7. Title, abstract and figure to be published with the abstract (as indicated on supplemental sheet A) 
 
-indicated on supplemental sheet A) 
 The search division fills in supplemental sheet A before publication of the 
 application, regardless of whether it is going to be published with the 
 search report (A1 publication) or without it (A2 publication), because the 
@@ -13266,9 +13190,8 @@ particularly relevant, the primary document is labelled with the letter "X",
 i.e. not "Y", and the document it refers to (the "secondary document") is 
 labelled with "X" or "L" as appropriate. 
 
-#### 9.2.2 Documents defining the state of the art and not prejudicing 
+#### 9.2.2 Documents defining the state of the art and not prejudicing novelty or inventive step 
 
-novelty or inventive step 
 Where a document cited in the search report represents state of the art that 
 does not prejudice the novelty or inventive step of the claimed invention, it 
 is labelled with the letter "A" (see, however, B-III, 1.1). 
@@ -13292,9 +13215,8 @@ the earliest priority date claimed. The document category "P" is always
 accompanied by one of the letters explained in B-X, 9.2.1 and 9.2.2 to 
 indicate its level of relevance. So e.g. "P, X", "P, Y" or "P, A". 
 
-#### 9.2.5 Documents relating to the theory or principle behind the 
+#### 9.2.5 Documents relating to the theory or principle behind the invention 
 
-invention 
 Where a document cited in the search report may be useful for a better 
 understanding of the principle or theory behind the invention or shows that 
 the reasoning or the facts behind it are incorrect, it is labelled with the 
@@ -13500,9 +13422,8 @@ COMPENDEX, INSPEC, NTIS) is performed and the original document
 referred to in the database is not available at the EPO when the search 
 report is drafted, the extract is added to the file instead of the original. 
 
-### 11.6 Citation of video and/or audio media fragments available on the 
+### 11.6 Citation of video and/or audio media fragments available on the internet 
 
-internet 
 Video and/or audio media fragments available on the internet are converted 
 into a non-patent literature citation. The bibliographic data include the URL 
 of the original location on the internet. 
@@ -13593,9 +13514,8 @@ amendments in question have not since been withdrawn or superseded
 (see H-III, 2.1.1) and only if the application is of one of the types listed 
 in H-III, 2.1.4. 
 
-#### 2.1 Application documents filed under Rule 56 EPC, Rule 56a EPC, 
+#### 2.1 Application documents filed under Rule 56 EPC, Rule 56a EPC, Rule 20.5 PCT or Rule 20.5bis PCT 
 
-Rule 20.5 PCT or Rule 20.5bis PCT 
 If the Receiving Section decided not to redate the application under 
 Rule 56(2) or (5) or under Rule 56a(3) or (6), but the search division 
 considers that the subsequently filed missing parts or correct application 
@@ -13642,9 +13562,8 @@ Part B – Chapter XI-3
 receiving Office) at a later stage unless it is bound by a decision of the 
 board of appeal. 
 
-#### 2.2 Applications containing claims filed after the accorded date of 
+#### 2.2 Applications containing claims filed after the accorded date of filing 
 
-filing 
 If the application documents contain any claims filed after the accorded 
 date of filing (Rules 40(1), 57(c) and 58), the search division has to 
 examine whether those claims meet the requirements of Art. 123(2), i.e. do 
@@ -14045,11 +13964,8 @@ be made until the application has entered the examination phase
 Art. 124 
 Rule 141 
  
-Part C 
- 
-Guidelines for Procedural 
-Aspects of Substantive 
-Examination 
+# Part C  Guidelines for Procedural Aspects of Substantive Examination 
+
 
 Part C – Contents a 
 Contents 
@@ -14287,11 +14203,10 @@ H-III, 2.1.4, the examining division may send the applicant a communication
 under Rule 137(4) requesting this information (see H-III, 2.1.1). 
 
 Part C – Chapter II-1 
+
 ## Chapter II – Formal requirements to be met before the division starts substantive examination 
 
-###  
-
-1. Request for examination 
+###  1. Request for examination 
 
 For examination of a European patent application to begin, the applicant 
 must file a request for examination and pay the examination fee. The 
@@ -14327,9 +14242,8 @@ examination before the European search report is sent to them, then
 the examining division is responsible only from the time when the 
 search report is sent to the applicant. 
 
-#### 1.1 Confirmation of the intention to proceed further with the 
+#### 1.1 Confirmation of the intention to proceed further with the application 
 
-application 
 If the applicant files a request for examination before the search report is 
 sent to them, the EPO will invite them to confirm, within a six-month period, 
 that they wish to proceed with their application. This six-month period is 
@@ -14581,7 +14495,9 @@ Rule 70b(2)
 Part C – Chapter III-1 
 ## Chapter III – The first stage of examination  
 
-### 1. Missing parts or elements 1.1 European patent applications 
+### 1. Missing parts or elements 
+
+#### 1.1 European patent applications 
 
 #### 1.1.1 Application documents filed under Rule 56 or Rule 56a 
 
@@ -14681,9 +14597,8 @@ Part C – Chapter III-3
 H-III, 2.1.4, the examining division may send the applicant a communication 
 under Rule 137(4) requesting this information (see H-III, 2.1.1). 
 
-#### 1.2 Euro-PCT applications – missing elements and parts filed under 
+#### 1.2 Euro-PCT applications – missing elements and parts filed under Rule 20.5 and 20.6 PCT 
 
-Rule 20.5 and 20.6 PCT 
 In the case of PCT applications, missing drawings and parts of the 
 description, but also missing claims, may have been filed at the receiving 
 Office for international applications under Rules 20.5 and 20.6 PCT, and its 
@@ -14698,9 +14613,8 @@ issued, this review will normally have been initiated at the search stage
 substantive examination. The procedure is the same as for European 
 patent applications (see C-III, 1.1.1). 
 
-#### 1.3 Euro-PCT applications – erroneous elements filed under 
+#### 1.3 Euro-PCT applications – erroneous elements filed under Rule 20.5bis PCT 
 
-Rule 20.5bis PCT 
 Rule 20.5bis PCT allows applicants to correct an erroneously filed element 
 (description or claims) or part of the description, claims or drawings 
 (including all drawings) contained in an international application. 
@@ -14846,9 +14760,8 @@ see B-XI, 8). This means that the applicant is not restricted to amendments
 necessary to remedy a defect in the application. Further amendments may 
 be made only with the consent of the examining division (see H-II, 2.3). 
 
-#### 2.2 Amendments made in response to the WO-ISA, IPER or 
+#### 2.2 Amendments made in response to the WO-ISA, IPER or supplementary international search report 
 
-supplementary international search report 
 For Euro-PCT applications where the EPO acted as ISA or SISA, any 
 amendments filed in response to the communication under Rule 161(1) 
 (see E-IX, 3.3.3) are made by the applicant of their own volition. This 
@@ -15107,9 +15020,8 @@ Part C – Chapter III-11
 excising those parts belonging to the other inventions. For the latter 
 inventions, the applicant may file divisional applications (see C-III, 3.3). 
 
-#### 3.2.3 Invitation to pay additional search fees combined with 
+#### 3.2.3 Invitation to pay additional search fees combined with invitation to restrict the scope of the search 
 
-invitation to restrict the scope of the search 
 In exceptional cases, an invitation to pay additional search fees under 
 Rule 64(1), Rule 164(1) or Rule 164(2) may be combined with an invitation 
 to restrict the scope of the search under Rule 62a(1) and/or Rule 63(1). 
@@ -15415,9 +15327,8 @@ time limits set in both communications are independent of one another. Any
 information on prior art provided by the applicant will be included in the file 
 and will be open to file inspection (see A-XI). 
 
-### 7. Evaluation of prior-art documents cited in the search report and 
+### 7. Evaluation of prior-art documents cited in the search report and late priority claim 
 
-late priority claim 
 As explained in A-III, 6.5.1 and A-III, 6.5.2, the applicant has the right to 
 correct or introduce a priority claim within 16 months of the earliest priority 
 (with a minimum of four months from the European date of filing in the case 
@@ -15536,9 +15447,8 @@ consultation may be useful. A consultation may also expedite the procedure
 if the matters to be resolved are minor. Consultations do not constitute oral 
 proceedings (see E-III) and are more fully considered in C-VII, 2. 
 
-#### 3.1 Further action where a request for a translation of the priority 
+#### 3.1 Further action where a request for a translation of the priority application was sent earlier in examination proceedings 
 
-application was sent earlier in examination proceedings 
 In cases where an invitation under Rule 53(3) to file a translation of one or 
 more priority applications was sent earlier in examination proceedings 
 (either separately or at the same time as an Art. 94(3) communication – see 
@@ -16046,9 +15956,8 @@ the
 Rule 71(3) 
 communication was based. 
 
-### 4. Request for amendments or corrections in reply to the Rule 71(3) 
+### 4. Request for amendments or corrections in reply to the Rule 71(3) communication 
 
-communication 
 If the applicant, within the period under Rule 71(3), requests reasoned 
 amendments or corrections to the communicated text (see C-V, 4.3 for the 
 reasoning required), the examining division will issue a new Rule 71(3) 
@@ -16153,17 +16062,15 @@ examination (see C-V, 4.7) and send the applicant a communication under
 Art. 94(3) requesting the adapted description before issuing a second 
 Rule 71(3) communication (see C-V, 4.7.2). 
 
-#### 4.6 Amendments/corrections admitted and allowable – second 
+#### 4.6 Amendments/corrections admitted and allowable – second Rule 71(3) communication sent 
 
-Rule 71(3) communication sent 
 If the amendments and/or corrections filed within the period under 
 Rule 71(3) are admitted under Rule 137(3) and also comply with the EPC, 
 the examining division will send a second communication under Rule 71(3) 
 based on them. 
 
-#### 4.6.1 Second Rule 71(3) communication reversing the amendments 
+#### 4.6.1 Second Rule 71(3) communication reversing the amendments proposed by the examining division in first Rule 71(3) communication 
 
-proposed by the examining division in first Rule 71(3) communication 
 A second communication under Rule 71(3) is also sent if the applicant 
 requests reversal of amendments proposed by the examining division in the 
 first Rule 71(3) communication and the examining division overturns its 
@@ -16173,9 +16080,8 @@ by the applicant in their reply to the first Rule 71(3) communication (in the
 absence of such convincing arguments or evidence, examination will 
 normally be resumed; see C-V, 4.7). 
 
-#### 4.6.2 Second Rule 71(3) communication based on higher-ranking 
+#### 4.6.2 Second Rule 71(3) communication based on higher-ranking request initially rejected in first Rule 71(3) communication 
 
-request initially rejected in first Rule 71(3) communication 
 In cases where the first Rule 71(3) communication was based on an 
 auxiliary request (see H-III, 3, in particular H-III, 3.1 and 3.3 and 
 subsections), the first communication under Rule 71(3) would have been 
@@ -16197,9 +16103,8 @@ applicant is successful in this regard, the examining division will send a
 second communication under Rule 71(3) based on the higher-ranking 
 request. 
 
-#### 4.6.3 Examining division proposes amendments in second 
+#### 4.6.3 Examining division proposes amendments in second Rule 71(3) communication 
 
-Rule 71(3) communication 
 As with the first Rule 71(3) communication, the examining division may 
 propose amendments to the applicant's latest request forming the basis for 
 the second Rule 71(3) communication (this request includes amendments 
@@ -16215,9 +16120,8 @@ Part C – Chapter V-9
 amendment is necessary to overcome an objection, it should consider 
 resuming examination (see C-V, 4.7). 
 
-#### 4.7 Amendments not admitted and/or not allowable, examination 
+#### 4.7 Amendments not admitted and/or not allowable, examination resumed 
 
-resumed 
 The examining division may resume the examination proceedings at any 
 time up to the decision to grant the European patent. 
 
@@ -16296,9 +16200,8 @@ not inventive in view of D1 (see col. 5, lines 25-46; fig. 4) because the
 skilled person, wishing to avoid friction between the cable and the carpet, 
 would make the clip recess deeper than the cable diameter". 
 
-#### 4.7.2 Agreement reached on a text - second Rule 71(3) 
+#### 4.7.2 Agreement reached on a text - second Rule 71(3) communication 
 
-communication 
 If the resumption of examination described in C-V, 4.7.1 results in an 
 allowable and admissible text being filed or in the applicant convincing the 
 examining division that the text already filed in response to the Rule 71(3) 
@@ -16364,9 +16267,8 @@ the applicant paid the fee voluntarily in response to the first Rule 71(3)
 communication, the amount paid will be credited according to Rule 71a(5) 
 (see C-V, 4.2 and A-X, 11.1). 
 
-#### 4.9 Reply explicitly disapproving with the proposed text without 
+#### 4.9 Reply explicitly disapproving with the proposed text without indicating an alternative text 
 
-indicating an alternative text 
 If the applicant replies to the communication under Rule 71(3) by simply 
 disapproving with the text proposed for grant, not indicating an alternative 
 and not paying any fees or filing the translations of the claims, the following 
@@ -16455,13 +16357,10 @@ Rule 137(3)
 
 Part C – Chapter V-13 
 
-### 6. The examining division resumes examination after approval of the 
+### 6. The examining division resumes examination after approval of the text 
 
-text 
+#### 6.1 When does the examining division resume examination after approval? 
 
-#### 6.1 When does the examining division resume examination after 
-
-approval? 
 Following the applicant's approval in response to the Rule 71(3) 
 communication (see C-V, 2), the examining division may resume the 
 examination procedure at any time up to the moment the decision to grant 
@@ -16763,9 +16662,8 @@ the applicant should be informed that the request for a decision according
 to the state of the file could not be followed. 
 
 Part C – Chapter V-19 
-Annex 
-Standard marks for indicating amendments or corrections by the 
-divisions 
+
+## Annex Standard marks for indicating amendments or corrections by the divisions 
 
 ### 1.  Insertion of letters and words 
 
@@ -17426,9 +17324,8 @@ will then report back to the division recommending that the application
 should proceed to grant. If not, they should report back recommending 
 refusal. 
 
-#### 5.1 When can a summons to oral proceedings be issued in 
+#### 5.1 When can a summons to oral proceedings be issued in substantive examination? 
 
-substantive examination? 
 At the beginning of substantive examination, if the examining division is of 
 the opinion that the application cannot be granted directly, at least one 
 substantive communication within the meaning of Art. 94(3) will generally 
@@ -17452,9 +17349,8 @@ division members cannot sign the decision, one of the other members –
 normally the chair – may sign it on their behalf, subject to the conditions 
 defined in E-X, 2.3. A seal may replace the signature. 
 
-### 7. Enlargement of the examining division; consultation of a legally 
+### 7. Enlargement of the examining division; consultation of a legally qualified member 
 
-qualified member 
 If the examining division deems it necessary given the nature of a decision, 
 it is enlarged to include a legally qualified member. The decision to enlarge 
 or to set aside an enlargement lies with the examining division. 
@@ -17710,9 +17606,8 @@ application should be examined in the normal way without regard to the
 other, with the proviso that the subject-matter of each application must not 
 extend beyond that of the original application. 
 
-### 3. Applications where a reservation has been entered in accordance 
+### 3. Applications where a reservation has been entered in accordance with Art. 167(2)(a) EPC 1973 
 
-with Art. 167(2)(a) EPC 1973 
 See H-III, 4.4. 
 
 ### 4. International applications (Euro-PCT applications) 
@@ -17721,11 +17616,8 @@ For more details on these, see E-IX.
 Rule 18(1) 
 Rule 18(2) 
  
-Part D 
- 
-Guidelines for Opposition and 
-Limitation/Revocation 
-Procedures 
+# Part D  Guidelines for Opposition and Limitation/Revocation Procedures 
+
 
 Part D – Contents a 
  
@@ -18139,9 +18031,8 @@ public.
 The chair must be a technically qualified member who has not taken part in 
 the grant proceedings (see D-II, 2.1). 
 
-### 3. Allocation of duties and appointment of members of the 
+### 3. Allocation of duties and appointment of members of the opposition division 
 
-opposition division 
 C-II, 2 applies mutatis mutandis. 
 
 ### 4. Tasks of the opposition divisions 
@@ -18170,9 +18061,8 @@ amendments.
 This does not, however, affect the principle under Art. 114(1) that the 
 opposition division may examine facts of its own motion (see D-V, 2.2). 
 
-#### 4.2 Decision concerning the awarding of costs by the opposition 
+#### 4.2 Decision concerning the awarding of costs by the opposition division 
 
-division 
 The opposition division will decide on requests to have the costs fixed by 
 the formalities officer reviewed (see D-II, 7 and D-IX, 2.1). 
 
@@ -18537,9 +18427,8 @@ who has been entrusted with this task of the opposition division
 After notice of opposition has been given, the formalities officer examines 
 whether any deficiencies exist. 
 
-#### 1.2.1 Deficiencies which, if not remedied, lead to the opposition 
+#### 1.2.1 Deficiencies which, if not remedied, lead to the opposition being deemed not to have been filed 
 
-being deemed not to have been filed 
 The following deficiencies fall into this category: 
 (i) 
 the opposition fee or a sufficient amount of the fee has not been paid 
@@ -18586,9 +18475,8 @@ For oppositions which, upon submission, are deemed not to have been filed
 because of deficiencies as described above, see the further procedure as 
 described in D-IV, 1.3.1, 1.3.3 and 1.4.1. 
 
-#### 1.2.2 Deficiencies which, if not remedied, lead to the opposition 
+#### 1.2.2 Deficiencies which, if not remedied, lead to the opposition being rejected as inadmissible 
 
-being rejected as inadmissible 
 Only such oppositions as are deemed to have been filed will be examined 
 for deficiencies under Rule 77(1) and (2). 
 If the formalities officers are not sure whether the opposition in question 
@@ -18799,9 +18687,8 @@ the notice of opposition fails to satisfy further formal requirements
 other than those mentioned in Rule 77(1). For instance, it may fail to 
 comply with the provisions of Rule 50(2) without due justification. 
 
-#### 1.3 Issue of communications by the formalities officer as a result of 
+#### 1.3 Issue of communications by the formalities officer as a result of examination for deficiencies 
 
-examination for deficiencies 
 If, in the course of the examination as described in D-IV, 1.2, formalities 
 officers note deficiencies which may still be remedied, and if there are no 
 deficiencies which may no longer be remedied (in the case of deficiencies 
@@ -18809,19 +18696,15 @@ which may no longer be remedied see D-IV, 1.4), they will issue the
 communications described in D-IV, 1.3.1 and/or 1.3.2 to the opponent, if 
 possible in a single communication. 
 
-#### 1.3.1 Communication in the event of deficiencies as described in 
+#### 1.3.1 Communication in the event of deficiencies as described in D-IV, 1.2.1 which, if not remedied, will lead to the opposition being deemed not to have been filed 
 
-D-IV, 1.2.1 which, if not remedied, will lead to the opposition being 
-deemed not to have been filed 
 The communication will indicate the deficiencies noted in accordance 
 with D-IV, 1.2.1 and will state that the opposition will be deemed not to 
 have been filed unless the deficiency or deficiencies are remedied within 
 the time limits indicated in D-IV, 1.2.1. 
 
-#### 1.3.2 Communication in the event of deficiencies as described in 
+#### 1.3.2 Communication in the event of deficiencies as described in D-IV, 1.2.2 which, if not remedied, will lead to rejection of the opposition as inadmissible 
 
-D-IV, 1.2.2 which, if not remedied, will lead to rejection of the 
-opposition as inadmissible 
 The communication will indicate the deficiencies noted in accordance 
 with D-IV, 1.2.2.1 or 1.2.2.2 and will state that the opposition will be 
 rejected 
@@ -18836,9 +18719,8 @@ in D-IV, 1.2.2.1 are remedied within the opposition period and unless the
 deficiencies as described in D-IV, 1.2.2.2 are remedied within the period 
 stipulated by the formalities officer. 
 
-#### 1.3.3 Extent of the formalities officer's obligation to issue the above 
+#### 1.3.3 Extent of the formalities officer's obligation to issue the above communications 
 
-communications 
 Although formalities officers are not obliged to do so, they may notify the 
 opponent of deficiencies as described in D-IV, 1.2.1(i) and D-IV, 1.2.2.1 in 
 good time before the expiry of the time limits within which it is still possible 
@@ -18864,13 +18746,10 @@ type in the notice of opposition, opponents may submit the missing
 particulars on their own initiative at any time, even after the expiry of the 
 opposition period without suffering adverse legal consequences. 
 
-#### 1.4 Subsequent procedure in the event of deficiencies which may no 
+#### 1.4 Subsequent procedure in the event of deficiencies which may no longer be remedied 
 
-longer be remedied 
+#### 1.4.1 Deficiencies which may no longer be remedied, as a result of which the opposition is deemed not to have been filed 
 
-#### 1.4.1 Deficiencies which may no longer be remedied, as a result of 
-
-which the opposition is deemed not to have been filed 
 If formalities officers establish that the deficiencies referred to in D-IV, 1.2.1 
 have not been remedied within the time limits laid down in the EPC or by 
 the EPO, they will inform the opponent in accordance with Art. 119 that the 
@@ -18887,10 +18766,8 @@ observations by third parties under Art. 115 (see in this connection D-V, 2.2
 and E-VI, 3). If a further admissible opposition is pending, the proceedings 
 are continued in respect of it. 
 
-#### 1.4.2 Deficiencies which may no longer be remedied in accordance 
+#### 1.4.2 Deficiencies which may no longer be remedied in accordance with Rule 77(1) and (2), resulting in the opposition being rejected as inadmissible 
 
-with Rule 77(1) and (2), resulting in the opposition being rejected as 
-inadmissible 
 If there are no deficiencies of the type referred to in D-IV, 1.4.1 but a notice 
 of opposition which is deemed to have been filed reveals deficiencies under 
 Rule 77(1) (see D-IV, 1.2.2.1) which may no longer be remedied and which 
@@ -18964,9 +18841,8 @@ The technical members of the division will not be designated if the
 opposition is rejected as inadmissible by the formalities officer and no 
 further admissible opposition has been filed (see D-IV, 1.4.2). 
 
-### 3. Rejection of the opposition as inadmissible by the opposition 
+### 3. Rejection of the opposition as inadmissible by the opposition division, the patent proprietor not being a party 
 
-division, the patent proprietor not being a party 
 (For rejection of the opposition as inadmissible at a later stage, the patent 
 proprietor being a party, see D-IV, 5.1 and 5.5). 
 Art. 19(2) 
@@ -19003,9 +18879,8 @@ admissible oppositions.
 For the possibility of appeal by the opponent and other possible means of 
 redress, see E-XII, 1 and E-XII, 7. 
 
-### 4. Termination of opposition proceedings in the event of 
+### 4. Termination of opposition proceedings in the event of inadmissible opposition 
 
-inadmissible opposition 
 Under Art. 101(1) and Rule 79(1), the examination as to whether the 
 European patent can be maintained can only be performed if at least one 
 admissible opposition has been filed. This means that the opposition 
@@ -19055,10 +18930,8 @@ inadmissible, possibly after having held oral proceedings. As regards the
 form of the decision, see E-X, 2.3 and E-X, 2.6. For subsequent procedure, 
 see the last two paragraphs of D-IV, 3. 
 
-#### 5.2 Invitation to the patent proprietor to submit comments and 
+#### 5.2 Invitation to the patent proprietor to submit comments and communication of opposition to the other parties concerned by the formalities officer 
 
-communication of opposition to the other parties concerned by the 
-formalities officer 
 If the formalities officer considers that for at least one opposition no 
 ex officio objection remains either to the admissibility or to a deficiency 
 mentioned in D-IV, 1.2.1, they will invite the patent proprietor to file 
@@ -19121,9 +18994,8 @@ Proprietors' observations, and any amendments they make, are
 communicated to the opponent(s) by the formalities officer without delay for 
 information. No time limit for reply is set. 
 
-#### 5.4 Communication of observations from one of the parties to the 
+#### 5.4 Communication of observations from one of the parties to the other parties 
 
-other parties 
 The formalities officer will, at any stage in the procedure, immediately 
 communicate the observations of any of the parties to the other parties for 
 information. However, copies of documents supporting the parties' 
@@ -19140,9 +19012,8 @@ Rule 81(2)
  
  
 
-#### 5.5 Decision concerning the admissibility of an opposition, the 
+#### 5.5 Decision concerning the admissibility of an opposition, the patent proprietor being a party 
 
-patent proprietor being a party 
 If the patent proprietor, when replying to the notice of opposition, contends 
 that the opposition is inadmissible pursuant to Rule 77(1) and (2) because 
 of deficiencies specified by the patent proprietor themself, the opponent 
@@ -19163,9 +19034,8 @@ decision is to be taken, which is appealable.
 An opponent whose opposition has been finally rejected as inadmissible is 
 no longer a party to the proceedings. 
 
-#### 5.6 Examination of the admissibility of an intervention and 
+#### 5.6 Examination of the admissibility of an intervention and preparations in the event of an intervention 
 
-preparations in the event of an intervention 
 When examining whether an intervention is admissible, the formalities 
 officer and the opposition division will proceed as for the examination as to 
 admissibility of an opposition (see D-IV, 1, 3 and 5.5) but on the basis of 
@@ -19411,9 +19281,8 @@ Other amendments of the description not resulting from amendments of the
 claims during opposition proceedings may be allowed under the conditions 
 laid down in H-II, 3.2. 
 
-### 6. Subject-matter of the European patent extending beyond the 
+### 6. Subject-matter of the European patent extending beyond the original disclosure 
 
-original disclosure 
 
 #### 6.1 Basis of this ground for opposition 
 
@@ -19448,8 +19317,10 @@ Art. 100(c)
 
 Part D – Chapter VI-1 
  
-## Chapter VI – Procedure for the examination of the opposition (Oral proceedings: see E-III; taking and conservation of evidence: 
-see E-IV). 
+## Chapter VI – Procedure for the examination of the opposition 
+
+(Oral proceedings: see E-III; 
+taking and conservation of evidence: see E-IV). 
 
 ###  
 
@@ -19503,9 +19374,7 @@ Rules 117 to 120
  
  
 
-### 2. Adherence to the text of the European patent submitted or 
-
-approved by the patent proprietor 
+### 2. Adherence to the text of the European patent submitted or approved by the patent proprietor 
 
 #### 2.1 Basis for the examination 
 
@@ -19585,13 +19454,10 @@ constitute decisions within the meaning of Art. 106(1) and can thus only be
 appealed together with the final decision (see T 1954/14) unless either of 
 them allows a separate appeal to be filed (see E-X, 3). 
 
-### 4. Communications from the opposition division to the patent 
+### 4. Communications from the opposition division to the patent proprietor 
 
-proprietor 
+#### 4.1 Communications from the opposition division; reasoned statement 
 
-#### 4.1 Communications from the opposition division; reasoned 
-
-statement 
 Where necessary, any communication to the patent proprietor must contain 
 a reasoned statement. This also applies to any communication to other 
 parties which is communicated to the proprietor of the patent for information 
@@ -19670,9 +19536,7 @@ evidence, may be to revoke the patent (see D-VIII, 1.2), to reject the
 opposition (see D-VIII, 1.3) or to maintain the patent as amended 
 (see D-VIII, 1.4). 
 
-#### 7.2 Preparation of a decision to maintain a European patent in 
-
-amended form 
+#### 7.2 Preparation of a decision to maintain a European patent in amended form 
 
 #### 7.2.1 Procedural requirements 
 
@@ -19735,9 +19599,8 @@ intended to maintain the patent, the opposition division will continue
 examining the opposition if it considers that the EPC prejudices the 
 maintenance of the patent in the text initially envisaged. 
 
-#### 7.2.2 Decision on the documents on the basis of which the patent is 
+#### 7.2.2 Decision on the documents on the basis of which the patent is to be maintained 
 
-to be maintained 
 If the opposition division considers that the patent can be maintained on the 
 basis of the text submitted or approved by the patent proprietor, and the 
 opponent has had sufficient opportunity to comment on this text – either in 
@@ -19770,9 +19633,8 @@ appeal proceedings. It nevertheless qualifies as a grant decision in the
 sense of G 1/10 and corrections can only be requested in the narrow ambit 
 provided for in Rule 140 (see H-VI, 3.1). 
 
-#### 7.2.3 Request for translations and a formally compliant version of 
+#### 7.2.3 Request for translations and a formally compliant version of amended text passages 
 
-amended text passages 
 Once the interlocutory decision becomes final or the amended text in which 
 the patent is to be maintained has been drawn up in opposition appeal 
 proceedings, the formalities officer requests the patent proprietor 
@@ -19996,9 +19858,8 @@ of the third party, the proceedings may not be resumed earlier than three
 months after the decision has become final, unless the third-party requests 
 resumption. 
 
-#### 4.2.2 Continuation regardless of the stage reached in national 
+#### 4.2.2 Continuation regardless of the stage reached in national proceedings 
 
-proceedings 
 When giving a decision on the stay of proceedings or thereafter, the Legal 
 Division may set a date on which it intends to continue the proceedings, 
 regardless of the stage reached in the national proceedings. 
@@ -20064,9 +19925,7 @@ The Legal Division is responsible for the procedure where the patent
 proprietor is not entitled (see the decision of the President of the EPO 
 dated 21 November 2013, OJ EPO 2013, 600). 
 
-### 5. Continuation of the opposition proceedings in the cases covered 
-
-by Rule 84 
+### 5. Continuation of the opposition proceedings in the cases covered by Rule 84 
 
 #### 5.1 Continuation in the case of surrender or lapse of the patent 
 
@@ -20344,11 +20203,11 @@ designations.
 
 Part D – Chapter VIII-1 
  
-## Chapter VIII – Decisions of the opposition division General remarks on decisions appear in E-X. 
+## Chapter VIII – Decisions of the opposition division 
 
-###  
+General remarks on decisions appear in E-X. 
 
-1. Final decisions on an admissible opposition 
+### 1. Final decisions on an admissible opposition 
 
 
 #### 1.1 General remarks 
@@ -20377,9 +20236,8 @@ Art. 101(3)(b).
 For revocation because the patent proprietor has not agreed to the text, 
 see D-VI, 2.2 and D-VIII, 1.2.5. 
 
-#### 1.2.2 Revocation for failure to file a translation or to file a formally 
+#### 1.2.2 Revocation for failure to file a translation or to file a formally compliant version of amended text passages 
 
-compliant version of amended text passages 
 Under Rule 82(2) in conjunction with (3), if the patent proprietor fails in due 
 time to: 
 (i) 
@@ -20391,9 +20249,8 @@ file a formally compliant verbatim version of the amended text
 passages (see E-III, 8.7.3), 
 the European patent will be revoked. 
 
-#### 1.2.3 Revocation for failure to notify the appointment of a new 
+#### 1.2.3 Revocation for failure to notify the appointment of a new representative 
 
-representative 
 If opposition proceedings are interrupted according to Rule 142(1)(c) and 
 the patent proprietor, who is not resident in one of the contracting states, 
 does not forward a notification of the appointment of a new representative 
@@ -20407,18 +20264,16 @@ Rule 142(3)(a)
 within the two-month period laid down in Rule 142(3)(a) (see E-VII, 1.4(i)), 
 the European patent will be revoked. 
 
-#### 1.2.4 Revocation in the event of requirements not being met until 
+#### 1.2.4 Revocation in the event of requirements not being met until after expiry of time limits 
 
-after expiry of time limits 
 In the cases referred to in D-VIII, 1.2.2 and 1.2.3, the European patent will 
 be revoked even if the omitted acts have been completed during the period 
 between expiry of the time limit and the taking of a final decision, unless a 
 request for re-establishment of rights has been filed, in which case a 
 decision must first be given on the request. 
 
-#### 1.2.5 Revocation of the patent in the event that the patent proprietor 
+#### 1.2.5 Revocation of the patent in the event that the patent proprietor no longer wishes the patent to be maintained as granted 
 
-no longer wishes the patent to be maintained as granted 
 If patent proprietors state that they no longer approve the text in which the 
 patent was granted and do not submit an amended text, the patent must be 
 revoked pursuant to Art. 101 (see T 203/14 and T 2405/12). This also 
@@ -20450,9 +20305,8 @@ the European patent as amended.
 The procedure specified in D-VI, 7.2.1 to 7.2.3 will precede the final 
 decision. 
 
-#### 1.4.2 Statement in the decision of the amended form of the European 
+#### 1.4.2 Statement in the decision of the amended form of the European patent 
 
-patent 
 The decision must state which text of the European patent forms the basis 
 for maintaining it. 
 Art. 101(2) 
@@ -20477,9 +20331,8 @@ Such decisions are dealt with in E-X, 3.
 See D-VI, 7.2.2 with reference to the maintenance of a patent with 
 amended documents. 
 
-#### 2.3 Decision on a notified loss of rights at the request of the person 
+#### 2.3 Decision on a notified loss of rights at the request of the person concerned 
 
-concerned 
 This decision is dealt with in E-VIII, 1.9.3. 
 
 #### 2.4 Decision on re-establishment of rights 
@@ -20678,9 +20531,8 @@ OJ EPO 2015, A104).
 ### 2. Examination for deficiencies in the request 
 
 
-#### 2.1 Deficiencies which lead to the request being deemed not to have 
+#### 2.1 Deficiencies which lead to the request being deemed not to have been filed 
 
-been filed 
 On receipt of a request for revocation or limitation of a patent, the 
 formalities officer will examine whether: 
 (i) 
@@ -20707,9 +20559,8 @@ Art. 105a
  
  
 
-#### 2.2 Deficiencies which, if not remedied, lead to the request being 
+#### 2.2 Deficiencies which, if not remedied, lead to the request being rejected as inadmissible 
 
-rejected as inadmissible 
 The formalities officer will furthermore examine whether: 
 (i) 
 the request is filed in writing (Rule 92(1)) 
@@ -21068,9 +20919,8 @@ include different sets of claims for different contracting states, or determine
 that the limitation is in other ways different for different contracting states. 
 Such situations could arise in two different sets of circumstances. 
 
-### 10.1 Limitation results in the claims becoming different in different 
+### 10.1 Limitation results in the claims becoming different in different contracting states 
 
-contracting states 
 The limitation could result in the claims becoming different in different 
 contracting states if the requester wishes to restrict the claims with respect 
 to one or more, but not all, contracting states in order to avoid conflict with 
@@ -21087,9 +20937,8 @@ For applications filed on or after 13.12.2007, different sets of claims can no
 longer be justified on the basis of prior art under Art. 54(3) (for transitional 
 provisions, however, see D-VII, 8). 
 
-### 10.2 Limitation is different for different contracting states because the 
+### 10.2 Limitation is different for different contracting states because the claims as granted were different for different contracting states 
 
-claims as granted were different for different contracting states 
 The limitation is different in different contracting states because the claims 
 forming the basis of the limitation procedure were different in different 
 contracting states. This situation would occur where the patent has different 
@@ -21122,10 +20971,8 @@ earlier requests for limitation.
 Rule 90 
  
  
-Part E 
- 
-Guidelines on General 
-Procedural Matters 
+# Part E  Guidelines on General Procedural Matters 
+
 
 Part E – Contents a 
  
@@ -21506,7 +21353,9 @@ Part E – Chapter II-1
  
 ## Chapter II – Communications and notifications  
 
-### 1. Communications 1.1 General remarks 
+### 1. Communications 
+
+####1.1 General remarks 
 
 Communications are sent, inter alia: 
 (i) 
@@ -21697,7 +21546,9 @@ Part E – Chapter III-1
  
 ## Chapter III – Oral proceedings  
 
-### 1. General 1.1 Introduction 
+### 1. General 
+
+### 1.1 Introduction 
 
 By "oral proceedings" is meant formal proceedings within the meaning of 
 Art. 116. The term does not include consultations such as occur in 
@@ -21834,9 +21685,8 @@ proceedings, and providing there is no valid request for oral proceedings
 from a party adversely affected by the decision envisaged, the decision 
 may be issued in writing without oral proceedings being held (T 1050/09). 
 
-#### 2.1 Request for oral proceedings by an opponent whose opposition 
+#### 2.1 Request for oral proceedings by an opponent whose opposition is to be rejected as inadmissible or is deemed not to have been filed 
 
-is to be rejected as inadmissible or is deemed not to have been filed 
 Under Art. 116(1), oral proceedings may be requested only by a party to 
 pending proceedings. If the opposition division notes deficiencies in the 
 notice of opposition under Rule 77(1), any opponent still remains a party to 
@@ -21921,9 +21771,8 @@ The time limit for submission of observations is fixed accordingly,
 particularly where the invitation to file observations is issued at the same 
 time as the summons to oral proceedings. 
 
-#### 5.1 When can a summons to oral proceedings be issued in 
+#### 5.1 When can a summons to oral proceedings be issued in substantive examination? 
 
-substantive examination? 
 See C-VIII, 5.1 for when a summons to oral proceedings can be issued in 
 examination proceedings. 
 
@@ -22085,9 +21934,8 @@ proceedings. The departments of first instance will however, circumstances
 permitting, try to be flexible where there is a request to change the starting 
 time in order to enable the party to travel on the same day. 
 
-#### 7.1.2 Change of date of oral proceedings at the instigation of the 
+#### 7.1.2 Change of date of oral proceedings at the instigation of the division 
 
-division 
 In exceptional cases the division might have to instigate the change of date 
 of oral proceedings for reasons similar to those mentioned above. The date 
 of the oral proceedings will, however, be changed only if a suitable 
@@ -22194,16 +22042,14 @@ appropriate time to the competent department and to the party or parties
 which has already been the subject of proceedings need not be read out 
 in extenso. A simple reference to such written material may suffice. 
 
-#### 8.2.1 Participation of parties and their representatives from different 
+#### 8.2.1 Participation of parties and their representatives from different locations 
 
-locations 
 A party, its representative and any persons accompanying the parties or 
 representatives, as well as witnesses and experts, may connect to the 
 videoconference from different locations. 
 
-#### 8.2.2 Participation of members of the division from different 
+#### 8.2.2 Participation of members of the division from different locations 
 
-locations 
 The members of the examining and opposition divisions may equally 
 connect to the oral proceedings by videoconference from different 
 locations. In such cases, the members of the division will deliberate and 
@@ -22251,9 +22097,8 @@ remind all participants that recording of the videoconference is prohibited.
 #### 8.3 Opening of oral proceedings; non-appearance of a party 
 
 
-#### 8.3.1 Checking the identity and authorisations of participants at oral 
+#### 8.3.1 Checking the identity and authorisations of participants at oral proceedings 
 
-proceedings 
 The division will check the ID document of one representative or authorised 
 employee of each party unless this person is personally known. For other 
 representatives, authorised employees and accompanying persons 
@@ -22623,9 +22468,8 @@ considerations as for other late-filed facts and evidence apply
 (b) 
 the submissions contribute to the resolution of the questions at issue. 
 
-#### 8.5.2 Written submissions during oral proceedings by 
+#### 8.5.2 Written submissions during oral proceedings by videoconference 
 
-videoconference 
 Where oral proceedings are held as a videoconference, documents filed 
 subsequently as referred to in Rule 50 must be filed by email 
 (OJ EPO 2020, A71, Art. 1(1)). This also applies to authorisations. 
@@ -22819,9 +22663,8 @@ paragraphs (and/or claims) is not submitted within two months from the
 notification of the communication under Rule 82(3), the patent will be 
 revoked. 
 
-#### 8.8 Use of Rule 137(4) for amendments filed during oral proceedings 
+#### 8.8 Use of Rule 137(4) for amendments filed during oral proceedings in examination 
 
-in examination 
 A communication under Rule 137(4) will not be sent in respect of 
 amendments filed during oral proceedings (see H-III, 2.1.3), since this 
 would unduly delay the procedure. Making a request under Rule 137(4) 
@@ -23766,9 +23609,7 @@ communicated to the applicant for or proprietor of the patent and the other
 parties in sufficient time to allow them to attend. They may ask relevant 
 questions. 
 
-### 3. Taking of evidence by courts or authorities of the contracting 
-
-states 
+### 3. Taking of evidence by courts or authorities of the contracting states 
 
 #### 3.1 Legal co-operation 
 
@@ -24208,12 +24049,9 @@ Rule 4(2)
 
 Part E – Chapter VI-1 
  
-## Chapter VI – Examination by the EPO of its own motion; facts, evidence or grounds not submitted in due time; observations by third 
-parties 
+## Chapter VI – Examination by the EPO of its own motion; facts, evidence or grounds not submitted in due time; observations by third parties 
 
-###  
-
-1. Examination by the EPO of its own motion 
+###  1. Examination by the EPO of its own motion 
 
 
 #### 1.1 General remarks 
@@ -24813,9 +24651,8 @@ in Rule 51(2) is in force on the date of interruption of the proceedings, it is
 suspended and begins to run again for the remaining period on the date of 
 resumption. 
 
-### 2. Stay of proceedings under Rule 14 due to pending national 
+### 2. Stay of proceedings under Rule 14 due to pending national entitlement proceedings 
 
-entitlement proceedings 
 If third parties provide evidence that they have instituted proceedings 
 against the applicant seeking a decision within the meaning of Art. 61(1), 
 the proceedings for grant are stayed unless the third parties communicate 
@@ -24823,9 +24660,8 @@ to the EPO in writing their consent to the continuation of proceedings. This
 consent is irrevocable. For further details see A-IV, 2.2 and subsections, 
 and D-VII, 4.1. 
 
-### 3. Stay of proceedings when a referral to the Enlarged Board of 
+### 3. Stay of proceedings when a referral to the Enlarged Board of Appeal is pending 
 
-Appeal is pending 
 Where a referral to the Enlarged Board of Appeal is pending and the 
 outcome of examination or opposition proceedings depends entirely on the 
 answer to the questions referred to the Enlarged Board of Appeal, the 
@@ -24884,11 +24720,7 @@ Part E – Chapter VIII-1
  
 ## Chapter VIII – Time limits, loss of rights, further and accelerated processing and re-establishment of rights 
 
-###  
-
-1. Time limits and loss of rights resulting from failure to respond 
-
-within a time limit 
+### 1. Time limits and loss of rights resulting from failure to respond within a time limit 
 
 #### 1.1 Determination of time limits 
 
@@ -24913,9 +24745,8 @@ application), a period, but not its duration, is provided for in the EPC. The
 duration must be specified by the EPO in accordance with Rule 132 
 (see E-VIII, 1.2). 
 
-#### 1.2 Duration of the periods to be specified by the EPO on the basis 
+#### 1.2 Duration of the periods to be specified by the EPO on the basis of EPC provisions 
 
-of EPC provisions 
 The length of such periods is based, in principle, on the amount of work 
 which is likely to be required to perform the operation in question (minimum 
 of two months, maximum of four months, exceptionally six months). 
@@ -26472,9 +26303,8 @@ the basis of the international application as published; any amendment
 pages not specified as replacing the corresponding pages of the 
 international publication will be taken as additional pages (see A-III, 13.2).  
 
-#### 2.1.3 Initial processing and formal examination; copy of the 
+#### 2.1.3 Initial processing and formal examination; copy of the international application 
 
-international application 
 The initial processing and formal examination of international applications 
 are carried out in the international phase by PCT authorities under the PCT. 
 Unless there is a specific request for early processing (see E-IX, 2.8), the 
@@ -26532,9 +26362,8 @@ the EPO is acting as elected Office and the IB has not yet sent it a copy of
 the international application, the ISR, the WO-ISA or the IPER with its 
 annexes. 
 
-#### 2.1.4 Translation of the international application and further 
+#### 2.1.4 Translation of the international application and further documents that are part of the international publication 
 
-documents that are part of the international publication 
 Where the international application was not published in an official 
 language of the EPO, the applicant is required, in accordance with 
 Art. 153(4) and Rule 159(1) (see also Arts. 22 and 39(1) PCT), to furnish a 
@@ -26739,9 +26568,7 @@ Art. 153(4) or in the international phase under Rule 12.3 or 12.4 PCT, may
 always be brought into conformity with the application as filed. The 
 conditions set out in A-VII, 7 apply. 
 
-#### 2.1.5 Filing fee, designation fee, search fee, request for examination 
-
-and renewal fee 
+#### 2.1.5 Filing fee, designation fee, search fee, request for examination and renewal fee 
 
 #### 2.1.5.1 Filing fee 
 
@@ -26873,10 +26700,8 @@ For general guidance on the payment of fees, see A-X. To support small
 entities and micro-entities, applicants fulfilling certain criteria are eligible for 
 fee reductions (for the eligibility criteria, see A-X, 9.2, 9.3 and 9.4). 
 
-#### 2.1.5.6 Non-payment of the filing fee, designation fee, 
+#### 2.1.5.6 Non-payment of the filing fee, designation fee, extension/validation fee, search fee, renewal fee and failure to file the request for examination 
 
-extension/validation fee, search fee, renewal fee and failure to file the 
-request for examination 
 Failure to pay in due time the filing fee, the additional fee, the search fee, 
 the designation fee or the examination fee, or to file the request for 
 examination, means that the application is deemed to be withdrawn. If the 
@@ -26924,9 +26749,8 @@ international application will not be considered as comprised in the state of
 the art under Art. 54(3) pursuant to Art. 153(5) and Rule 165 (see 
 G-IV, 5.2). 
 
-#### 2.2 Instructions in Chapter A-II ("Filing of applications and 
+#### 2.2 Instructions in Chapter A-II ("Filing of applications and examination on filing") 
 
-examination on filing") 
 The instructions in A-II, 1 ("Where and how applications may be filed") do 
 not apply to international applications, except where explicit reference is 
 made to international applications, including Euro-PCT applications. 
@@ -27479,10 +27303,7 @@ Rule 31
  
  
 
-#### 2.5 Instructions in Chapter A-VI ("Publication of application; request 
-
-for examination and transmission of the dossier to examining 
-division") 
+#### 2.5 Instructions in Chapter A-VI ("Publication of application; request for examination and transmission of the dossier to examining division") 
 
 #### 2.5.1 Publication of the international application 
 
@@ -27608,9 +27429,8 @@ due is paid (see E-IX, 3.1).
 The procedures under Rules 62a and 63 apply correspondingly to the 
 supplementary European search (see B-VIII). 
 
-#### 2.6 Reduction and refunds of fees in respect of international (PCT) 
+#### 2.6 Reduction and refunds of fees in respect of international (PCT) applications 
 
-applications 
 See A-X, 9.2, A-X, 9.3, A-X, 9.4, A-X, 9.5 and 10.2. 
 
 #### 2.7 Communication to the EPO as a designated/elected Office 
@@ -27796,10 +27616,7 @@ This waiver will be effective and no communication under Rules 161 and
 162 issued only if the applicants have taken all steps required to make its 
 issue superfluous (see E-IX, 3.1 and E-IX, 3.2 for further details). 
 
-#### 2.9 Review by the EPO as a designated/elected Office and 
-
-rectification of errors made by the receiving Office or the International 
-Bureau 
+#### 2.9 Review by the EPO as a designated/elected Office and rectification of errors made by the receiving Office or the International Bureau 
 
 #### 2.9.1 Review by the EPO under Art. 25 PCT 
 
@@ -27838,9 +27655,8 @@ the date of filing of the application the date it was originally filed with the
 PCT receiving Office and claiming the priority date of the international 
 application, as applicable. 
 
-#### 2.9.2 Review by the EPO under Art. 24 PCT and excuse of delays 
+#### 2.9.2 Review by the EPO under Art. 24 PCT and excuse of delays under Art. 48(2) PCT 
 
-under Art. 48(2) PCT 
 Pursuant to Art. 24(2) PCT, the EPO as designated/elected Office may 
 maintain the application as a European application even if this is not 
 required by virtue of Art. 25(2) PCT (see also OJ EPO 1984, 565, 
@@ -27853,9 +27669,8 @@ Art. 122 or further processing under Art. 121 (see E-VIII, 2 and E-VIII, 3) as
 the appropriate means of remedying the non-observance of a time limit 
 under the EPC. 
 
-#### 2.9.3 Rectification of errors made by the receiving Office or the 
+#### 2.9.3 Rectification of errors made by the receiving Office or the International Bureau 
 
-International Bureau 
 If the applicant proves to the satisfaction of the EPO that the international 
 filing date is incorrect owing to an error made by the receiving Office or that 
 the priority claim has been erroneously considered not to have been made, 
@@ -27902,9 +27717,8 @@ be considered not to have been furnished and the EPO will not treat the
 international application as if the international filing date had been 
 corrected. 
 
-#### 2.9.4 Determination of filing date in the case of erroneously filed 
+#### 2.9.4 Determination of filing date in the case of erroneously filed elements or parts of the international application 
 
-elements or parts of the international application 
 Rule 20.5bis PCT, which entered into force on 1 July 2020, allows 
 applicants to correct an erroneously filed element (description or claims) or 
 part of the description, claims or drawings (including all drawings) 
@@ -27997,9 +27811,8 @@ Rule 164(2)(a), the applicant may amend the application in response to the
 communication of the results of that search in accordance with 
 Rule 164(2)(b) (see C-III, 3.1 and E-IX, 4.2). 
 
-#### 3.1 Applications for which a supplementary European search report 
+#### 3.1 Applications for which a supplementary European search report is prepared 
 
-is prepared 
 Where the EPO has not drawn up an international search report (as ISA) or 
 a supplementary international search report (as the authority charged with 
 the supplementary international search (SISA)) or not issued a declaration 
@@ -28070,9 +27883,8 @@ European search report (with the corresponding search opinion) prepared
 by the EPO (see B-II, 4.3) and any reply filed in response thereto 
 (see C-II, 3.1). 
 
-#### 3.2 Applications for which no supplementary European search 
+#### 3.2 Applications for which no supplementary European search report is prepared 
 
-report is prepared 
 Where the EPO has drawn up an international search report (ISR) or a 
 supplementary international search report (SISR) or has issued a 
 declaration under Art. 17(2)(a) PCT, no supplementary European search 
@@ -28109,10 +27921,7 @@ issuing the invitation under Rule 164(2) (see C-III, 3.1), provided that the
 application is not deemed to be withdrawn. 
 In order to proceed with the examination of the application without having to 
 wait until the expiry of the six-month time limit for response, applicants may 
-explicitly waive their right to a communication pursuant to Rules 161(1) and 
-
-### 162. Provided that, on entry into the European phase, they have also 
-
+explicitly waive their right to a communication pursuant to Rules 161(1) and 162. Provided that, on entry into the European phase, they have also 
 already responded, where required, to the WO-ISA, the IPER or the SISR 
 and paid the claims fees, no communication under Rules 161 and 162 will 
 be 
@@ -28150,9 +27959,8 @@ F-VI, 3.4), an invitation to file it according to Rule 53(3) may be sent by the
 examining division only after the period according to Rule 161(1) has 
 expired (see A-III, 6.8.2). 
 
-#### 3.3 Exceptions where a reply to the Rule 161(1) invitation is not 
+#### 3.3 Exceptions where a reply to the Rule 161(1) invitation is not required 
 
-required 
 In certain cases, even though the EPO was the ISA or the SISA, the 
 applicant is not required to respond to the communication under 
 Rule 161(1). 
@@ -28280,9 +28088,8 @@ originally claimed inventions and which does not combine with these
 inventions to form a single inventive concept, an objection under 
 Rule 137(5) is raised (see also F-V, 7 and H-IV, 4). 
 
-#### 4.3 Substantive examination of a Euro-PCT application accompanied 
+#### 4.3 Substantive examination of a Euro-PCT application accompanied by an IPER 
 
-by an IPER 
 The substantive examination is conducted in the same way as with any 
 other European applications. Where the EPO was the International 
 Preliminary Examining Authority, the international preliminary examination 
@@ -28828,9 +28635,8 @@ details on how to exercise this discretion, see H-II, 2.3 and H-II, 2.7.
 If no other requests are on file, then there is no text agreed by the applicant 
 and the application is to be refused under Art. 113(2). 
 
-### 3. Decisions which do not terminate proceedings – interlocutory 
+### 3. Decisions which do not terminate proceedings – interlocutory decisions 
 
-decisions 
 A decision that does not terminate the proceedings as regards one of the 
 parties is termed an interlocutory decision. An interlocutory decision can 
 only be appealed together with the final decision unless it allows separate 
@@ -28998,16 +28804,14 @@ been adversely affected by the apportionment of costs may therefore only
 file an appeal against the decision on costs if they also lodge an appeal 
 against the decision on the opposition on other admissible grounds. 
 
-### 4. Appeals against the decision of the opposition division on the 
+### 4. Appeals against the decision of the opposition division on the fixing of costs 
 
-fixing of costs 
 In accordance with Rule 97(2), the decision of the opposition division fixing 
 the amount of costs of opposition proceedings may be appealed if the 
 amount is in excess of the fee for appeal. 
 
-### 5. Persons entitled to appeal and to be parties to appeal 
+### 5. Persons entitled to appeal and to be parties to appeal proceedings 
 
-proceedings 
 Any party to proceedings adversely affected by a decision may appeal. Any 
 other parties to the proceedings are parties to the appeal proceedings as of 
 right. 
@@ -29268,9 +29072,8 @@ examining division and would thus be allowable. There can be no
 interlocutory revision since the applicant has the right to have the main 
 request examined by the boards of appeal. 
 
-#### 7.4.4 Response to communication pursuant to Rule 58 filed with the 
+#### 7.4.4 Response to communication pursuant to Rule 58 filed with the appeal 
 
-appeal 
 If, in response to the Receiving Section's refusal of the application pursuant 
 to Art. 90(5), the related deficiencies are fully rectified so as to overcome 
 the grounds for refusal, interlocutory revision is granted by the Receiving 
@@ -29719,9 +29522,8 @@ Rule 22(2)
 Rule 23(2) 
  
  
-Part F 
- 
-The European Patent Application 
+# Part F  The European Patent Application 
+
 
 Part F – Contents a 
  
@@ -30089,10 +29891,7 @@ search report (see B-X, 7(i)).
 
 #### 2.7 Abstract in examination 
 
-The general considerations relating to the abstract are set out in F-II, 2.1 to 
-
-### 2.6. The abstract relates to the application as filed and published, and its 
-
+The general considerations relating to the abstract are set out in F-II, 2.1 to 2.6. The abstract relates to the application as filed and published, and its 
 final form for publication is determined by the search division. It does not 
 have to be brought it into conformity with the content of the published 
 patent, even if this differs in substance from that of the application, since 
@@ -30604,14 +30403,12 @@ sequences of the protein.
 #### 6.2 Sequences that need to be itemised in the sequence listing 
 
 
-#### 6.2.1 Requirements relating to sequence length and enumeration of 
+#### 6.2.1 Requirements relating to sequence length and enumeration of residues 
 
-residues 
 As defined in paragraph 7 of WIPO Standard ST.26, a sequence must be 
 included in the sequence listing if: 
 
-### 1. it is disclosed anywhere in the application by enumeration of its 
-
+1. it is disclosed anywhere in the application by enumeration of its 
 residues, i.e. by listing, in order, each residue of the sequence as 
 defined 
 in 
@@ -30623,8 +30420,7 @@ ST.26
 (e.g. 
 aagtgttcctagtg) and  
 
-### 2. it contains 10 or more specifically defined nucleotides or four or more 
-
+2. it contains 10 or more specifically defined nucleotides or four or more 
 specifically defined amino acids. 
 According to WIPO Standard ST.26, "specifically defined" residues are any 
 nucleotide other than those represented by the symbol "n" and any amino 
@@ -30652,9 +30448,8 @@ residues between positions 90 and 179, then paragraph 7 of WIPO
 Standard ST.26 would apply and the partial sequence would have to be 
 included in the sequence listing. 
 
-#### 6.2.2 Sequences comprising residues that are not specifically 
+#### 6.2.2 Sequences comprising residues that are not specifically defined (n or X) 
 
-defined (n or X) 
 If an enumerated sequence comprises regions of specifically defined 
 residues separated by one or more gaps of n or X, i.e. residues that are not 
 specifically defined, the representation of this sequence in the sequence 
@@ -30863,8 +30658,8 @@ Rule 48(2) and
 Part F – Chapter II-16 
  
  
-Annex 1 
-Checklist for considering the abstract (see F-II, 2.5) 
+## Annex 1 Checklist for considering the abstract (see F-II, 2.5) 
+
 In the following checklist, the abstractor should, after studying the 
 disclosure to be abstracted, place a check mark in the column next to the 
 applicable item listed in the first column. They should bear in mind the 
@@ -30938,9 +30733,7 @@ WIPO, Geneva (CH).
 
 Part F – Chapter II-17 
  
-Annex 2 
-Units recognised in international practice as determined by the 
-President under Rule 49(2) (see F-II, 4.13)* 
+## Annex 2 Units recognised in international practice as determined by the President under Rule 49(2) (see F-II, 4.13)* 
 
 ### 1. SI units and their decimal multiples and submultiples 
 
@@ -30991,10 +30784,7 @@ when expressed in the unit J s, which is equal to kg m2 s–1, where the metre
 and the second are defined in terms of c and ΔνCs.  
 – Unit of electric current 
 The ampere, symbol A, is the SI unit of electric current. It is defined by 
-taking the fixed numerical value of the elementary charge e to be 
-
-### 1.602 176 634 × 10–19 when expressed in the unit C, which is equal to A s, 
-
+taking the fixed numerical value of the elementary charge e to be 1.602 176 634 × 10–19 when expressed in the unit C, which is equal to A s, 
 where the second is defined in terms of ΔνCs. 
 – Unit of thermodynamic temperature 
 The kelvin, symbol K, is the SI unit of thermodynamic temperature. It is 
@@ -31027,9 +30817,8 @@ efficacy of monochromatic radiation of frequency 540 × 1012 Hz, Kcd, to be
 kg–1 m–2 s3, where the kilogram, metre and second are defined in terms of 
 h, c and ΔνCs. 
 
-#### 1.1.1 Special name and symbol of the SI derived unit of temperature 
+#### 1.1.1 Special name and symbol of the SI derived unit of temperature for expressing Celsius temperature 
 
-for expressing Celsius temperature 
 Quantity 
 Unit 
  
@@ -31197,9 +30986,8 @@ In particular, derived SI units may be expressed by the special names and
 symbols given in the above table. For example, the SI unit of dynamic 
 viscosity may be expressed as m-1.kg.s-1 or N.s.m-2 or Pa.s. 
 
-#### 1.3 Prefixes and their symbols used to designate certain decimal 
+#### 1.3 Prefixes and their symbols used to designate certain decimal multiples and submultiples 
 
-multiples and submultiples 
 Factor 
 Prefix 
 Symbol 
@@ -31278,9 +31066,8 @@ numerator or the denominator, or in both these parts.
 Compound prefixes, that is to say prefixes formed by the juxtaposition of 
 several of the above prefixes, may not be used. 
 
-#### 1.4 Special authorised names and symbols of decimal multiples and 
+#### 1.4 Special authorised names and symbols of decimal multiples and submultiples of SI units 
 
-submultiples of SI units 
 Quantity 
 Unit 
  
@@ -31309,9 +31096,7 @@ The two symbols "l" and "L" may be used for the litre unit.
 The prefixes and their symbols listed in F-II, Annex 2, 1.3 may be used in 
 conjunction with the units and symbols contained in this table. 
 
-### 2. Units which are defined on the basis of SI units but are not 
-
-decimal multiples or submultiples thereof 
+#### 2. Units which are defined on the basis of SI units but are not decimal multiples or submultiples thereof 
 Quantity 
 Unit 
  
@@ -31351,9 +31136,8 @@ The prefixes listed in F-II, Annex 2, 1.3 may only be used in conjunction
 with the names "grade" or "gon" and the symbols only with the symbol 
 "gon". 
 
-### 3. Units used with the SI, and whose values in SI are obtained 
+#### 3. Units used with the SI, and whose values in SI are obtained experimentally 
 
-experimentally 
 The unified atomic mass unit is 1/12 of the mass of an atom of the 
 nuclide 12C. 
 The electronvolt is the kinetic energy acquired by an electron passing 
@@ -31576,9 +31360,8 @@ structure, an objection is raised not only under Art. 83 but also under
 Art. 52(1) in that the invention is not "susceptible of industrial application" 
 (see G-III, 1). 
 
-### 4. Burden of proof in relation to the possibility of performing and 
+### 4. Burden of proof in relation to the possibility of performing and repeating the invention 
 
-repeating the invention 
 Although the burden of proof in relation to sufficiency of disclosure lies, as a 
 rule, with the party raising the objection, this principle does not apply to 
 cases where the application as filed does not provide a single example or 
@@ -32482,9 +32265,8 @@ defining (chemical or non-chemical) alternatives, i.e. referred to as a
 alternatives are of a similar nature and can fairly be substituted for one 
 another (see F-V, 3.2.5). 
 
-#### 3.8 Independent claims containing a reference to another claim or to 
+#### 3.8 Independent claims containing a reference to another claim or to features from a claim of another category 
 
-features from a claim of another category 
 A claim containing a reference to another claim is not necessarily a 
 dependent claim as defined in Rule 43(4). One example of this is a claim 
 referring to a claim of a different category (e.g. "Apparatus for carrying out 
@@ -32566,9 +32348,8 @@ method step defines the use of specific data processing means or other
 technical devices. Inventions that are realised in a distributed computing 
 environment are discussed in F-IV, 3.9.3. 
 
-#### 3.9.1 Cases where all method steps can be fully implemented by 
+#### 3.9.1 Cases where all method steps can be fully implemented by generic data processing means 
 
-generic data processing means 
 A common type of CII relates to subject-matter where all the method steps 
 can fully be carried out by computer program instructions running on means 
 which, in the context of the invention, provide generic data processing 
@@ -32695,9 +32476,8 @@ For further information on data structures, see G-II, 3.6.3.
 For the assessment of inventive step for claims comprising features related 
 to exclusions under Art. 52(2), as is often the case with CII, see G-VII, 5.4. 
 
-#### 3.9.2 Cases where method steps define additional devices and/or 
+#### 3.9.2 Cases where method steps define additional devices and/or specific data processing means 
 
-specific data processing means 
 Where a method claim includes steps defined as being carried out by 
 devices other than generic data processing means, a corresponding device 
 and/or computer program claim may need more than a mere reference to 
@@ -32739,8 +32519,7 @@ to the principles defined in F-IV, 4.5 and subsections, taking due account of
 implicit features (F-IV, 4.5.4). 
 Example 1 
 
-### 1. A method of determining oxygen saturation in blood in a pulse 
-
+1. A method of determining oxygen saturation in blood in a pulse 
 oximeter, comprising: 
 – 
 receiving in an electromagnetic detector first and second 
@@ -32753,16 +32532,13 @@ B and C to provide normalised electromagnetic signals;
 determining oxygen saturation based on said normalised 
 electromagnetic signals according to steps D and E. 
 
-### 2. A pulse oximeter having an electromagnetic detector and means 
-
+2. A pulse oximeter having an electromagnetic detector and means 
 adapted to execute the steps of the method of claim 1. 
 
-### 3. A computer program [product] comprising instructions to cause the 
-
+3. A computer program [product] comprising instructions to cause the 
 device of claim 2 to execute the steps of the method of claim 1. 
 
-### 4. A computer-readable medium having stored thereon the computer 
-
+4. A computer-readable medium having stored thereon the computer 
 program of claim 3. 
 Remarks: In this example, the method claim comprises a step which is 
 defined as being executed by specific technical means (the electromagnetic 
@@ -32778,8 +32554,7 @@ oximeter with an electromagnetic detector (by referring to the device of
 claim 2) rather than only referring to the method claim 1. 
 Example 2 
 
-### 1. A computer-implemented method of determining oxygen saturation in 
-
+1. A computer-implemented method of determining oxygen saturation in 
 blood, comprising: 
 – 
 receiving data representing first and second electromagnetic 
@@ -32793,17 +32568,16 @@ according to steps A, B and C to provide normalised data;
 determining oxygen saturation based on said normalised data 
 according to steps D and E. 
 
-### 2. A data processing apparatus comprising means for carrying out the 
+2. A data processing apparatus comprising means for carrying out the 
 
 method of claim 1. 
 
-### 3. A computer program [product] comprising instructions which, when 
+3. A computer program [product] comprising instructions which, when 
 
 the program is executed by a computer, cause the computer to carry 
 out the method of claim 1. 
 
-### 4. A computer-readable medium having stored thereon the computer 
-
+4. A computer-readable medium having stored thereon the computer 
 program [product] of claim 3. 
 Remarks: In this example, the invention lies in the further processing of 
 acquired data for determining the oxygen saturation in blood. The data can 
@@ -32818,9 +32592,8 @@ program claim can be executed on a general-purpose computer and not on
 a specific device, in contrast to the case in Example 1. As a result, the 
 formulations as in F-IV, 3.9.1 are appropriate for claims 2-4 of Example 2. 
 
-#### 3.9.3 Cases where the invention is realised in a distributed 
+#### 3.9.3 Cases where the invention is realised in a distributed computing environment
 
-computing environment 
 Another common type of CII is realised in a distributed computing 
 environment. Examples are a networked client (e.g. a smartphone) and 
 server system, accessing storage or processing resources of a computer 
@@ -32857,29 +32630,24 @@ examples can also be part of the claim set but have been omitted for
 reasons of brevity. 
 Example 
 
-### 1. A transmitter device comprising means for encoding data by 
-
+1. A transmitter device comprising means for encoding data by 
 performing steps A and B and means to transmit the encoded data to 
 a receiver device. 
 
-### 2. A receiver device comprising means for receiving encoded data from 
-
+2. A receiver device comprising means for receiving encoded data from 
 a transmitter device and means for decoding the data by performing 
 steps C and D. 
 
-### 3. A system comprising a transmitter device according to claim 1 and a 
-
+3. A system comprising a transmitter device according to claim 1 and a 
 receiver device according to claim 2. 
 
-### 4. A computer program [product] comprising instructions which, when 
-
+4. A computer program [product] comprising instructions which, when 
 the program is executed by a first computer, cause the first computer 
 to encode data by performing steps A and B and to transmit the 
 encoded data to a second computer. 
 
-### 5. A computer program [product] comprising instructions which, when 
-
-the program is executed by a second computer, cause the second 
+5. A computer program [product] comprising instructions which, when 
+the program is executed by a second computer, cause the second
 Part F – Chapter IV-16 
  
  
@@ -33310,9 +33078,8 @@ any context an elastic material can be anything from rubber to diamond.
 #### 4.7 Terms such as "about", "approximately" or "substantially" 
 
 
-#### 4.7.1 Interpretation of terms such as "about", "approximately" or 
+#### 4.7.1 Interpretation of terms such as "about", "approximately" or "substantially" 
 
-"substantially" 
 Where terms such as "about" or "approximately" are applied to a particular 
 value (e.g. "about 200°C" or "approximately 200°C") or to a range 
 (e.g. "about x to approximately y"), the value or range is interpreted as 
@@ -33611,9 +33378,8 @@ allegedly distinguishing "product-by-process" feature lies with the applicant.
 ### 4.13 Interpretation of expressions stating a purpose 
 
 
-### 4.13.1 Interpretation of expressions such as "Apparatus for ...", 
+### 4.13.1 Interpretation of expressions such as "Apparatus for ...", "Product for ... " 
 
-"Product for ... " 
 If a claim commences with such words as "Apparatus for carrying out the 
 process ...", this must be construed as meaning merely apparatus suitable 
 for carrying out the process. An apparatus which otherwise possesses all of 
@@ -33780,9 +33546,8 @@ For example, in the case of a claim directed to a single entity, the first entit
 is "connectable" to the second entity; in the case of a claim directed to a 
 combination of entities the first entity is "connected" to the second entity. 
 
-### 4.14.2 Dimensions and/or shape defined by reference to another 
+### 4.14.2 Dimensions and/or shape defined by reference to another entity 
 
-entity 
 It may be allowable to define the dimensions and/or shape of a first entity in 
 an independent claim by general reference to the dimensions and/or 
 corresponding shape of a second entity which is not part of the claimed first 
@@ -34049,9 +33814,8 @@ claim must also be an independent claim. Consequently, where these
 independent claims are of the same category, an objection may also be 
 raised under Rule 43(2) (see F-IV, 3.2 and 3.3). 
 
-### 4.24 Interpretation of terms such as identity and similarity in relation 
+### 4.24 Interpretation of terms such as identity and similarity in relation to amino or nucleic acid sequences 
 
-to amino or nucleic acid sequences 
 Amino acid or nucleic acid sequences can be defined by a percentage of 
 identity. The percentage of identity determines the number of identical 
 residues over a defined length in a given alignment. If no algorithm or 
@@ -34286,8 +34050,8 @@ that the claim sets out a particular embodiment of the invention
 
 Part F – Chapter IV-43 
  
-Annex 
-Examples of essential features 
+## Annex Examples of essential features 
+
 Example 1 
 Claim 1 relates to a method for storing gel-coated seeds having a gel coat 
 comprising an aqueous gel having been made water-insoluble by a metal 
@@ -34804,13 +34568,13 @@ part of all of these inventions at the same time.
 Example 1  
 An application contains two independent claims and one dependent claim: 
 
-### 1. A device comprising feature A. 
+1. A device comprising feature A. 
 
 
-### 2. A device comprising feature B. 
+2. A device comprising feature B. 
 
 
-### 3. A device comprising features A and B. 
+3. A device comprising features A and B. 
 
 In this example, independent claims 1 and 2 are not linked by a single 
 general inventive concept; features A and B are neither the same nor 
@@ -34828,18 +34592,15 @@ second invention (see F-V, 2.2, F-V, 3.4, B-VII, B-III, 3.8).
 Example 2 
 An application comprises the following claims:  
 
-### 1. A device comprising feature A.  
+1. A device comprising feature A.  
 
+2. A device according to claim 1, further comprising feature B. 
 
-### 2. A device according to claim 1, further comprising feature B. 
-
-
-### 3. A device according to any of the previous claims, further comprising 
-
+3. A device according to any of the previous claims, further comprising 
 feature C.  
 Claim 3 is thus directed to the following subject-matter:  
 
-### 3. A device that is either:  
+3. A device that is either:  
 
 (a) 
 a device comprising features A and C; or  
@@ -34925,9 +34686,8 @@ Claims covering different alternative nucleic acids or proteins defined by
 different sequences are equally considered to represent a Markush 
 grouping and are also analysed according to the above principles. 
 
-#### 3.2.6 Claims for a known substance for a number of distinct medical 
+#### 3.2.6 Claims for a known substance for a number of distinct medical uses 
 
-uses 
 For the particular case of claims for a known substance for a number of 
 distinct medical uses, see G-VI, 6.1. 
 
@@ -35156,12 +34916,10 @@ application may be necessary (see C-III, 3.3 and F-IV, 4.3).
 Non-searched subject-matter can always be prosecuted in a divisional 
 application. 
 Part F – Chapter V-16 
- 
- 
 
-### 5. Procedure in the case of lack of unity during substantive 
 
-examination 
+
+### 5. Procedure in the case of lack of unity during substantive examination 
 
 #### 5.1 General principles 
 
@@ -35672,16 +35430,14 @@ Note: the dates used are merely illustrative; they do not take account of the
 fact that the filing offices of the EPO are closed on weekends and certain 
 public holidays. 
 
-#### 2.4.1 Intermediate publication of the contents of the priority 
+#### 2.4.1 Intermediate publication of the contents of the priority application 
 
-application 
 P is the application from which priority is claimed by EP, D is the disclosure 
 of the subject-matter of P. 
 
-### 1.1.90 1.5.90 
+1.1.90 1.5.90 
 
-
-### 1.6.90 Filing 
+1.6.90 Filing 
 
 Publication 
 Filing 
@@ -35698,13 +35454,11 @@ EP2 claims priority. EP1 and EP2 are filed by different applicants.
  
  
 
-### 1.2.89 1.1.90 
+1.2.89 1.1.90 
 
+1.2.90 1.8.90 
 
-### 1.2.90 1.8.90 
-
-
-### 1.1.91 Filing 
+1.1.91 Filing 
 
 Filing 
 Filing 
@@ -35725,15 +35479,13 @@ and P2 are valid. This does not change if EP1 is published after EP2's date
 of filing. The publication of EP1 is state of the art under Art. 54(2) if the 
 priority claim of P2 is not valid. 
 
-#### 2.4.3 Multiple priorities claimed for different inventions in the 
+#### 2.4.3 Multiple priorities claimed for different inventions in the application with an intermediate publication of one of the inventions 
 
-application with an intermediate publication of one of the inventions 
 EP claims priority of P1 and P2, D is the disclosure of A+B. 
 
-### 1.1.90 1.2.90 
+1.1.90 1.2.90 
 
-
-### 1.3.90 1.6.90 
+1.3.90 1.6.90 
 
 Filing 
 Publication 
@@ -35757,19 +35509,14 @@ subject-matter. Thus, publication D is state of the art under Art. 54(2) for
 that claim (see G 3/93). It is immaterial whether claim 2 is in the form of a 
 dependent or independent claim. 
 
-#### 2.4.4 Where it is necessary to check whether the application from 
+#### 2.4.4 Where it is necessary to check whether the application from which priority is actually claimed is the "first application" within the meaning of Art. 87(1) 
 
-which priority is actually claimed is the "first application" within the 
-meaning of Art. 87(1) 
 P1 is the earliest application of the same applicant containing the invention. 
 EP claims the priority of the later US application P2, which is a 
 "continuation-in-part" of P1. D is a public disclosure of A+B.  
 
-### 1.7.89 1.1.90 
-
-
-### 1.6.90 1.12.90 
-
+1.7.89 1.1.90 
+1.6.90 1.12.90 
 Filing 
 Filing 
 Publication 
@@ -35941,9 +35688,8 @@ Art. 122
 Rule 136(1) 
  
  
-Part G 
- 
-Patentability 
+# Part G  Patentability 
+
 
 Part G – Contents a 
  
@@ -36628,9 +36374,7 @@ product of that process. A substance or composition defined by technical
 features serving to produce a special effect with regard to scent or flavour, 
 e.g. to preserve it for longer or to accentuate it, is likewise not excluded. 
 
-#### 3.5 Schemes, rules and methods for performing mental acts, playing 
-
-games or doing business 
+#### 3.5 Schemes, rules and methods for performing mental acts, playing games or doing business 
 
 #### 3.5.1 Schemes, rules and methods for performing mental acts 
 
@@ -36782,11 +36526,8 @@ complex, are usually considered non-technical.
 Highly interactive gameplay such as in video games involves technical 
 means for sensing user input, updating the game state and outputting 
 visual, audio or haptic information. Features defining such presentations of 
-information and user interfaces are assessed as described in G-II, 3.7 and 
-
-### 3.7.1. Cognitive content that informs the player about the current game 
-
-status at a non-technical level, e.g. about a game score, the arrangement 
+information and user interfaces are assessed as described in G-II, 3.7 and 3.7.1.
+Cognitive content that informs the player about the current game status at a non-technical level, e.g. about a game score, the arrangement 
 and suits of playing cards, the status and attributes of a game character, is 
 regarded as non-technical information. The same goes for instructions 
 presented on game boards or cards, e.g. "go back to square one". An 
@@ -37073,9 +36814,8 @@ resulting from modified development objects contributes to producing the
 further technical effect of limiting the resources needed for a particular 
 build. 
 
-#### 3.6.2 Information modelling, activity of programming and 
+#### 3.6.2 Information modelling, activity of programming and programming languages 
 
-programming languages 
 Information modelling is an intellectual activity devoid of technical 
 character and typically carried out by a systems analyst in a first stage of 
 software development to provide a formal description of a real-world 
@@ -37964,9 +37704,8 @@ quantities) from the living human or animal body (e.g. X-ray investigations,
 MRI studies, and blood pressure measurements) are not excluded from 
 patentability under Art. 53(c). 
 
-#### 4.2.2 Methods for screening potential medicaments and clinical 
+#### 4.2.2 Methods for screening potential medicaments and clinical trials 
 
-trials 
 In general, a medical claim directed to tests carried out on "animals" must 
 exclude from its scope the use of human beings as "test animals" (e.g. by 
 means of a disclaimer). However, in some infrequent cases, a claim may 
@@ -38242,9 +37981,8 @@ Also excluded from patentability under Art. 53(a) are processes to produce
 chimeras from germ cells or totipotent cells of humans and animals 
 (EU Dir. 98/44/EC, rec. 38). 
 
-#### 5.4 Plant and animal varieties or essentially biological processes for 
+#### 5.4 Plant and animal varieties or essentially biological processes for the production of plants or animals 
 
-the production of plants or animals 
 The list of exceptions to patentability under Art. 53(b) also includes "plant or 
 animal varieties or essentially biological processes for the production of 
 plants or animals". 
@@ -38417,9 +38155,8 @@ For instance, a claim directed to a hybrid of a specific deposited Brassica
 variety with any high-yielding Brassica variety results in a non-patentable 
 Brassica hybrid variety. 
 
-#### 5.4.2 Essentially biological processes for the production of plants or 
+#### 5.4.2 Essentially biological processes for the production of plants or animals 
 
-animals 
 A process for the production of plants or animals which is based on the 
 sexual crossing of whole genomes and on the subsequent selection of 
 plants or animals is considered to be essentially biological and so excluded 
@@ -39117,9 +38854,8 @@ and
 A-III, 11.1 and 11.3 for transitional arrangements concerning non-payment 
 of designation fees for applications filed before 1 April 2009). 
 
-#### 5.1.2 Accorded date of filing and content of the application still 
+#### 5.1.2 Accorded date of filing and content of the application still subject to review 
 
-subject to review 
 The prior art considered by the examiner may comprise documents 
 (European or international patent applications) whose accorded date of 
 filing and content on the date of filing are still being reviewed by the EPO, 
@@ -39232,13 +38968,10 @@ required or suggested (see also H-III, 4.4). However, if the claims have
 been amended, amending the description and drawings is to be required if 
 necessary to avoid confusion. 
 
-### 7. State of the art made available to the public "by means of a 
+### 7. State of the art made available to the public "by means of a written or oral description, by use, or in any other way" 
 
-written or oral description, by use, or in any other way" 
+#### 7.1 Types of use and instances of state of the art made available in any other way 
 
-#### 7.1 Types of use and instances of state of the art made available in 
-
-any other way 
 Use can take the form of producing, offering, marketing or otherwise 
 exploiting a product, of offering or marketing a process or its application or 
 of applying the process. Marketing can take the form, for example, of a sale 
@@ -39434,9 +39167,8 @@ from an evident abuse in relation to the applicant or that party's legal
 predecessor. On determining whether evident abuse has occurred, 
 see G-V, 3. 
 
-#### 7.3.3 Matters to be determined by the division in cases of oral 
+#### 7.3.3 Matters to be determined by the division in cases of oral description 
 
-description 
 Once again, the following details will have to be determined: 
 (i) 
 when the oral description took place 
@@ -39459,9 +39191,8 @@ basis and depends on the quality of the evidence in each case. However,
 evidence from the lecturer alone is usually not a sufficient basis for 
 determining the content of the oral disclosure. 
 
-#### 7.4 State of the art made available to the public in writing and/or by 
+#### 7.4 State of the art made available to the public in writing and/or by any other means 
 
-any other means 
 For this state of the art, details equivalent to those listed in G-IV, 7.3.3 have 
 to be determined if they are not clear from the written or other disclosure 
 itself or if they are contested by a party. 
@@ -40083,20 +39814,17 @@ Art. 82
 Part G – Chapter VI-4 
  
  
-# 
+ 
 Claim 
 Patentable? 
 Article 
 B 
-
-### 1. Product X for use as 
-
+1. Product X for use as 
 a medicament 
 [X known as 
 e.g. herbicide] 
 
-### 2. Product according to 
-
+2. Product according to 
 claim 1 for use in the 
 treatment of asthma 
 Yes 
@@ -40273,8 +40001,7 @@ Part G – Chapter VI-7
  
 ... because ... 
 
-### 1. Substance X or 
-
+1. Substance X or 
 Composition 
 comprising X in/for 
 a method for the 
@@ -40296,8 +40023,7 @@ whether the claim is
 limited by the medical 
 use  
 
-### 2. (Anti-inflammatory) 
-
+2. (Anti-inflammatory) 
 medicament, or 
 Pharmaceutical 
 comprising substance X, 
@@ -40318,14 +40044,13 @@ specified use or whether
 the claim is limited by the 
 medical use 
 
-### 3. Substance X or 
+3. Substance X or 
 
 Composition 
 comprising X 
 as an 
 anti-inflammatory 
 agent 
- 
 without the term "for use" 
 it is not evident whether 
 the claim is directed to 
@@ -40335,8 +40060,7 @@ whether the claim is
 limited by the medical 
 use 
 
-### 4. Substance X or 
-
+4. Substance X or 
 Composition 
 comprising X 
 for use as an 
@@ -40425,15 +40149,12 @@ directed to a product per se which is suitable for the claimed use.
 The following table shows some examples of claims which do not define a 
 diagnostic use within the meaning of Art. 53(c). 
 
-### 1. Substance X or Composition 
-
-comprising X  
+1. Substance X or Composition comprising X  
 for use in the diagnosis of disease Y, 
 or for use in the "in vitro"/"ex vivo" 
 diagnosis of disease Y 
 
-### 2. Substance X or Composition 
-
+2. Substance X or Composition 
 comprising X 
 for use as a contrast agent for imaging 
 blood flow 
@@ -41145,9 +40866,8 @@ during the analysis (T 756/06).
 The examples in G-VII, 5.4.2.1 to 5.4.2.4 illustrate the application of the 
 COMVIK approach. 
 
-#### 5.4.1 Formulation of the objective technical problem for claims 
+#### 5.4.1 Formulation of the objective technical problem for claims comprising technical and non-technical features 
 
-comprising technical and non-technical features 
 The objective technical problem must be a technical problem which the 
 skilled person in the particular technical field might have been asked to 
 solve at the relevant date. It must not be formulated in such a way as to 
@@ -41868,9 +41588,8 @@ application of that insight may both involve using inventive faculty.
 ### 10. Secondary indicators 
 
 
-### 10.1 Predictable disadvantage; non-functional modification; arbitrary 
+### 10.1 Predictable disadvantage; non-functional modification; arbitrary choice 
 
-choice 
 If an invention is the result of a foreseeable disadvantageous modification 
 of the closest prior art which the skilled person could clearly predict and 
 correctly assess, and if this predictable disadvantage is not accompanied 
@@ -42028,15 +41747,13 @@ applicable. The list is also not exhaustive.
 Part G – Chapter VII-26 
  
  
-Annex 
-Examples relating to the requirement of inventive step – indicators 
+## Annex Examples relating to the requirement of inventive step – indicators 
 
 ### 1. Application of known measures? 
 
 
-#### 1.1 Inventions which involve the application of known measures in an 
+#### 1.1 Inventions which involve the application of known measures in an obvious way and for which inventive step is therefore to be ruled out. 
 
-obvious way and for which inventive step is therefore to be ruled out. 
 (i) 
 The teaching of a prior-art document is incomplete and at least one 
 of the possible ways of "filling the gap" which would naturally or 
@@ -42078,10 +41795,8 @@ known.
 Part G – Chapter VII-27 
  
 
-#### 1.2 Inventions which involve the application of known measures in a 
+#### 1.2 Inventions which involve the application of known measures in a non-obvious way and for which inventive step is therefore to be recognised. 
 
-non-obvious way and for which inventive step is therefore to be 
-recognised. 
 (i) 
 A known working method or means when used for a different 
 purpose has a new, surprising effect. 
@@ -42136,9 +41851,8 @@ the known properties of the active substances.
 ### 3. Obvious selection? 
 
 
-#### 3.1 Obvious and consequently non-inventive selection from among a 
+#### 3.1 Obvious and consequently non-inventive selection from among a number of known possibilities. 
 
-number of known possibilities. 
 (i) 
 The invention consists merely in choosing from a number of equally 
 likely alternatives. 
@@ -42214,9 +41928,8 @@ exhibiting the expected enhanced insecticidal effect, it proves also to
 have the unexpected effect of being selective, i.e. of killing some 
 insects but not others. 
 
-#### 3.2 Not obvious and consequently inventive selection from among a 
+#### 3.2 Not obvious and consequently inventive selection from among a number of known possibilities. 
 
-number of known possibilities. 
 (i) 
 The invention involves special selection in a process of particular 
 operating conditions (e.g. temperature and pressure) within a known 
@@ -42263,9 +41976,8 @@ shield the drink from the outside air (because none are in fact necessary)
 would therefore be inventive.  
  
  
-Part H 
- 
-Amendments and Corrections 
+# Part H  Amendments and Corrections 
+
 
 Part H – Contents a 
  
@@ -42643,9 +42355,8 @@ examining division that the application as filed disclosed this feature directly
 and unambiguously, the examining division will normally not admit under 
 Rule 137(3) any further set of claims containing the feature in question. 
 
-#### 2.3.1.3 Rule 137(3) in conjunction with Art. 84 – missing essential 
+#### 2.3.1.3 Rule 137(3) in conjunction with Art. 84 – missing essential feature 
 
-feature 
 The examining division has raised an objection under Art. 84 that the 
 claims are missing an essential feature (see F-IV, 4.5). 
 Unless the applicant is able to demonstrate to the satisfaction of the 
@@ -42821,9 +42532,8 @@ decide on a request for amendments or corrections under Rule 139 if the
 filing of the request and the completion of the proceedings occur on the 
 same date (T 798/95). 
 
-#### 2.7 Late-filed requests after summons to oral proceedings in 
+#### 2.7 Late-filed requests after summons to oral proceedings in examination 
 
-examination 
 If requests are filed after the final date set in accordance with Rule 116(1), 
 they are usually treated as late-filed unless a summons to oral proceedings 
 was issued as the first action of the examining division. Another exception 
@@ -42990,9 +42700,8 @@ E-VI, 2.2 (examples concerning oral proceedings).
 For admissibility of amendments in the limitation procedure, reference is 
 made to D-X, 4 and D-X, 10. 
 
-### 5. Amendments required by a limitation of the search under Rule 62a 
+### 5. Amendments required by a limitation of the search under Rule 62a and/or Rule 63 
 
-and/or Rule 63 
 Where the search was limited to certain subject-matter by application of 
 Rule 63 (see B-VIII, 3.1 and 3.2), the claims must be amended in such a 
 way as to remove the unsearched subject-matter and the description 
@@ -43122,9 +42831,8 @@ Part H – Chapter II-13
 #### 6.4 Further procedural aspects concerning Euro-PCT applications 
 
 
-#### 6.4.1 Where the EPO does not perform a supplementary European 
+#### 6.4.1 Where the EPO does not perform a supplementary European search 
 
-search 
 Where the EPO does not perform a supplementary European search, the 
 application must be limited to an invention searched either in the 
 international phase by the EPO or in the European phase in a search under 
@@ -43257,9 +42965,8 @@ Art. 94(4)
 Part H – Chapter III-3 
  
 
-#### 2.1.2 Amendments withdrawn or superseded in the Rule 137(4) 
+#### 2.1.2 Amendments withdrawn or superseded in the Rule 137(4) period 
 
-period 
 If the applicant replies in time to the Rule 137(4) communication by 
 withdrawing the amendments in respect of which the communication was 
 sent but without identifying those amendments or indicating their basis in 
@@ -43345,9 +43052,8 @@ Euro-PCT applications for which the international search report is
 drawn up by the EPO acting as International Searching Authority on 
 or after 1 April 2010 (Art. 153(6); see also E-IX, 3.4). 
 
-#### 2.2 Amendment by submitting missing documents or by filing 
+#### 2.2 Amendment by submitting missing documents or by filing replacement pages 
 
-replacement pages 
 The content of a European patent application or patent may be amended 
 within the limits laid down in Art. 123(2) and (3). (For the conditions 
 governing amendments, see also A-V, 2, H-II, H-IV, H-V and D-V, 6.) This 
@@ -43494,9 +43200,8 @@ search (see, however, B-VIII, 3.2.2 and B-VIII, 4.2.2).
 #### 3.3 In examination proceedings 
 
 
-#### 3.3.1 Indication of the amendments made in the requests and of their 
+#### 3.3.1 Indication of the amendments made in the requests and of their basis 
 
-basis 
 Where requests (main and/or auxiliary) are filed in examination 
 proceedings and the applicant does not identify the amendments and/or 
 does not indicate the basis for them in the application as filed, a 
@@ -43814,9 +43519,8 @@ different descriptions and drawings.
 For the application of Rules 80 and 138 in opposition proceedings, 
 see H-III, 4.2, H-III, 4.4 and H-III, 4.5. 
 
-#### 4.2 Different text in respect of the state of the art according to 
+#### 4.2 Different text in respect of the state of the art according to Art. 54(3) EPC and Art. 54(4) EPC 1973 
 
-Art. 54(3) EPC and Art. 54(4) EPC 1973 
 If the EPO notes that in respect of one or more of the designated 
 contracting states the content of an earlier European patent application 
 forms part of the state of the art pursuant to Art. 54(3), two situations can 
@@ -43847,13 +43551,10 @@ provision in the EPC 2000 corresponding to Rule 23a EPC 1973.
 Consequently, the possibility of having different texts for different 
 contracting states on the basis of Art. 54(3) no longer exists. 
 
-#### 4.3 Different text where a transfer of right takes place pursuant to 
+#### 4.3 Different text where a transfer of right takes place pursuant to Art. 61 or Rule 78 in respect of certain designated states 
 
-Art. 61 or Rule 78 in respect of certain designated states 
+#### 4.3.1 Different text where a transfer of right takes place pursuant to Art. 61 in examination proceedings 
 
-#### 4.3.1 Different text where a transfer of right takes place pursuant to 
-
-Art. 61 in examination proceedings 
 If by a final decision pursuant to Art. 61 it is adjudged that a third party is 
 entitled to the grant of a European patent, the original European patent 
 application must contain, "where appropriate", for the designated 
@@ -43868,9 +43569,8 @@ recognised on the basis of the Protocol on Recognition, claims, a
 description and drawings which are different from those for the other 
 designated contracting states (see also H-III, 4.1 and C-IX, 2). 
 
-#### 4.3.2 Different texts where a transfer of the patent in respect of 
+#### 4.3.2 Different texts where a transfer of the patent in respect of certain designated states takes place in opposition proceedings 
 
-certain designated states takes place in opposition proceedings 
 Where a third party has, in accordance with Art. 99(4), replaced the 
 previous proprietor for one or some of the designated contracting states 
 (see D-I, 6, third paragraph), the patent as maintained in opposition 
@@ -43879,10 +43579,8 @@ drawings which are different from those for the other designated contracting
 states (see also D-VII, 3.2). However, Rule 80 applies to amendments by 
 each of the proprietors. 
 
-#### 4.3.3 Opposition cases with different texts where a transfer of rights 
+#### 4.3.3 Opposition cases with different texts where a transfer of rights by virtue of a final decision pursuant to Art. 61 takes place in examination proceedings 
 
-by virtue of a final decision pursuant to Art. 61 takes place in 
-examination proceedings 
 The substance of H-III, 4.3.2 applies mutatis mutandis (see also D-I, 6, 
 third paragraph and D-VII, 3.2). 
 
@@ -43933,9 +43631,8 @@ lines:
 voluntarily limited the scope of the application /patent for... (contracting 
 state) by submitting separate claims for this (these) state(s)." 
 
-#### 4.5 Opposition proceedings where the claims as granted are 
+#### 4.5 Opposition proceedings where the claims as granted are different for different contracting states 
 
-different for different contracting states 
 Where a patent has been granted with different sets of claims for the 
 reasons set out in H-III, 4.2 to H-III, 4.4, the proprietor might wish to bring 
 the claims into line either by applying a limitation already introduced for one 
@@ -44030,9 +43727,8 @@ Furthermore, the assessment of the requirements of Art. 123(2) is made
 from the standpoint of the skilled person on a technical and reasonable 
 basis, avoiding artificial and semantic constructions (T 99/13). 
 
-#### 2.2.1 Features described in a document cross-referenced in the 
+#### 2.2.1 Features described in a document cross-referenced in the description 
 
-description 
 Features which are not disclosed in the description of the invention as 
 originally filed but which are only described in a cross-referenced document 
 which is identified in such description are prima facie not within "the content 
@@ -44070,9 +43766,8 @@ date of publication of the application under Art. 93 (e.g. by being
 present in the application dossier and therefore made public under 
 Art. 128(4)). 
 
-#### 2.2.2 Missing parts of the description or missing drawings filed 
+#### 2.2.2 Missing parts of the description or missing drawings filed under Rule 56 after the date of filing 
 
-under Rule 56 after the date of filing 
 Rule 56 allows the applicant to file missing drawings or parts of the 
 description subsequently, and to rely on the priority document in order to 
 avoid redating of the application to the date of filing of the missing parts. 
@@ -44088,9 +43783,8 @@ Missing parts of the description and/or missing drawings allowed under
 Rule 56(3) are always considered to be part of the application documents 
 "as originally filed". 
 
-#### 2.2.3 Erroneously filed application documents or parts under 
+#### 2.2.3 Erroneously filed application documents or parts under Rule 56a 
 
-Rule 56a 
 Rule 56a allows the applicant to file correct application documents or parts 
 if wrong application documents or parts have been filed erroneously. Under 
 Rule 56a(4) the applicant can rely on the priority document to avoid 
@@ -44196,9 +43890,7 @@ examining division needs to be particularly careful to ascertain that the
 amendment does not conflict with Art. 123(2). The composition of a trade-
 marked product may have changed over time. 
 
-#### 2.3 Content of the application as "originally" filed – special 
-
-applications 
+#### 2.3 Content of the application as "originally" filed – special applications 
 
 #### 2.3.1 Applications filed by reference to an earlier application 
 
@@ -44306,9 +43998,8 @@ division needs to compare the text of the amended claims with the claims of
 the patent as granted or as amended in opposition or earlier limitation 
 proceedings, whichever claims are the most recent in force. 
 
-#### 3.4 Assessment of impermissible extension of the protection 
+#### 3.4 Assessment of impermissible extension of the protection conferred 
 
-conferred 
 In view of the above considerations, all amendments made to claims and 
 any connected amendments to the description and drawings in the course 
 of opposition proceedings, such as a change in the technical features of the 
@@ -44913,9 +44604,8 @@ may relate to either a physical entity or an activity.
 #### 4.2 Disclaimers not disclosed in the application as originally filed 
 
 
-#### 4.2.1 The subject-matter to be excluded is not disclosed in the 
+#### 4.2.1 The subject-matter to be excluded is not disclosed in the application as originally filed (so-called undisclosed disclaimers) 
 
-application as originally filed (so-called undisclosed disclaimers) 
 Limiting the scope of a claim by using a "disclaimer" to exclude a technical 
 feature not disclosed in the application as filed may be allowable under 
 Art. 123(2) in the following cases (see G 1/03 and G 1/16 and F-IV, 4.20): 
@@ -44989,9 +44679,8 @@ In the interest of the patent's transparency, the excluded prior art must be
 indicated in the description in accordance with Rule 42(1)(b) and the 
 relation between the prior art and the disclaimer must be shown. 
 
-#### 4.2.2 The subject-matter to be excluded is disclosed in the 
+#### 4.2.2 The subject-matter to be excluded is disclosed in the application as originally filed 
 
-application as originally filed 
 The test to be applied is whether the subject-matter remaining in the claim 
 after the introduction of the disclaimer is, be it explicitly or implicitly, directly 
 and unambiguously disclosed in the application as filed to the skilled 
@@ -45347,10 +45036,8 @@ that the skilled person would have immediately recognised that an
 ASTM standard with a six-digit number did not exist before the 
 priority date of a patent (T 881/02). 
 
-#### 2.2.2 Missing parts of description, missing drawings or correction of 
+#### 2.2.2 Missing parts of description, missing drawings or correction of erroneously filed application documents filed as corrections under Rule 139 
 
-erroneously filed application documents filed as corrections under 
-Rule 139 
 The applicant may also request that missing parts of the description and/or 
 missing drawings be included in the application documents by way of a 
 correction according to Rule 139. In virtually all cases this will not be 
@@ -45456,9 +45143,8 @@ In accordance with the decision of the President of the EPO dated
 23 November 2015 (OJ EPO 2015, A104), requests for the correction of 
 errors in bibliographic data are dealt with by formalities officers. 
 
-#### 3.3 Correction of the decision to grant while opposition proceedings 
+#### 3.3 Correction of the decision to grant while opposition proceedings are pending – procedural aspects 
 
-are pending – procedural aspects 
 Even during opposition proceedings, the examining division is competent to 
 correct errors in its decision to grant, in particular errors in the decision's 
 reasoning and bibliographic data, or formatting/editing errors in the text of 
@@ -45578,8 +45264,8 @@ OJ EPO 2015, A104).
 April 2025 
 Computer-Implemented Inventions – 1 
  
-Index for Computer-Implemented 
-Inventions 
+# Index for Computer-Implemented Inventions 
+
 A computer-implemented invention (CII) is one which involves the use of a computer, computer 
 network or other programmable apparatus, where one or more features are realised wholly or 
 partly by means of a computer program. 
@@ -45678,8 +45364,8 @@ F-II, 4.12 Computer programs
 April 2025 
 Alphabetical keyword index - 1 
  
-Guidelines for Examination 
-Alphabetical keyword index 
+# Guidelines for Examination Alphabetical keyword index 
+
 The Alphabetical keyword index is added for the convenience of the reader; it does not form part of 
 the Guidelines. 
 A 
