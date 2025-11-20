@@ -1,5 +1,0 @@
-cleaning CLB:
-- removing headers
-- assigning page numbers to table of content entries. Format: TOC entry \t\t reference page number 
-- removing page numbers
-- abbreviations pagination. Format: Abbreviation \t Meaning
