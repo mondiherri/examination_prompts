@@ -2,5 +2,10 @@ Novelty:
 - Add prompt for long prior art documents.  
 Patty tends to not read the details of the document if the document is long or repeats embodiments as may be the case in some patent publications.
 
+
+https://arxiv.org/pdf/2511.09030
+Find a way to make use of massively decomposed agentic processes (MDAPs), with the human examiner and a single LLM chat...
+
+
 Rework:
 README.md
