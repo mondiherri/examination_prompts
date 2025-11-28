@@ -17,7 +17,7 @@ At the moment, the RAG sources of Patty are :
 - For LLM retrieval precision and efficiency, I have extracted and cleaned (removal of page headers) the text of the Case Law pdf into a markdown file which can be found in [/legal_basis/case_law_2025.md](https://github.com/mondiherri/examination_prompts/blob/main/legal_basis/case_law_2025.md)
 - Enlarged Board of Appeal decision G1/19, https://www.epo.org/en/boards-of-appeal/decisions/g190001ex1
 - Enlarged Board of Appeal decision G1/23, https://www.epo.org/en/boards-of-appeal/decisions/g230001ex1
-- Enlarged Board of Appeal decision G1/24, https://www.epo.org/en/boards-of-appeal/decisions/g240001ex1
+- Enlarged Board of Appeal decision G1/24, https://www.epo.org/en/boards-of-appeal/decisions/g240001ex1  
   The selection of G decisions is based on my personal needs.
 
 
