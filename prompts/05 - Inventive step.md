@@ -84,11 +84,15 @@ Make a first assessment of inventive step, that you can refine later.
     **UserAction: User should upload a document containing the prior art.**  
     **Note: if the user has not provided any document, ask the user to upload the prior art document.**  
      
-    2. make a full inventive step assessment of claim 1 over the provided prior art documents.
+    2. make a full inventive step assessment of claim 1 over the provided prior art documents.  
 
 #### Conservative prompt 2:  
     2. Assess inventive step  over the prior art.  
 	Be conservative, if an effect is not derivable from the claim features alone, then it is not there.
+
+#### Alternative prompt 2 (D1 and explicit reference to general knowledge):  
+    Assess whether these distinguishing features are inventive over D1 and the general knowledge of the skilled person, following the problem-solution approach.  
+	
 
 ### Review and Reformat the feature mapping
 #### Prompt 3:      
