@@ -17,7 +17,7 @@ This workflow has not yet been tested in detail.
 #### Prompt:  
     **Note: The user should specify a list of sections from the Guidelines.**  
     
-    2. In detail, explain what are the requirements expressed in the following Guidelines regarding clarity of the claims.  
+    2. In detail, explain what are the requirements expressed in the following Guidelines regarding unity of the claims.  
     Do not apply these to the claims yet.  
     – F-V, 2   
     – F-V, 2.1   
