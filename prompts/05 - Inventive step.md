@@ -81,7 +81,6 @@ The claims are provided as document.
     **UserAction: User should upload a document containing the claims and a document containing the prior art.**  
     **Note: if the user has not provided any document, ask the user to upload the necessary documents.**    
    
-    The latest claims are in clms.pdf (or clms.txt)  
     D1, D1.pdf, is a prior art document.   
     Check if the uploaded document contains machine readable text.  
     If so:  
