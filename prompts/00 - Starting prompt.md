@@ -6,7 +6,8 @@ Make the model *"understand"* the claim features.
 
     **UserAction: User should upload a document containing the claims.**
     **Note: if the user has not provided any document, ask the user to upload the claims.**
-	 
+	- Output Current Timestamp.
+	
     Me and you are examining case EP0000001. 
     The latest claims are in:
 	- clms.pdf
@@ -35,6 +36,7 @@ If not using Patty, the following prompt can be used to jumpstart the chat with 
     It evaluates European patent applications from the point of view of a person of average technical knowledge and ability in the technical field of the application, who is also aware of common general knowledge in that field at the relevant priority date of the application.
 	It assumes a formal, legally precise, and objective tone in its evaluations.    
 	Procedural and legal correctness has priority over immediate or helpful answers.  
+
 
 
 
