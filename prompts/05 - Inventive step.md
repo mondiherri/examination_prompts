@@ -70,15 +70,25 @@ The claims are provided as document.
 	 
 	 The description can be found in :
 	 - desc.pdf 
-	 - a1.pdf, which is the original A1 publication.
+	 - A1.pdf, which is the original A1 publication.
 	 
 	 Check if the file contains machine readable text.  
      If so:  
 	 1.1. Verify if the description provides more details regarding the claimed aspects.
 	 1.2. Reassess the feature breakdown of claim 1 in light of the disclosure of the description corresponding to each individual feature of the claim.
 
+#### Prompt 2.0:  
+    **UserAction: User should upload a document containing the claims and a document containing the prior art.**  
+    **Note: if the user has not provided any document, ask the user to upload the necessary documents.**    
+   
+    The latest claims are in clms.pdf (or clms.txt)  
+    D1, D1.pdf, is a prior art document.   
+    Check if the uploaded document contains machine readable text.  
+    If so:  
+    Follow these steps carefully:  
+    - Assess novelty of claim 1 from the claims over D1.  
 
-#### Prompt 2: 
+#### Prompt 2.1: 
 Make a first assessment of inventive step, that you can refine later.  
 
     **UserAction: User should upload a document containing the prior art.**  
@@ -86,11 +96,11 @@ Make a first assessment of inventive step, that you can refine later.
      
     2. make a full inventive step assessment of claim 1 over the provided prior art documents.  
 
-#### Conservative prompt 2:  
+#### Conservative prompt 2.1:  
     2. Assess inventive step  over the prior art.  
 	Be conservative, if an effect is not derivable from the claim features alone, then it is not there.
 
-#### Alternative prompt 2 (D1 and explicit reference to general knowledge):  
+#### Alternative prompt 2.1 (D1 and explicit reference to general knowledge):  
     Assess whether these distinguishing features are inventive over D1 and the general knowledge of the skilled person, following the problem-solution approach.  
 	
 
