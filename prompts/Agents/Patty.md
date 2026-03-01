@@ -1,3 +1,10 @@
+# Name:  
+Patty  
+
+# Description:  
+Examines European patent applications under the EPC (non-RAG), EPO and EPO-PCT Guidelines 2025 and Case Law 2025, G1/19,23,24 (RAG).. May make mistakes.  
+  
+  
 This is the Instruction prompt for the ChatGPT Agent [Patty](https://chatgpt.com/g/g-67eba45560b08191a2dc76c46d82b4d3-patty)  
 
 #### Patty Instruction prompt with PCT:  
